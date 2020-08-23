@@ -1,0 +1,791 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="A&amp;E">
+    <display-name lang="es">A&amp;E</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="A&amp;E HD">
+    <display-name lang="es">A&amp;E HD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="AMC">
+    <display-name lang="es">AMC</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="AMC HD">
+    <display-name lang="es">AMC HD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Animal Planet">
+    <display-name lang="es">Animal Planet</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Antena 3">
+    <display-name lang="es">Antena 3</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="es">AXN</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="AXN HD">
+    <display-name lang="es">AXN HD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="AyM Sports">
+    <display-name lang="es">AyM Sports</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Az Clic">
+    <display-name lang="es">Az Clic</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Az Corazón">
+    <display-name lang="es">Az Corazón</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Az Mundo">
+    <display-name lang="es">Az Mundo</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Azteca 7">
+    <display-name lang="es">Azteca 7</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Azteca 7 HD">
+    <display-name lang="es">Azteca 7 HD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Bandamax">
+    <display-name lang="es">Bandamax</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="BBC Entertainment">
+    <display-name lang="es">BBC Entertainment</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="BBC HD">
+    <display-name lang="es">BBC HD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Boomerang">
+    <display-name lang="es">Boomerang</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Canal 2">
+    <display-name lang="es">Canal 2</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Canal 2 HD">
+    <display-name lang="es">Canal 2 HD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Canal 22">
+    <display-name lang="es">Canal 22</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Canal 4 Guadalajara">
+    <display-name lang="es">Canal 4 Guadalajara</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Canal 5">
+    <display-name lang="es">Canal 5</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Canal 5 HD">
+    <display-name lang="es">Canal 5 HD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Canal 52MX">
+    <display-name lang="es">Canal 52MX</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Canal Capital 21">
+    <display-name lang="es">Canal Capital 21</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Cartoon Network">
+    <display-name lang="es">Cartoon Network</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="CBeebies">
+    <display-name lang="es">CBeebies</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Cine Latino">
+    <display-name lang="es">Cine Latino</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Cinecanal (W)">
+    <display-name lang="es">Cinecanal (W)</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Cinecanal HD">
+    <display-name lang="es">Cinecanal HD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Cinemax (O)">
+    <display-name lang="es">Cinemax (O)</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Cinemax (W)">
+    <display-name lang="es">Cinemax (W)</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="ClaroSports">
+    <display-name lang="es">ClaroSports</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="CNN en español">
+    <display-name lang="es">CNN en español</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Comedy Central">
+    <display-name lang="es">Comedy Central</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Comedy Central HD">
+    <display-name lang="es">Comedy Central HD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="De Película">
+    <display-name lang="es">De Película</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="De Película HD">
+    <display-name lang="es">De Película HD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="De Película Multiplex">
+    <display-name lang="es">De Película Multiplex</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Discovery Channel">
+    <display-name lang="es">Discovery Channel</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Discovery Civilization">
+    <display-name lang="es">Discovery Civilization</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Discovery Kids">
+    <display-name lang="es">Discovery Kids</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Discovery Science">
+    <display-name lang="es">Discovery Science</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Discovery Theater HD">
+    <display-name lang="es">Discovery Theater HD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Discovery Turbo">
+    <display-name lang="es">Discovery Turbo</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Discovery World HD">
+    <display-name lang="es">Discovery World HD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Disney Channel">
+    <display-name lang="es">Disney Channel</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Disney Jr">
+    <display-name lang="es">Disney Jr</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Disney XD">
+    <display-name lang="es">Disney XD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Distrito Comedia">
+    <display-name lang="es">Distrito Comedia</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="E! Entertainment Television">
+    <display-name lang="es">E! Entertainment Television</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="EfektoTV">
+    <display-name lang="es">EfektoTV</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="El Financiero Bloomberg">
+    <display-name lang="es">El Financiero Bloomberg</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="El Gourmet">
+    <display-name lang="es">El Gourmet</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="El Trece">
+    <display-name lang="es">El Trece</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="El trece HD">
+    <display-name lang="es">El trece HD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="ESPN">
+    <display-name lang="es">ESPN</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="ESPN +">
+    <display-name lang="es">ESPN +</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="ESPN 2">
+    <display-name lang="es">ESPN 2</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="ESPN 3">
+    <display-name lang="es">ESPN 3</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="ESPN 3 HD">
+    <display-name lang="es">ESPN 3 HD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="ESPN HD">
+    <display-name lang="es">ESPN HD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Eurochannel">
+    <display-name lang="es">Eurochannel</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Europa Europa">
+    <display-name lang="es">Europa Europa</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Excelsior TV">
+    <display-name lang="es">Excelsior TV</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Film&amp;Arts">
+    <display-name lang="es">Film&amp;Arts</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Foro TV">
+    <display-name lang="es">Foro TV</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Foro TV HD">
+    <display-name lang="es">Foro TV HD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Fox">
+    <display-name lang="es">Fox</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Fox 1 (E)">
+    <display-name lang="es">Fox 1 (E)</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Fox 1 (W)">
+    <display-name lang="es">Fox 1 (W)</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Fox 1 HD">
+    <display-name lang="es">Fox 1 HD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Fox Action (E)">
+    <display-name lang="es">Fox Action (E)</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Fox Action (W)">
+    <display-name lang="es">Fox Action (W)</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Fox Action HD">
+    <display-name lang="es">Fox Action HD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Fox Cinéma">
+    <display-name lang="es">Fox Cinéma</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Fox Classics">
+    <display-name lang="es">Fox Classics</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Fox Family (E)">
+    <display-name lang="es">Fox Family (E)</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Fox Family (W)">
+    <display-name lang="es">Fox Family (W)</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Fox Family Hd">
+    <display-name lang="es">Fox Family Hd</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Fox Life">
+    <display-name lang="es">Fox Life</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Fox Movies">
+    <display-name lang="es">Fox Movies</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Fox Movies HD">
+    <display-name lang="es">Fox Movies HD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Fox NatGeo HD">
+    <display-name lang="es">Fox NatGeo HD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Fox News">
+    <display-name lang="es">Fox News</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Fox News HD">
+    <display-name lang="es">Fox News HD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Fox Sports">
+    <display-name lang="es">Fox Sports</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Fox Sports 2">
+    <display-name lang="es">Fox Sports 2</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Fox Sports 2 HD">
+    <display-name lang="es">Fox Sports 2 HD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Fox Sports 3">
+    <display-name lang="es">Fox Sports 3</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Fox Sports HD">
+    <display-name lang="es">Fox Sports HD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="FX">
+    <display-name lang="es">FX</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="FX HD">
+    <display-name lang="es">FX HD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Gala tv">
+    <display-name lang="es">Gala tv</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Gala TV HD">
+    <display-name lang="es">Gala TV HD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Glitz">
+    <display-name lang="es">Glitz</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Golden">
+    <display-name lang="es">Golden</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Golden Choice Multiplex">
+    <display-name lang="es">Golden Choice Multiplex</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Golden Edge">
+    <display-name lang="es">Golden Edge</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Golden HD">
+    <display-name lang="es">Golden HD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Golf Channel">
+    <display-name lang="es">Golf Channel</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="H2">
+    <display-name lang="es">H2</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="HBO (E)">
+    <display-name lang="es">HBO (E)</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="HBO (W)">
+    <display-name lang="es">HBO (W)</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="HBO 2">
+    <display-name lang="es">HBO 2</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="HBO Family (E)">
+    <display-name lang="es">HBO Family (E)</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="HBO HD">
+    <display-name lang="es">HBO HD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="HBO Plus (E)">
+    <display-name lang="es">HBO Plus (E)</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="HBO Plus (W)">
+    <display-name lang="es">HBO Plus (W)</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="HBO Signature">
+    <display-name lang="es">HBO Signature</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="History Channel">
+    <display-name lang="es">History Channel</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="History HD">
+    <display-name lang="es">History HD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Home and Health">
+    <display-name lang="es">Home and Health</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Home and Health HD">
+    <display-name lang="es">Home and Health HD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="HTV">
+    <display-name lang="es">HTV</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="I.Sat">
+    <display-name lang="es">I.Sat</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Imagen Televisión">
+    <display-name lang="es">Imagen Televisión</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Investigación Discovery">
+    <display-name lang="es">Investigación Discovery</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Lifetime">
+    <display-name lang="es">Lifetime</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Más chic">
+    <display-name lang="es">Más chic</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="MAX">
+    <display-name lang="es">MAX</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Max Prime (E)">
+    <display-name lang="es">Max Prime (E)</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Max Prime (W)">
+    <display-name lang="es">Max Prime (W)</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Max Up">
+    <display-name lang="es">Max Up</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="MC">
+    <display-name lang="es">MC</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Milenio TV">
+    <display-name lang="es">Milenio TV</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="MTV">
+    <display-name lang="es">MTV</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="MTV Live HD">
+    <display-name lang="es">MTV Live HD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="MuchMusic">
+    <display-name lang="es">MuchMusic</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Multimedios Monterrey">
+    <display-name lang="es">Multimedios Monterrey</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Multipremier">
+    <display-name lang="es">Multipremier</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Mundo Fox">
+    <display-name lang="es">Mundo Fox</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="NatGeo">
+    <display-name lang="es">NatGeo</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="NatGeo Wild">
+    <display-name lang="es">NatGeo Wild</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="NatGeo Wild HD">
+    <display-name lang="es">NatGeo Wild HD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="NFL Network">
+    <display-name lang="es">NFL Network</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="NFL Network HD">
+    <display-name lang="es">NFL Network HD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="NHK">
+    <display-name lang="es">NHK</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Nick HD">
+    <display-name lang="es">Nick HD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Nick Jr">
+    <display-name lang="es">Nick Jr</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Nickelodeon (Nick)">
+    <display-name lang="es">Nickelodeon (Nick)</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Nicktoons">
+    <display-name lang="es">Nicktoons</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Nu Music">
+    <display-name lang="es">Nu Music</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Once TV">
+    <display-name lang="es">Once TV</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Pánico">
+    <display-name lang="es">Pánico</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Paramount Channel">
+    <display-name lang="es">Paramount Channel</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Platino">
+    <display-name lang="es">Platino</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Proyecto 40">
+    <display-name lang="es">Proyecto 40</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Proyecto 40 HD">
+    <display-name lang="es">Proyecto 40 HD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="RAI">
+    <display-name lang="es">RAI</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Ritmoson Latino">
+    <display-name lang="es">Ritmoson Latino</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Sony">
+    <display-name lang="es">Sony</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Sony HD">
+    <display-name lang="es">Sony HD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Space">
+    <display-name lang="es">Space</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Space HD">
+    <display-name lang="es">Space HD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Studio Universal">
+    <display-name lang="es">Studio Universal</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="SyFy">
+    <display-name lang="es">SyFy</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="TBS">
+    <display-name lang="es">TBS</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="TCM">
+    <display-name lang="es">TCM</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="TDN">
+    <display-name lang="es">TDN</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="TDN HD">
+    <display-name lang="es">TDN HD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="TeleFórmula">
+    <display-name lang="es">TeleFórmula</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Telehit">
+    <display-name lang="es">Telehit</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Telehit HD">
+    <display-name lang="es">Telehit HD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Telemundo">
+    <display-name lang="es">Telemundo</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Televisión Mexiquense">
+    <display-name lang="es">Televisión Mexiquense</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="The Film Zone (E)">
+    <display-name lang="es">The Film Zone (E)</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="The Film Zone (W)">
+    <display-name lang="es">The Film Zone (W)</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="The Film Zone HD">
+    <display-name lang="es">The Film Zone HD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="TIIN">
+    <display-name lang="es">TIIN</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="TLC">
+    <display-name lang="es">TLC</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Tlnovelas">
+    <display-name lang="es">Tlnovelas</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="TNT">
+    <display-name lang="es">TNT</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="TNT HD">
+    <display-name lang="es">TNT HD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="TNT Series">
+    <display-name lang="es">TNT Series</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Tooncast">
+    <display-name lang="es">Tooncast</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="TruTV">
+    <display-name lang="es">TruTV</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="TruTV HD">
+    <display-name lang="es">TruTV HD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="TV 5">
+    <display-name lang="es">TV 5</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="TV Globo">
+    <display-name lang="es">TV Globo</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="TV UNAM">
+    <display-name lang="es">TV UNAM</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="TVC">
+    <display-name lang="es">TVC</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="TVC Cine Mexicano">
+    <display-name lang="es">TVC Cine Mexicano</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="TVC Deportes">
+    <display-name lang="es">TVC Deportes</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="TVC PLATINO 2">
+    <display-name lang="es">TVC PLATINO 2</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="TVE">
+    <display-name lang="es">TVE</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Unicable">
+    <display-name lang="es">Unicable</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Unicable HD">
+    <display-name lang="es">Unicable HD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Universal Channel">
+    <display-name lang="es">Universal Channel</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Universal HD">
+    <display-name lang="es">Universal HD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Univisión TDN">
+    <display-name lang="es">Univisión TDN</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="VH1">
+    <display-name lang="es">VH1</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="VH1 HD">
+    <display-name lang="es">VH1 HD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Warner Channel">
+    <display-name lang="es">Warner Channel</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="Warner HD">
+    <display-name lang="es">Warner HD</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+  <channel id="WOBI TV">
+    <display-name lang="es">WOBI TV</display-name>
+    <url>http://www.entutele.com</url>
+  </channel>
+</tv>
