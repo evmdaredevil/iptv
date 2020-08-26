@@ -135,6 +135,9 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2147&f=HLSAD&s=ze
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRVqbrS/Nickelodeon.png" group-title="Animación",NICKTOONS
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1708&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/_C8Dpr9s51ug/TAlqb5Ha4aI/AAAAAAAABaU/Of3TKoGmEnQ/s1600/nickla.png" group-title=""Animación",NICK (PLUTO)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=ef3ebd75-05aa-4f7e-b1bf-250819c2c37e&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceDNT=0&userId=&advertisingId=&deviceLat=25.8295&deviceLon=-80.2927&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9HMLbWc/Nick-Jr.png" group-title="Animación",NICK JR
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=117&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
@@ -159,6 +162,12 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1984&f=HLSAD&s=ze
 #EXTINF:-1 tvg-logo="https://i.ibb.co/55Cc54Q/Baby-TV.png" group-title="Animación",BABY TV
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=116&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/9e/9eade70e9e2ce547623cb2ed29170b1d.jpeg" group-title="Animación",ANIME (PLUTO)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=5e9beaf8-7fad-4454-9cc6-676b48311488&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceDNT=0&userId=&advertisingId=&deviceLat=32.4041&deviceLon=-116.8198&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://www.techgames.com.mx/wp-content/uploads/2020/05/Pluto-TV-anime-accion-800x360.jpg" group-title="Animación", SHONEN (PLUTO)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=e382aac4-0de8-4051-b8b1-ff7d32c3709a&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceDNT=0&userId=&advertisingId=&deviceLat=32.4041&deviceLon=-116.8198&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kKCb2P3/Bit-Me.png" group-title="Animación",BIT ME
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2591&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
@@ -176,6 +185,9 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=121&f=HLSAD&s=zec
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RBHzKdk/Az-Cinema.png" group-title="Cine",AZTECA CINEMA
 http://roedor.xyz/SrRegio-Ag/tp.php?c=1787&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1 tvg-logo="https://s3.castbox.fm/29/e1/43/98e45d48d39a208a4d9dd5c2f0.png" group-title="Cine",CINE LATINO*
+http://roedor.xyz/REGIO2O2O/mc.php?c=23&f.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VL0CqRZ/Golden.png" group-title="Cine",GOLDEN
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=123&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
@@ -247,9 +259,6 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=57&f=HLSAD&s=zecp
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=132&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c8k7fW0/AMC-2.png" group-title="Cine",AMC
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=131&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/c8k7fW0/AMC-2.png" group-title="Cine",AMC (2)
 http://roedor.xyz/SrRegio-Ag/tp.php?c=328&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NnXggFN/Cine-Canal.png" group-title="Cine",CINECANAL
@@ -297,10 +306,10 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=77&f=HLSAD&s=zecp
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QvBd668/FX-2.png" group-title="Entretenimiento",FX
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=60&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QvBd668/FX-2.png" group-title="Entretenimiento",FX (2)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QvBd668/FX-2.png" group-title="Entretenimiento",FX HD
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=209&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QvBd668/FX-2.png" group-title="Entretenimiento",FX HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QvBd668/FX-2.png" group-title="Entretenimiento",FX HD (2)
 http://roedor.xyz/SrRegio-Ag/tp.php?c=209&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kV5t7Dg.png" group-title="Entretenimiento",Frecuencia Musical
@@ -308,6 +317,9 @@ https://595b85410a151.streamlock.net:443/8056/8056/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kV5t7Dg.png" group-title="Entretenimiento",Frecuencia Musical (2)
 http://streaminglivehd.com:1935/8056/8056/playlist.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.wowway.com/assets/img/WOW_Logo_only.png" group-title="SpecialS", Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0Xkh1nr/Discovery-H-H.png" group-title="Entretenimiento",DISCOVERY H&H
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=96&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
@@ -645,6 +657,8 @@ http://roedor.xyz/SrRegio-Ag/tp.php?c=192&p=3&k=srregio&f=.m3u8
 #EXTINF:-1  group-title="24/7 en español",*** Canales 24/7 en español ***
 https://fluxustv.blogspot.com@bit.ly/FluxusFireplace?.mp4
 
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.oXKcWpXr-Ff4Z_BkUiMIowHaDa&pid=Api&P=0&w=360&h=167" group-title="24/7 en español",TMNT (US)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=1b6f7d56-8787-4e86-99ad-8a3c6ba2c6e0&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 #EXTINF:-1 tvg-logo="" group-title="24/7 en español",Alf*
 http://roedor.xyz/REGIO2O2O/mc.php?c=278&f=.m3u8
 #EXTINF:-1 tvg-logo="" group-title="24/7 en español",Animaniacs*
@@ -686,8 +700,137 @@ http://roedor.xyz/REGIO2O2O/mc.php?c=309&f=.m3u8
 #EXTINF:-1 tvg-logo="" group-title="24/7 en español",Thundercats*
 http://roedor.xyz/REGIO2O2O/mc.php?c=311&f=.m3u8
 
+#EXTINF:-1  group-title="LatAm",*** Canales Latinoamérica ***
+https://fluxustv.blogspot.com@bit.ly/FluxusFireplace?.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgsqyh9Yw9y4IepPqB8C116Ltz9WvvpXkwsqtfCDlIZx-JjzlO" group-title="LatAm",NET TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/947370100490895361/aKkq8IYy_400x400.jpg" group-title="LatAm", Multivision Salta
+http://panel.dattalive.com:1935/8250/8250/chunklist_w836342637.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/3.png" group-title="LatAm", Canal 26
+http://200.115.193.177/live/26hd-720/chunklist_w2010074499.m3u8
+
+#EXTINF:-1 tvg-logo="http://radiopower.com.ar/powerhd/webroot/img/logoPwrHD_small.png" group-title="LatAm", Power HD
+http://wowza.telpin.com.ar:1936/live-powerTV/power.stream/chunklist_w528506640.m3u8
+
+#EXTINF:-1 tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/887.png" group-title="LatAm", Telemax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1229773025_b1828000_sleng.m3u8
+
 #EXTINF:-1  group-title="USA",*** Canales USA ***
 https://fluxustv.blogspot.com@bit.ly/FluxusFireplace?.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/T1FmWd9/Cartoon-Network.png" group-title="USA",CARTOON NETWORK (US)
+plugin://script.module.7of9-live/play/63/play.pvr
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QvBd668/FX-2.png" group-title="USA",FX (US)
+plugin://script.module.7of9-live/play/123/play.pvr
+
+#EXTINF:-1 tvg-logo="https://taptube.net/tv/images/channel_imgs/090118040055fxx.png" group-title="USA",FXX (US)
+plugin://script.module.7of9-live/play/603/play.pvr
+
+#EXTINF:-1 tvg-logo="https://statesidevodka.com/wp-content/uploads/2016/07/Vice_logo.jpg" group-title="USA",VICE (US)
+plugin://script.module.7of9-live/play/612/play.pvr
+
+#EXTINF:-1 tvg-logo="https://taptube.net/tv/images/channel_imgs/160116113057abc.jpg" group-title="USA",ABC (US)
+plugin://script.module.7of9-live/play/23/play.pvr
+
+#EXTINF:-1 tvg-logo="https://taptube.net/tv/images/channel_imgs/160116113647amc.png" group-title="USA",AMC (US)
+plugin://script.module.7of9-live/play/28/play.pvr
+
+#EXTINF:-1 tvg-logo="https://taptube.net/tv/images/channel_imgs/160116113836animal.PNG" group-title="USA",ANIMAL PLANET (US)
+plugin://script.module.7of9-live/play/31/play.pvr
+
+#EXTINF:-1 tvg-logo="https://taptube.net/tv/images/channel_imgs/250118035258boom.jpg" group-title="USA",BOOMERANG (US)
+plugin://script.module.7of9-live/play/635/play.pvr
+
+#EXTINF:-1 tvg-logo="https://taptube.net/tv/images/channel_imgs/160116115741cbs.png" group-title="USA",CBS (US)
+plugin://script.module.7of9-live/play/64/play.pvr
+
+#EXTINF:-1 tvg-logo="https://taptube.net/tv/images/channel_imgs/201217092847cinemax.png" group-title="USA",CINEMAX (US)
+plugin://script.module.7of9-live/play/467/play.pvr
+
+#EXTINF:-1 tvg-logo="https://taptube.net/tv/images/channel_imgs/2012170934305star.png" group-title="USA",CINEMAX 5STAR (US)
+plugin://script.module.7of9-live/play/470/play.pvr
+
+#EXTINF:-1 tvg-logo="https://taptube.net/tv/images/channel_imgs/160116011031comedy.png" group-title="USA",COMEDY CENTRAL (US)
+plugin://script.module.7of9-live/play/85/play.pvr
+
+#EXTINF:-1 tvg-logo="https://taptube.net/tv/images/channel_imgs/160116011155thecw.png" group-title="USA",CW (US)
+plugin://script.module.7of9-live/play/87/play.pvr
+
+#EXTINF:-1 tvg-logo="https://taptube.net/tv/images/channel_imgs/250118035643desti.png" group-title="USA",DESTINATION AMERICA (US)
+plugin://script.module.7of9-live/play/638/play.pvr
+
+#EXTINF:-1 tvg-logo="https://taptube.net/tv/images/channel_imgs/201217100354diss.png" group-title="USA",DINSNEY CHANNEL (US)
+plugin://script.module.7of9-live/play/490/play.pvr
+
+#EXTINF:-1 tvg-logo="https://taptube.net/tv/images/channel_imgs/210618021734xd.png" group-title="USA",DINSNEY XD (US)
+plugin://script.module.7of9-live/play/755/play.pvr
+
+#EXTINF:-1 tvg-logo="https://taptube.net/tv/images/channel_imgs/201217094707hall.jpg" group-title="USA",HALLMARK (US)
+plugin://script.module.7of9-live/play/479/play.pvr
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/MpFsg-SeIew/maxresdefault.jpg" group-title="USA",HARLEY DAVIDSON (US)
+https://hdtv.prod2.ioio.tv/broker/play/190dac2c-bf76-47e9-9b8f-0d31567f5401.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://taptube.net/tv/images/channel_imgs/190116045722hbo.jpg" group-title="USA",HBO (US)
+plugin://script.module.7of9-live/play/128/play.pvr
+
+#EXTINF:-1 tvg-logo="https://taptube.net/tv/images/channel_imgs/190116050031his.jpg" group-title="USA",HISTORY (US)
+plugin://script.module.7of9-live/play/133/play.pvr
+
+
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/fd/H2more2history.png/revision/latest?cb=20150801195220" group-title="USA", HISTORY 2 (US)
+http://103.47.132.164/PLTV/88888888/224/3221227335/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://taptube.net/tv/images/channel_imgs/200116020816natgeo.jpg" group-title="USA",NAT GEO (US)
+plugin://script.module.7of9-live/play/158/play.pvr
+
+#EXTINF:-1 tvg-logo="https://taptube.net/tv/images/channel_imgs/200116021225nick.png" group-title="USA",NICK (US)
+plugin://script.module.7of9-live/play/167/play.pvr
+
+#EXTINF:-1 tvg-logo="https://taptube.net/tv/images/channel_imgs/201217100201nickk.png" group-title="USA",NICKTOONS (US)
+plugin://script.module.7of9-live/play/489/play.pvr
+
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/03/Font-of-the-Nickelodeon-Logo.jpg" group-title="USA",NICK (Pluto)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
+
+
+#EXTINF:-1 tvg-logo="https://taptube.net/tv/images/channel_imgs/250118035754own.png" group-title="USA",OWN (US)
+plugin://script.module.7of9-live/play/639/play.pvr
+
+#EXTINF:-1 tvg-logo="https://taptube.net/tv/images/channel_imgs/260218113343para.png" group-title="USA",PARAMOUNT NETWORK (US)
+plugin://script.module.7of9-live/play/677/play.pvr
+
+#EXTINF:-1 tvg-logo="https://taptube.net/tv/images/channel_imgs/260218113223sund.png" group-title="USA",SUNDANCE TV (US)
+plugin://script.module.7of9-live/play/676/play.pvr
+
+#EXTINF:-1 tvg-logo="https://taptube.net/tv/images/channel_imgs/200116042554sfy.png" group-title="USA",SYFY (US)
+plugin://script.module.7of9-live/play/221/play.pvr
+
+#EXTINF:-1 tvg-logo="https://taptube.net/tv/images/channel_imgs/200116043043tnt.png" group-title="USA",TNT (US)
+plugin://script.module.7of9-live/play/228/play.pvr
+
+#EXTINF:-1 tvg-logo="https://taptube.net/tv/images/channel_imgs/200116043501usaa.gif" group-title="USA",USA NETWORK (US)
+plugin://script.module.7of9-live/play/238/play.pvr
+
+#EXTINF:-1 tvg-logo="https://taptube.net/tv/images/channel_imgs/100118032012vh.png" group-title="USA",VH1 (US)
+plugin://script.module.7of9-live/play/607/play.pvr
+
+#EXTINF:-1  group-title="USA",*** Canales USA (Internet) ***
+https://fluxustv.blogspot.com@bit.ly/FluxusFireplace?.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/YNdQXDz.jpg" group-title="USA",AKC TV
+https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
+
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5be4c6311843b56328bce619/featuredImage.jpg" group-title="USA",Animation (Pluto)
+https://stitcher.pluto.tv/stitch/hls/channel/5be4c6311843b56328bce619/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d2/4b/b0/d24bb0b8b62cd58ad6d1d99b720d5e54.jpg" group-title="USA",Anime All Day
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=72d1521a-198f-4929-9ed3-4f6fe175d21b&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GmSyxeP.png" group-title="USA",American Classic TV
 https://nimble.dashstreams.net/onestudio/americanclassictv/playlist.m3u8?fluxustv.m3u8
@@ -695,14 +838,23 @@ https://nimble.dashstreams.net/onestudio/americanclassictv/playlist.m3u8?fluxust
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ENtRDds.png" group-title="USA",American Horrors
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.s5x6UOZ4lO-yWBb1xA85qQAAAA&pid=Api&P=0&w=234&h=177" group-title="USA",Bob Ross Channel
+https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.classicartsshowcase.org/cas/wp-content/themes/cas/images/logo.png" group-title="USA",Classic Arts Showcase
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.7lxkwbzDHpx_LkAbjHWh0wHaE-&pid=Api&P=0&w=282&h=191" group-title="USA", Con TV
+https://dai.google.com/linear/hls/event/o8Smo_gsSAm26uW9Xkww_g/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q2jim9n.png" group-title="USA",Dust
 https://dust.sinclair.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KtdEoox.png" group-title="USA",Flashback TV
 http://nrpus.bozztv.com/36bay2/gusa-TVSFlashback/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/prPDVF5dfF0/maxresdefault.jpg" group-title="USA",Futurism
+https://dai.google.com/linear/hls/event/YakHdnr_RpyszducVuHOpQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gh4kB7x.png" group-title="USA",Horrified TV
 https://edge1.dashmedia.tv/onestudio/horrified/playlist.m3u8?fluxustv.m3u8
@@ -713,8 +865,23 @@ https://edge1.dashmedia.tv/onestudio/planetshopping/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cpxAk6k.png" group-title="USA",Planet Music
 https://nrpus.bozztv.com/36bay2/gusa-planetmusic/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cordcuttersnews.com/wp-content/uploads/2020/04/retro_crush.jpg" group-title="USA",Retro Crush
+https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RetroCrush/7cf7a093-f906-49ee-b392-27de55787a74/0.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yfEizcN.png" group-title="USA",Screamfest
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
+
+#EXTINF:-1  group-title="Europa",*** Canales Europa ***
+https://fluxustv.blogspot.com@bit.ly/FluxusFireplace?.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSaHmyDU7KRtKpKGSM_MlB9LJo6-nk8Y6odXA&usqp=CAU" group-title="Europa",M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDdRFu3N8CjNiFxRqrWqNHRAWJJ8ROhDN8SKE5mLzE_oJ4NXP4"  group-title="Europa",FASHION HD
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/FashionTV2019novo.png" group-title="Europa",FASHION TV MIDNITE
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 
 #EXTINF:-1  group-title="JAPAN",*** Canales Japón ***
 https://fluxustv.blogspot.com@bit.ly/FluxusFireplace?.mp4
