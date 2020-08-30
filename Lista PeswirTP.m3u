@@ -201,7 +201,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=124&f=HLSAD&s=zec
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZK5Ft17/Paramount-Network.png" group-title="Cine",PARAMOUNT CHANNEL
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1726&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZcBfsX1/HBO.jpg",HBO*
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZcBfsX1/HBO.jpg" group-title="Cine",HBO*
 http://roedor.xyz/REGIO2O2O/mc.php?c=84&f.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZcBfsX1/HBO.jpg" group-title="Cine",HBO SUBTITULADO*
@@ -318,7 +318,7 @@ https://595b85410a151.streamlock.net:443/8056/8056/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kV5t7Dg.png" group-title="Entretenimiento",Frecuencia Musical (2)
 http://streaminglivehd.com:1935/8056/8056/playlist.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.wowway.com/assets/img/WOW_Logo_only.png" group-title="SpecialS", Wow TV
+#EXTINF:-1 tvg-logo="https://www.wowway.com/assets/img/WOW_Logo_only.png" group-title="Entretenimiento", Wow TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0Xkh1nr/Discovery-H-H.png" group-title="Entretenimiento",DISCOVERY H&H
@@ -421,6 +421,9 @@ https://fluxustv.blogspot.com@bit.ly/FluxusFireplace?.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RQ0Z0D6/Discovery-Channel.png" group-title="Cultura",DISCOVERY CHANNEL
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=86&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RQ0Z0D6/Discovery-Channel.png" group-title="Cultura",DISCOVERY CHANNEL (ESPAÑA)
+plugin://script.module.7of9-live/play/673/play.pvr
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hyc50wg/Discovery-Civilization.png" group-title="Cultura",DISCOVERY CIVILIZATION
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=99&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
@@ -448,11 +451,20 @@ http://roedor.xyz/REGIO2O2O/mc.php?c=45&f.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/J3cBn1h/Nat-Geo.png" group-title="Cultura",NAT GEO
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=91&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/J3cBn1h/Nat-Geo.png" group-title="Cultura",NAT GEO (ESPAÑA)
+plugin://script.module.7of9-live/play/347/play.pvr
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0jzKM8d/Nat-Geo-Wild.png" group-title="Cultura",NAT GEO WILD
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=92&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0jzKM8d/Nat-Geo-Wild.png" group-title="Cultura",NAT GEO WILD (ESPAÑA)
+plugin://script.module.7of9-live/play/361/play.pvr
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qNX9tJy/History.png" group-title="Cultura",HISTORY
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=89&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qNX9tJy/History.png" group-title="Cultura",HISTORY (ESPAÑA)
+plugin://script.module.7of9-live/play/356/play.pvr
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bsSsTdH/H2.jpg" group-title="Cultura",H2*
 http://roedor.xyz/REGIO2O2O/mc.php?c=93&f.m3u8
@@ -493,10 +505,10 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=213&f=HLSAD&s=zec
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FW3mPfv/MTV-Live.png" group-title="Música",MTV LIVE
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=211&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B39SXQh/VH1-2.png" group-title="Música",VH1
+#EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/201611/vh1.jpg" group-title="Música",VH1
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=217&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B39SXQh/VH1-2.png" group-title="Música",VH1 HD
+#EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/201611/vh1.jpg" group-title="Música",VH1 HD
 http://roedor.xyz/SrRegio-Ag/tp.php?c=334&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7gcQh4F/VH1-Classics.png" group-title="Música",VH1 CLASSIC
@@ -829,14 +841,53 @@ https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/segli
 #EXTINF:-1  group-title="Europa",*** Canales Europa ***
 https://fluxustv.blogspot.com@bit.ly/FluxusFireplace?.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSaHmyDU7KRtKpKGSM_MlB9LJo6-nk8Y6odXA&usqp=CAU" group-title="Europa",M2O TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://taptube.net/tv/images/channel_imgs/290616022614fox.jpg" group-title="Europa",FOX (UK)
+plugin://script.module.7of9-live/play/290/play.pvr
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDdRFu3N8CjNiFxRqrWqNHRAWJJ8ROhDN8SKE5mLzE_oJ4NXP4"  group-title="Europa",FASHION HD
+#EXTINF:-1 tvg-logo="https://taptube.net/tv/images/channel_imgs/070216060150bbc_entertainment_logo.jpg" group-title="Europa",BBC ENTERTAINMENT (UK)
+plugin://script.module.7of9-live/play/248/play.pvr
+
+#EXTINF:-1 tvg-logo="https://taptube.net/tv/images/channel_imgs/160116114707bbc1.jpg" group-title="Europa",BBC ONE (UK)
+plugin://script.module.7of9-live/play/44/play.pvr
+
+#EXTINF:-1 tvg-logo="https://taptube.net/tv/images/channel_imgs/160116114814bbc2.png" group-title="Europa",BBC TWO (UK)
+plugin://script.module.7of9-live/play/46/play.pvr
+
+#EXTINF:-1 tvg-logo="https://taptube.net/tv/images/channel_imgs/160116114416bb.gif" group-title="Europa",BBC FOUR (UK)
+plugin://script.module.7of9-live/play/43/play.pvr
+
+#EXTINF:-1 tvg-logo="https://statesidevodka.com/wp-content/uploads/2016/07/Vice_logo.jpg" group-title="Europa",VICE (UK)
+plugin://script.module.7of9-live/play/646/play.pvr
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDdRFu3N8CjNiFxRqrWqNHRAWJJ8ROhDN8SKE5mLzE_oJ4NXP4"  group-title="Europa",FASHION HD (UK)
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/FashionTV2019novo.png" group-title="Europa",FASHION TV MIDNITE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/FashionTV2019novo.png" group-title="Europa",FASHION TV MIDNITE (UK)
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 tvg-logo="https://taptube.net/tv/images/channel_imgs/231216040658fox.png" group-title="Europa",FOX (ES)
+plugin://script.module.7of9-live/play/360/play.pvr
+
+#EXTINF:-1 tvg-logo="https://taptube.net/tv/images/channel_imgs/231216042848cosmo.png" group-title="Europa",COSMO (ES)
+plugin://script.module.7of9-live/play/367/play.pvr
+
+#EXTINF:-1 tvg-logo="https://taptube.net/tv/images/channel_imgs/231216032801mtv.png" group-title="Europa",MTV (ES)
+plugin://script.module.7of9-live/play/348/play.pvr
+
+#EXTINF:-1 tvg-logo="https://taptube.net/tv/images/channel_imgs/221216041215arte.gif" group-title="Europa",ARTE (FR)
+plugin://script.module.7of9-live/play/327/play.pvr
+
+#EXTINF:-1 tvg-logo="https://taptube.net/tv/images/channel_imgs/221216034553canalplus.png" group-title="Europa",CANAL+ (FR)
+plugin://script.module.7of9-live/play/315/play.pvr
+
+#EXTINF:-1 tvg-logo="https://taptube.net/tv/images/channel_imgs/221216035253plan%2B.png" group-title="Europa",PLANETE+ (FR)
+plugin://script.module.7of9-live/play/318/play.pvr
+
+#EXTINF:-1 tvg-logo="https://taptube.net/tv/images/channel_imgs/131217013326it1.png" group-title="Europa",ITALIA 1 (IT)
+plugin://script.module.7of9-live/play/443/play.pvr
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSaHmyDU7KRtKpKGSM_MlB9LJo6-nk8Y6odXA&usqp=CAU" group-title="Europa",M2O TV (IT)
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
 
 #EXTINF:-1  group-title="JAPAN",*** Canales Japón ***
 https://fluxustv.blogspot.com@bit.ly/FluxusFireplace?.mp4
@@ -965,6 +1016,9 @@ http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="México" radio="true",Imagen Radio
 http://19233.live.streamtheworld.com/XEDAFM.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="México" radio="true",Universal Stereo
+http://22823.live.streamtheworld.com:3690/XHRED_FM_SC
 
 #EXTINF:-1 tvg-logo="" group-title="México" radio="true",Oye 89.7 FM
 http://playerservices.streamtheworld.com/api/livestream-redirect/XEOYEFM.mp3
