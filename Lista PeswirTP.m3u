@@ -180,6 +180,9 @@ https://fluxustv.blogspot.com@bit.ly/FluxusFireplace?.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dcgYLqz/De-Pelicula.png" group-title="Cine",DE PELICULA
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=335&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/ZjYlhROPtEGovXclk7hBe1EvD4dxizF7W60wle_dvUFIYoYKF9EoPAPfnYEH9odGB-e_TTDUfqU7cNdpJBfVjQ9M2s4Po6UKOVICOt4" group-title="Cine",DE PELICULA CLÁSICO
+http://randomserver.site:2086/wickeduk/etqyhww45e/88708
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xgXQv06/De-Pelicula-Plus.png" group-title="Cine",DE PELICULA +
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=121&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
@@ -692,7 +695,10 @@ https://fluxustv.blogspot.com@bit.ly/FluxusFireplace?.mp4
 plugin://script.module.7of9-live/play/63/play.pvr
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T1FmWd9/Cartoon-Network.png" group-title="USA",CARTOON NETWORK HD (US)
-http://185.232.53.5:2086/live/wickeduk/etqyhww45e/64139.m3u8
+http://randomserver.site:2086/wickeduk/etqyhww45e/15220
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/T1FmWd9/Cartoon-Network.png" group-title="USA",CARTOON NETWORK HD (US) (2)
+http://randomserver.site:2086/wickeduk/etqyhww45e/64139
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QvBd668/FX-2.png" group-title="USA",FX (US)
 plugin://script.module.7of9-live/play/123/play.pvr
