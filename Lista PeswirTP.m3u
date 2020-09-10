@@ -695,10 +695,7 @@ https://fluxustv.blogspot.com@bit.ly/FluxusFireplace?.mp4
 plugin://script.module.7of9-live/play/63/play.pvr
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T1FmWd9/Cartoon-Network.png" group-title="USA",CARTOON NETWORK HD (US)
-http://randomserver.site:2086/wickeduk/etqyhww45e/15220
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/T1FmWd9/Cartoon-Network.png" group-title="USA",CARTOON NETWORK HD (US) (2)
-http://randomserver.site:2086/wickeduk/etqyhww45e/64139
+http://185.232.53.5:2086/live/wickeduk/etqyhww45e/64139.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QvBd668/FX-2.png" group-title="USA",FX (US)
 plugin://script.module.7of9-live/play/123/play.pvr
