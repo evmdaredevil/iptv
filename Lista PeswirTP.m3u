@@ -466,11 +466,14 @@ plugin://script.module.7of9-live/play/361/play.pvr
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qNX9tJy/History.png" group-title="Cultura",HISTORY
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=89&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qNX9tJy/History.png" group-title="Cultura",HISTORY HD
+http://randomserver.site:2086/wickeduk/etqyhww45e/88772
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qNX9tJy/History.png" group-title="Cultura",HISTORY (ESPAÑA)
 plugin://script.module.7of9-live/play/356/play.pvr
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bsSsTdH/H2.jpg" group-title="Cultura",H2*
-http://roedor.xyz/REGIO2O2O/mc.php?c=93&f.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bsSsTdH/H2.jpg" group-title="Cultura",H2
+http://randomserver.site:2086/wickeduk/etqyhww45e/88765
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LdPdR7b/Animal-Planet.png" group-title="Cultura",ANIMAL PLANET
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=88&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
