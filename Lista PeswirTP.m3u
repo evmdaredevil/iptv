@@ -695,7 +695,10 @@ https://fluxustv.blogspot.com@bit.ly/FluxusFireplace?.mp4
 plugin://script.module.7of9-live/play/63/play.pvr
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T1FmWd9/Cartoon-Network.png" group-title="USA",CARTOON NETWORK HD (US)
-http://185.232.53.5:2086/live/wickeduk/etqyhww45e/64139.m3u8
+http://randomserver.site:2086/wickeduk/etqyhww45e/15220
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/T1FmWd9/Cartoon-Network.png" group-title="USA",CARTOON NETWORK HD (US) (2)
+http://randomserver.site:2086/wickeduk/etqyhww45e/64139
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QvBd668/FX-2.png" group-title="USA",FX (US)
 plugin://script.module.7of9-live/play/123/play.pvr
@@ -965,6 +968,16 @@ http://roedor.xyz/REGIO2O2O/mc.php?c=309&f=.m3u8
 #EXTINF:-1 tvg-logo="" group-title="24/7 en español",Thundercats*
 http://roedor.xyz/REGIO2O2O/mc.php?c=311&f=.m3u8
 
+#EXTINF:-1  group-title="24/7 en español",*** Canales 24/7 en inglés ***
+https://fluxustv.blogspot.com@bit.ly/FluxusFireplace?.mp4
+#EXTINF:-1 tvg-logo="http://www.gstatic.com/tv/thumb/tvbanners/7896580/p7896580_b_v8_ab.jpg" group-title="24/7 en inglés",Batman TAS
+http://randomserver.site:2086/wickeduk/etqyhww45e/65532
+#EXTINF:-1 tvg-logo="http://www.thetvdb.com/banners/posters/194031-2.jpg" group-title="24/7 en inglés",Bob's Burgers
+http://randomserver.site:2086/wickeduk/etqyhww45e/16161
+#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/og-generic_02031d2b.png?region=0%2C0%2C1200%2C1200" group-title="24/7 en inglés",STAR WARS
+http://randomserver.site:2086/wickeduk/etqyhww45e/18227
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/73244-1_t.jpg" group-title="24/7 en inglés",The Office (US)
+http://randomserver.site:2086/wickeduk/etqyhww45e/16153
 
 #EXTINF:-1  group-title="24/7 ADULT SWIM",*** Adult Swim *** 
 https://fluxustv.blogspot.com@bit.ly/FluxusFireplace?.mp4
