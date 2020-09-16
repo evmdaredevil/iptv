@@ -733,6 +733,9 @@ http://randomserver.site:2086/wickeduk/etqyhww45e/64129
 http://randomserver.site:2086/wickeduk/etqyhww45e/324
 
 #EXTINF:-1 tvg-logo="https://taptube.net/tv/images/channel_imgs/090118040055fxx.png" group-title="USA",FXX (US)
+plugin://script.module.7of9-live/play/603/play.pvr
+
+#EXTINF:-1 tvg-logo="https://taptube.net/tv/images/channel_imgs/090118040055fxx.png" group-title="USA",FXX HD (US)
 http://randomserver.site:2086/wickeduk/etqyhww45e/64116
 
 #EXTINF:-1 tvg-id="hbo.us" tvg-name="US : HBO EAST FHD 1080" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/hbo.png" group-title="USA",HBO (US)
@@ -962,6 +965,9 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=o
 
 #EXTINF:-1  group-title="JAPAN",*** Canales Japón ***
 https://fluxustv.blogspot.com@bit.ly/FluxusFireplace?.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qBzZ9rDp/animax.png" group-title="Kids",Animax
+http://45.126.83.51/session/1f46a41a-7575-11ea-9b62-ae4ea97c3062/dr9445/h/h144/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fuwPytF.png" group-title="JAPAN",Fuji TV
 http://203.162.235.41:16904
