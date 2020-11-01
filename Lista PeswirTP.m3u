@@ -132,10 +132,10 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=115&f=HLSAD&s=zec
 #EXTINF:-1 tvg-id="Nick" tvg-logo="https://i.ibb.co/hdYkK7w/Nick.png" group-title="Animación",NICK
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=110&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rbZpBpQ/Nick-2.png" group-title="Animación",NICK 2
+#EXTINF:-1 tvg-id="TeenNick" tvg-logo="https://i.ibb.co/rbZpBpQ/Nick-2.png" group-title="Animación",TEENNICK
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2147&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SRVqbrS/Nickelodeon.png" group-title="Animación",NICKTOONS
+#EXTINF:-1 tvg-id="NickMusic" tvg-logo="https://i.ibb.co/SRVqbrS/Nickelodeon.png" group-title="Animación",NICKMUSIC
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1708&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/_C8Dpr9s51ug/TAlqb5Ha4aI/AAAAAAAABaU/Of3TKoGmEnQ/s1600/nickla.png" group-title=""Animación",NICK (PLUTO)
@@ -174,7 +174,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kKCb2P3/Bit-Me.png" group-title="Animación",BIT ME
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2591&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
-#EXTINF:-1 tvg-logo="http://logosolusa.com/wp-content/uploads/parser/Locomotion-Logo-1.png" group-title="Animación",LOCOMOTION
+#EXTINF:-1 tvg-id="Locomotion" tvg-logo="http://logosolusa.com/wp-content/uploads/parser/Locomotion-Logo-1.png" group-title="Animación",LOCOMOTION
 http://www.toonxtv.net/hls/loco_ch/stream.m3u8
 
 #EXTINF:-1  group-title="Cine",*** Cine ***
@@ -192,7 +192,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=121&f=HLSAD&s=zec
 #EXTINF:-1 tvg-id"AZ Cinema" tvg-logo="https://i.ibb.co/RBHzKdk/Az-Cinema.png" group-title="Cine",AZTECA CINEMA
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1787&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
 
-#EXTINF:-1 tvg-logo="https://s3.castbox.fm/29/e1/43/98e45d48d39a208a4d9dd5c2f0.png" group-title="Cine",CINE LATINO
+#EXTINF:-1 tvg-id="Cine Latino" tvg-logo="https://s3.castbox.fm/29/e1/43/98e45d48d39a208a4d9dd5c2f0.png" group-title="Cine",CINE LATINO
 http://uruguayiptv.com:25461/Gisela/Gisela2020/18449
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VL0CqRZ/Golden.png" group-title="Cine",GOLDEN
