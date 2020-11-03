@@ -895,19 +895,19 @@ http://185.232.53.5:2086/arellano/kgtL965n2Y/16201
 http://185.232.53.5:2086/arellano/kgtL965n2Y/16200
 
 #EXTINF:-1 tvg-id="mtv.ca" tvg-name="CA : MTV" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/140px-MTV_Logo_2010.svg.png" group-title="Canadá",MTV (CA)
-#http://185.232.53.5:2086/arellano/kgtL965n2Y/13229
+http://185.232.53.5:2086/arellano/kgtL965n2Y/13229
 
-##EXTINF:-1 tvg-id="muchmusic.ca" tvg-name="CA : MUCH MUSIC" tvg-logo="https://seeklogo.com/images/M/MuchMusic-logo-7E42B1AE67-seeklogo.com.png" group-title="Canadá",MUCH MUSIC (CA)
-#http://185.232.53.5:2086/arellano/kgtL965n2Y/13228
+#EXTINF:-1 tvg-id="muchmusic.ca" tvg-name="CA : MUCH MUSIC" tvg-logo="https://seeklogo.com/images/M/MuchMusic-logo-7E42B1AE67-seeklogo.com.png" group-title="Canadá",MUCH MUSIC (CA)
+http://185.232.53.5:2086/arellano/kgtL965n2Y/13228
 
-##EXTINF:-1 tvg-id="nickelodeon.ca" tvg-name="CA : NICKELODEON" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/250px-Nickelodeon_2009_logo.svg.png" group-title="Canadá",NICKELODEON (CA)
-#http://185.232.53.5:2086/arellano/kgtL965n2Y/3238
+#EXTINF:-1 tvg-id="nickelodeon.ca" tvg-name="CA : NICKELODEON" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/250px-Nickelodeon_2009_logo.svg.png" group-title="Canadá",NICKELODEON (CA)
+http://185.232.53.5:2086/arellano/kgtL965n2Y/3238
 
-##EXTINF:-1 tvg-id="teletoon.ca" tvg-name="CA : TELETOON" tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Teletoon_2011.PNG/220px-Teletoon_2011.PNG" group-title="Canadá",TELETOON (CA)
-#http://185.232.53.5:2086/arellano/kgtL965n2Y/3205
+#EXTINF:-1 tvg-id="teletoon.ca" tvg-name="CA : TELETOON" tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Teletoon_2011.PNG/220px-Teletoon_2011.PNG" group-title="Canadá",TELETOON (CA)
+http://185.232.53.5:2086/arellano/kgtL965n2Y/3205
 
-##EXTINF:-1 tvg-id="noepg" tvg-name="CA : WWE" tvg-logo="http://www.freepnglogos.com/uploads/wwe-network-logo-0.png" group-title="Canadá",WWE (CA)
-#http://185.232.53.5:2086/arellano/kgtL965n2Y/16218
+#EXTINF:-1 tvg-id="noepg" tvg-name="CA : WWE" tvg-logo="http://www.freepnglogos.com/uploads/wwe-network-logo-0.png" group-title="Canadá",WWE (CA)
+http://185.232.53.5:2086/arellano/kgtL965n2Y/16218
 
 #EXTINF:-1  group-title="Europa",*** Canales Europa ***
 http://livego.club:8080/Cz07YMAFcp/fZm8HS57F9/38446
