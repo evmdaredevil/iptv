@@ -7,7 +7,7 @@ https://youtu.be/NMre6IAAAiU
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2298&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2yH7rSF/Imagen-2.png" group-title="TV Abierta",IMAGEN TV HD 
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2606&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=2298&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="Azteca Uno" tvg-logo="https://i.ibb.co/r4tWTf0/Az-Uno-2.png" group-title="TV Abierta",AZTECA UNO 
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=27&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
@@ -19,10 +19,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=27&f=HLSAD&s=2b6b
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=21&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
 #EXTINF:-1 tvg-id="Azteca 7" tvg-logo="https://i.ibb.co/wSQzRxb/Az-7-2.png" group-title="TV Abierta",AZTECA 7 HD
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=317&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
-
-#EXTINF:-1 tvg-id="Azteca 7" tvg-logo="https://i.ibb.co/wSQzRxb/Az-7-2.png" group-title="TV Abierta",AZTECA 7 HD (2)
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=322&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=317&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/w7H5bFX/Az-Clic.png" group-title="TV Abierta",AZ CLIC HD
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=223&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
@@ -30,8 +27,14 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=223&f=HLSAD&s=zec
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4TvKzyt/Az-Corazon.png" group-title="TV Abierta",AZ CORAZON
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=70&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4TvKzyt/Az-Corazon.png" group-title="TV Abierta",AZ CORAZON HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=70&format=HLS&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CtrjhkD/Az-Mundo.png" group-title="TV Abierta",AZ MUNDO
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=84&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CtrjhkD/Az-Mundo.png" group-title="TV Abierta",AZ MUNDO HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=84&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="Las Estrellas" tvg-logo="https://i.ibb.co/CbqV6GL/Las-Estrellas-2.png" group-title="TV Abierta",LAS ESTRELLAS
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=17&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
@@ -52,7 +55,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2274&f=HLSAD&s=2b
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2038&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
 #EXTINF:-1 tvg-id="Canal 5" tvg-logo="https://i.ibb.co/vxDTjzz/Canal-5.png" group-title="TV Abierta",CANAL 5 HD
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1785&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=2243&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="Canal Nueve" tvg-logo="https://i.ibb.co/p0tzXG6/Nu9ve-2.png" group-title="TV Abierta",NU9VE
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2039&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
@@ -183,6 +186,9 @@ http://livego.club:8080/Cz07YMAFcp/fZm8HS57F9/38446
 #EXTINF:-1 tvg-id="De Película" tvg-logo="https://i.ibb.co/dcgYLqz/De-Pelicula.png" group-title="Cine",DE PELICULA
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=335&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
+#EXTINF:-1 tvg-id="De Película" tvg-logo="https://i.ibb.co/dcgYLqz/De-Pelicula.png" group-title="Cine",DE PELICULA HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=335&format=HLS&f=.m3u8
+
 #EXTINF:-1 tvg-id="De Película +" tvg-logo="https://i.ibb.co/xgXQv06/De-Pelicula-Plus.png" group-title="Cine",DE PELICULA +
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=121&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
@@ -190,13 +196,16 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=121&f=HLSAD&s=zec
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=121&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="De Película Clásico" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/45/De_Pel%C3%ADcula_Cl%C3%A1sico.svg.png/revision/latest/scale-to-width-down/340?cb=20171203162827" group-title="Cine",DE PELICULA CLÁSICO
-http://185.232.53.5:2086/arellano/kgtL965n2Y/88708
+http://185.232.53.5:2086/tony2003/tony2003/88708
 
 #EXTINF:-1 tvg-id"AZ Cinema" tvg-logo="https://i.ibb.co/RBHzKdk/Az-Cinema.png" group-title="Cine",AZTECA CINEMA
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1787&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
 
+#EXTINF:-1 tvg-id"AZ Cinema" tvg-logo="https://i.ibb.co/RBHzKdk/Az-Cinema.png" group-title="Cine",AZTECA CINEMA
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=1787&format=HLS&f=.m3u8
+
 #EXTINF:-1 tvg-id="Cine Latino" tvg-logo="https://s3.castbox.fm/29/e1/43/98e45d48d39a208a4d9dd5c2f0.png" group-title="Cine",CINE LATINO
-https://totalgo.totalplay.com.mx/TPMCOREWeb/LiveAdaptive?v=N&session=vh7m2joxow2tlmt&lchId=335&format=HLSAD&f=.m3u8
+http://titanlivetv.com:8080/ewok/ewok/1817
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VL0CqRZ/Golden.png" group-title="Cine",GOLDEN
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=123&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
@@ -204,38 +213,44 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=123&f=HLSAD&s=zec
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0cQC5rF/Golden-Plus.png" group-title="Cine",GOLDEN +
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=122&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0cQC5rF/Golden-Plus.png" group-title="Cine",GOLDEN + HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=122&format=HLS&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LYSDwSz/Golden-Edge.png" group-title="Cine",GOLDEN EDGE
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=124&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LYSDwSz/Golden-Edge.png" group-title="Cine",GOLDEN EDGE HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=124&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZK5Ft17/Paramount-Network.png" group-title="Cine",PARAMOUNT CHANNEL
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1726&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://i.ibb.co/ZcBfsX1/HBO.jpg" group-title="Cine",HBO
-http://uruguayiptv.com:25461/Gisela/Gisela2020/610
+http://asylumtv.ddns.net:8000/SHANNAN/SHANNAN/8520
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZcBfsX1/HBO.jpg" group-title="Cine",HBO LATINO HD
-http://uruguayiptv.com:25461/Gisela/Gisela2020/610
+http://asylumtv.ddns.net:8000/SHANNAN/SHANNAN/10704
 
 #EXTINF:-1 tvg-id="HBO 2" tvg-logo="https://i.ibb.co/Jp73Qh7/HBO-2.png" group-title="Cine",HBO 2
-http://uruguayiptv.com:25461/Gisela/Gisela2020/611
+http://asylumtv.ddns.net:8000/SHANNAN/SHANNAN/8521
 
 #EXTINF:-1 tvg-id="hbo Family" tvg-logo="https://i.ibb.co/C0t2psB/HBO-Family.png" group-title="Cine",HBO Family
-http://uruguayiptv.com:25461/Gisela/Gisela2020/613
+http://asylumtv.ddns.net:8000/SHANNAN/SHANNAN/8522
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JH2HqvJ/HBO-Plus.jpg" group-title="Cine",HBO PLUS
-http://uruguayiptv.com:25461/Gisela/Gisela2020/614
+http://asylumtv.ddns.net:8000/SHANNAN/SHANNAN/826
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tmwY00G/HBO-Signature.png" group-title="Cine",HBO SIGNATURE
-http://uruguayiptv.com:25461/Gisela/Gisela2020/615
+http://asylumtv.ddns.net:8000/SHANNAN/SHANNAN/8523
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KwzR6BQ/HBO-Mundi.png" group-title="Cine",HBO MUNDI
-http://uruguayiptv.com:25461/Gisela/Gisela2020/655
+http://asylumtv.ddns.net:8000/SHANNAN/SHANNAN/8526
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p4J227m/HBO-POP.png" group-title="Cine",HBO POP
-http://uruguayiptv.com:25461/Gisela/Gisela2020/607
+http://asylumtv.ddns.net:8000/SHANNAN/SHANNAN/8525
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SKqB5QP/HBO-XTREME.png" group-title="Cine",HBO XTREME
-http://uruguayiptv.com:25461/Gisela/Gisela2020/608
+http://asylumtv.ddns.net:8000/SHANNAN/SHANNAN/8524
 
 #EXTINF:-1 tvg-id="FOX Premium Action" tvg-logo="https://i.ibb.co/r63Fxgq/Fox-Action.png" group-title="Cine",FOX ACTION
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=336&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
@@ -261,20 +276,29 @@ http://regioflix.club/Sr_Regio/tp.php?c=138&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="TNT" tvg-logo="https://i.ibb.co/Z2vk4HS/TNT.png" group-title="Cine",TNT
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=126&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
+#EXTINF:-1 tvg-id="TNT" tvg-logo="https://i.ibb.co/Z2vk4HS/TNT.png" group-title="Cine",TNT HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=126&format=HLS&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kQkf0Z8/Studio-Universal.png" group-title="Cine",STUDIO UNIVERSAL
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=57&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kQkf0Z8/Studio-Universal.png" group-title="Cine",STUDIO UNIVERSAL (2)
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=132&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kQkf0Z8/Studio-Universal.png" group-title="Cine",STUDIO UNIVERSAL HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=132&format=HLS&f=.m3u8
 
-#EXTINF:-1 tvg-id="AMC" tvg-logo="https://i.ibb.co/c8k7fW0/AMC-2.png" group-title="Cine",AMC
-http://regioflix.club/Sr_Regio/tp.php?c=328&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="AMC" tvg-logo="https://i.ibb.co/c8k7fW0/AMC-2.png" group-title="Cine",AMC HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=328&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NnXggFN/Cine-Canal.png" group-title="Cine",CINECANAL
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=149&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NnXggFN/Cine-Canal.png" group-title="Cine",CINECANAL HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=149&format=HLS&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HCLLsQ9/cinemax.png" group-title="Cine",CINEMAX
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=158&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HCLLsQ9/cinemax.png" group-title="Cine",CINEMAX HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=158&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tKdGFqC/TBS.png" group-title="Cine",TBS
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=81&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
@@ -310,7 +334,7 @@ http://livego.club:8080/Cz07YMAFcp/fZm8HS57F9/38446
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=47&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FhDvNyz/Fox-2.png" group-title="Entretenimiento",FOX HD
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=201&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=46&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8zNY2BL/Fox-Life.png" group-title="Entretenimiento",FOX LIFE
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=77&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
@@ -331,7 +355,7 @@ https://595b85410a151.streamlock.net:443/8056/8056/playlist.m3u8
 http://streaminglivehd.com:1935/8056/8056/playlist.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://taptube.net/tv/images/channel_imgs/231216042848cosmo.png" group-title="Europa",COSMO (ES)
-http://185.232.53.5:2086/arellano/kgtL965n2Y/88686
+http://185.232.53.5:2086/tony2003/tony2003/88686
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0Xkh1nr/Discovery-H-H.png" group-title="Entretenimiento",DISCOVERY H&H
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=96&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
@@ -345,11 +369,11 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=52&f=HLSAD&s=zecp
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mNtfdnB/Warner-TV-2.png" group-title="Entretenimiento",WARNER HD
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=205&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JvF1GNg/Universal-TV-2.png" group-title="Entretenimiento",UNIVERSAL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JvF1GNg/Universal-TV-2.png" group-title="Entretenimiento",UNIVERSAL CHANNEL
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=207&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JvF1GNg/Universal-TV-2.png" group-title="Entretenimiento",UNIVERSAL HD
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=207&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JvF1GNg/Universal-TV-2.png" group-title="Entretenimiento",UNIVERSAL CHANNEL HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=57&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cD1Zg9m/TNT-Series.png" group-title="Entretenimiento",TNT SERIES
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=71&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
@@ -372,8 +396,14 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=83&f=HLSAD&s=zecp
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vXgyyFQ/A-E.png" group-title="Entretenimiento",A&E
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=62&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vXgyyFQ/A-E.png" group-title="Entretenimiento",A&E HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=62&format=HLS&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fM49YYJ/AXN.png" group-title="Entretenimiento",AXN
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=64&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fM49YYJ/AXN.png" group-title="Entretenimiento",AXN HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=64&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wNpwDXq/Comedy-Central-2.png" group-title="Entretenimiento",COMEDY CENTRAL
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=340&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
@@ -384,14 +414,20 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=340&f=HLSAD&s=2b6
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tb3D9d9/E.png" group-title="Entretenimiento",E!
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=55&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Tb3D9d9/E.png" group-title="Entretenimiento",E! HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=55&format=HLS&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b6TPSTG/Hola-TV.png" group-title="Entretenimiento",¡HOLA! TV HD
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=219&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W24dt7K/Glitz.png" group-title="Entretenimiento",GLITZ
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=76&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/thR164L/Gourmet.png" group-title="Entretenimiento",GOURMET
+#EXTINF:-1 tvg-logo="https://i.ibb.co/thR164L/Gourmet.png" group-title="Entretenimiento", EL GOURMET
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=74&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/thR164L/Gourmet.png" group-title="Entretenimiento", EL GOURMET HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=74&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1PVyTH/Life-Time.png" group-title="Entretenimiento",LIFETIME
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=94&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
@@ -430,7 +466,7 @@ plugin://script.module.7of9-live/play/673/play.pvr
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=99&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
 #EXTINF:-1 tvg-logo="https://d2z1w4aiblvrwu.cloudfront.net/brand/ngO/ngO_large.png" group-title="Cultura",DISCOVERY FAMILIA
-http://185.232.53.5:2086/arellano/kgtL965n2Y/88700
+http://185.232.53.5:2086/tony2003/tony2003/88700
 
 #EXTINF:-1 tvg-id="Investigation Discovery" tvg-logo="https://i.ibb.co/YTbbRFC/F.png" group-title="Cultura",DISCOVERY ID
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=68&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
@@ -469,16 +505,19 @@ plugin://script.module.7of9-live/play/361/play.pvr
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=89&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qNX9tJy/History.png" group-title="Cultura",HISTORY HD
-http://geotvplus.com:2082/Flix-Play/urZOuKYx9s/54119
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=89&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qNX9tJy/History.png" group-title="Cultura",HISTORY (ESPAÑA)
 plugin://script.module.7of9-live/play/356/play.pvr
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bsSsTdH/H2.jpg" group-title="Cultura",H2
-http://geotvplus.com:2082/Flix-Play/urZOuKYx9s/54118
+http://asylumtv.ddns.net:8000/SHANNAN/SHANNAN/8524
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LdPdR7b/Animal-Planet.png" group-title="Cultura",ANIMAL PLANET
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=88&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LdPdR7b/Animal-Planet.png" group-title="Cultura",ANIMAL PLANET HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=88&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TWqxyJN/TLC.png" group-title="Cultura",TLC
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=97&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
@@ -517,13 +556,13 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=211&f=HLSAD&s=zec
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=217&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/201611/vh1.jpg" group-title="Música",VH1 HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/88844
+http://185.232.53.5:2086/tony2003/tony2003/88844
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7gcQh4F/VH1-Classics.png" group-title="Música",VH1 CLASSIC
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=214&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
 #EXTINF:-1 tvg-id="Telehits" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSCK5IQ2o9fINo4rJd4kNMYctRhFRkCYkarxw&usqp=CAU" group-title="Música",TELEHIT
-http://185.232.53.5:2086/arellano/kgtL965n2Y/88824
+http://185.232.53.5:2086/tony2003/tony2003/88824
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0c8whCm/Telehit-Plus.png" group-title="Música",TELEHIT +
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=220&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
@@ -613,16 +652,19 @@ http://livego.club:8080/Cz07YMAFcp/fZm8HS57F9/38446
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1250&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
 #EXTINF:-1 tvg-id="Milenio Televisión" tvg-logo="https://i.ibb.co/TqZkbmJ/Milenio.png" group-title="Noticias",MILENIO HD
-http://regioflix.club/Sr_Regio/tp.php?c=1250&p=3&k=srregio&f=.m3u8 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=1252&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="Foro TV" tvg-logo="https://i.ibb.co/zRqq3Qm/Foro-TV.png" group-title="Noticias",FORO TV
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=4&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
 #EXTINF:-1 tvg-id="Foro TV" tvg-logo="https://i.ibb.co/zRqq3Qm/Foro-TV.png" group-title="Noticias",FORO TV HD
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=4&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=700&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="ADN 40" tvg-logo="https://pbs.twimg.com/profile_images/1037358052553322496/wwU6hW0Z_400x400.jpg" group-title="Noticias",ADN 40
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=40&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+
+#EXTINF:-1 tvg-id="ADN 40" tvg-logo="https://pbs.twimg.com/profile_images/1037358052553322496/wwU6hW0Z_400x400.jpg" group-title="Noticias",ADN 40 HD
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=184&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sRYhzPF/Excelsior.png" group-title="Noticias",EXCELSIOR TV
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1449&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
@@ -682,7 +724,7 @@ http://regioflix.club/Sr_Regio/tp.php?c=192&p=3&k=srregio&f=.m3u8
 http://livego.club:8080/Cz07YMAFcp/fZm8HS57F9/38446
 
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062014/logo_caracol_television.jpg?itok=Wmo-Rups" group-title="LatAm", Caracol
-http://185.232.53.5:2086/arellano/kgtL965n2Y/88685
+http://185.232.53.5:2086/tony2003/tony2003/88685
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgsqyh9Yw9y4IepPqB8C116Ltz9WvvpXkwsqtfCDlIZx-JjzlO" group-title="LatAm",NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
@@ -703,76 +745,76 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1229773025_b1
 http://livego.club:8080/Cz07YMAFcp/fZm8HS57F9/38446
 
 #EXTINF:-1 tvg-id="aande.us" tvg-name="US : A&E FHD 1080" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/aande.png" group-title="USA",A&E (US)
-http://185.232.53.5:2086/arellano/kgtL965n2Y/64160
+http://185.232.53.5:2086/tony2003/tony2003/64160
 
 #EXTINF:-1 tvg-logo="https://taptube.net/tv/images/channel_imgs/160116113647amc.png" group-title="USA",AMC (US)
-http://185.232.53.5:2086/arellano/kgtL965n2Y/64158
+http://185.232.53.5:2086/tony2003/tony2003/64158
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T1FmWd9/Cartoon-Network.png" group-title="USA",CARTOON NETWORK (US)
 plugin://script.module.7of9-live/play/63/play.pvr
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T1FmWd9/Cartoon-Network.png" group-title="USA",CARTOON NETWORK HD (US)
-http://185.232.53.5:2086/arellano/kgtL965n2Y/15220
+http://185.232.53.5:2086/tony2003/tony2003/15220
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T1FmWd9/Cartoon-Network.png" group-title="USA",CARTOON NETWORK HD (US) (2)
-http://185.232.53.5:2086/arellano/kgtL965n2Y/64139
+http://185.232.53.5:2086/tony2003/tony2003/64139
 
 #EXTINF:-1 tvg-logo="https://statesidevodka.com/wp-content/uploads/2016/07/Vice_logo.jpg" group-title="USA",VICE (US)
 plugin://script.module.7of9-live/play/612/play.pvr
 
 #EXTINF:-1 tvg-id="viceland.us" tvg-name="US : VICELAND" tvg-logo="https://statesidevodka.com/wp-content/uploads/2016/07/Vice_logo.jpg" group-title="USA",VICE HD (US)
-http://185.232.53.5:2086/arellano/kgtL965n2Y/477
+http://185.232.53.5:2086/tony2003/tony2003/477
 
 #EXTINF:-1 tvg-id="viceland.us" tvg-name="US : VICELAND FHD 1080" tvg-logo="https://statesidevodka.com/wp-content/uploads/2016/07/Vice_logo.jpg" group-title="USA",VICE HD (US) (2)
-http://185.232.53.5:2086/arellano/kgtL965n2Y/64022
+http://185.232.53.5:2086/tony2003/tony2003/64022
 
 #EXTINF:-1 tvg-id="viceland.us" tvg-name="US : VICELAND" tvg-logo="https://statesidevodka.com/wp-content/uploads/2016/07/Vice_logo.jpg" group-title="USA",VICE HD (US) (3)
 http://beastiptv.tv:25461/live/Reyr07/Glendat11/4477.ts
 
 #EXTINF:-1 tvg-logo="https://taptube.net/tv/images/channel_imgs/210618021734xd.png" group-title="USA",DINSNEY XD (US)
-http://185.232.53.5:2086/arellano/kgtL965n2Y/64129
+http://185.232.53.5:2086/tony2003/tony2003/64129
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QvBd668/FX-2.png" group-title="USA",FX (US)
-http://185.232.53.5:2086/arellano/kgtL965n2Y/324
+http://185.232.53.5:2086/tony2003/tony2003/324
 
 #EXTINF:-1 tvg-logo="https://taptube.net/tv/images/channel_imgs/090118040055fxx.png" group-title="USA",FXX (US)
 plugin://script.module.7of9-live/play/603/play.pvr
 
 #EXTINF:-1 tvg-logo="https://taptube.net/tv/images/channel_imgs/090118040055fxx.png" group-title="USA",FXX HD (US)
-http://185.232.53.5:2086/arellano/kgtL965n2Y/64116
+http://185.232.53.5:2086/tony2003/tony2003/64116
 
 #EXTINF:-1 tvg-id="hbo.us" tvg-name="US : HBO EAST FHD 1080" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/hbo.png" group-title="USA",HBO (US)
-http://185.232.53.5:2086/arellano/kgtL965n2Y/64104
+http://185.232.53.5:2086/tony2003/tony2003/64104
 
 #EXTINF:-1 tvg-id="mtv.us" tvg-name="US : MTV" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/mtv.png" group-title="USA",MTV (US)
-http://185.232.53.5:2086/arellano/kgtL965n2Y/158
+http://185.232.53.5:2086/tony2003/tony2003/158
 
 #EXTINF:-1 tvg-id="mtvclassic.us" tvg-name="MUSIC : MTV CLASSIC" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6968.1508545344.png" group-title="USA",MTV CLASSIC (US)
-http://185.232.53.5:2086/arellano/kgtL965n2Y/22400
+http://185.232.53.5:2086/tony2003/tony2003/22400
 
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC : MTV DANCE" tvg-logo="https://media.info/i/lf/300/1508556331/1091.png" group-title="USA",MTV DANCE (US)
-http://185.232.53.5:2086/arellano/kgtL965n2Y/22399
+http://185.232.53.5:2086/tony2003/tony2003/22399
 
 #EXTINF:-1 tvg-id="nickelodeon.us" tvg-name="US : NICKELODEON EAST FHD 1080" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/nickelodeon.png" group-title="USA",US : NICKELODEON (US)
-http://185.232.53.5:2086/arellano/kgtL965n2Y/64080
+http://185.232.53.5:2086/tony2003/tony2003/64080
 
 #EXTINF:-1 tvg-id="nicktoons.us" tvg-name="US : NICK TOONS FHD 1080" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/nicktoons.png" group-title="USA",US : NICKTOONS (US)
-http://185.232.53.5:2086/arellano/kgtL965n2Y/64079
+http://185.232.53.5:2086/tony2003/tony2003/64079
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/MpFsg-SeIew/maxresdefault.jpg" group-title="USA",HARLEY DAVIDSON (US)
 https://hdtv.prod2.ioio.tv/broker/play/190dac2c-bf76-47e9-9b8f-0d31567f5401.m3u8
 
 #EXTINF:-1 tvg-logo="https://taptube.net/tv/images/channel_imgs/190116050031his.jpg" group-title="USA",HISTORY (US)
-http://185.232.53.5:2086/arellano/kgtL965n2Y/64096
+http://185.232.53.5:2086/tony2003/tony2003/64096
 
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/fd/H2more2history.png/revision/latest?cb=20150801195220" group-title="USA", HISTORY 2 (US)
-http://185.232.53.5:2086/arellano/kgtL965n2Y/309
+http://185.232.53.5:2086/tony2003/tony2003/309
 
 #EXTINF:-1 tvg-id="turnerclassicmovies.us" tvg-name="US : TURNER CLASSIC MOVIES FHD 1080" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tcm.png" group-title="USA",TURNER CLASSIC MOVIES (US)
-http://185.232.53.5:2086/arellano/kgtL965n2Y/64035
+http://185.232.53.5:2086/tony2003/tony2003/64035
 
 #EXTINF:-1 tvg-id="vh1.us" tvg-name="US : VH1 FHD 1080" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/vh1.png" group-title="USA",VH1 (US)
-http://185.232.53.5:2086/arellano/kgtL965n2Y/64023
+http://185.232.53.5:2086/tony2003/tony2003/64023
 
 #EXTINF:-1 tvg-logo="https://taptube.net/tv/images/channel_imgs/160116113057abc.jpg" group-title="USA",ABC (US)
 plugin://script.module.7of9-live/play/23/play.pvr
@@ -883,40 +925,40 @@ https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/segli
 http://livego.club:8080/Cz07YMAFcp/fZm8HS57F9/38446
 
 #EXTINF:-1 tvg-id="aande.ca" tvg-name="CA : A&E" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/aande.png" group-title="Canadá",A&E (CA)
-http://185.232.53.5:2086/arellano/kgtL965n2Y/16240
+http://185.232.53.5:2086/tony2003/tony2003/16240
 
 #EXTINF:-1 tvg-id="cartoonnetwork.ca" tvg-name="CA : CARTOON NETWORK" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cartoonnetwork.png" group-title="Canadá",CARTOON NETWORK (CA)
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3270
+http://185.232.53.5:2086/tony2003/tony2003/3270
 
 #EXTINF:-1 tvg-id="disneychannel.ca" tvg-name="CA : DISNEY CHANNEL" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/disney.png" group-title="Canadá",DISNEY CHANNEL (CA)
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3261
+http://185.232.53.5:2086/tony2003/tony2003/3261
 
 #EXTINF:-1 tvg-id="disneyjunior.ca" tvg-name="CA : DISNEY JR" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/disney_junior.png" group-title="Canadá",DISNEY JR (CA)
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3260
+http://185.232.53.5:2086/tony2003/tony2003/3260
 
 #EXTINF:-1 tvg-id="disneyxd.ca" tvg-name="CA : DISNEY XD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/disneyxd.png" group-title="Canadá",DISNEY XD (CA)
-http://185.232.53.5:2086/arellano/kgtL965n2Y/65851
+http://185.232.53.5:2086/tony2003/tony2003/65851
 
 #EXTINF:-1 tvg-id="fxnow.ca" tvg-name="CA : FX" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/fxcanada.png" group-title="Canadá",FX (CA)
-http://185.232.53.5:2086/arellano/kgtL965n2Y/16201
+http://185.232.53.5:2086/tony2003/tony2003/16201
 
 #EXTINF:-1 tvg-id="fxx.ca" tvg-name="CA : FXX" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/fxx.png" group-title="Canadá",FXX (CA)
-http://185.232.53.5:2086/arellano/kgtL965n2Y/16200
+http://185.232.53.5:2086/tony2003/tony2003/16200
 
 #EXTINF:-1 tvg-id="mtv.ca" tvg-name="CA : MTV" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/140px-MTV_Logo_2010.svg.png" group-title="Canadá",MTV (CA)
-http://185.232.53.5:2086/arellano/kgtL965n2Y/13229
+http://185.232.53.5:2086/tony2003/tony2003/13229
 
 #EXTINF:-1 tvg-id="muchmusic.ca" tvg-name="CA : MUCH MUSIC" tvg-logo="https://seeklogo.com/images/M/MuchMusic-logo-7E42B1AE67-seeklogo.com.png" group-title="Canadá",MUCH MUSIC (CA)
-http://185.232.53.5:2086/arellano/kgtL965n2Y/13228
+http://185.232.53.5:2086/tony2003/tony2003/13228
 
 #EXTINF:-1 tvg-id="nickelodeon.ca" tvg-name="CA : NICKELODEON" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/250px-Nickelodeon_2009_logo.svg.png" group-title="Canadá",NICKELODEON (CA)
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3238
+http://185.232.53.5:2086/tony2003/tony2003/3238
 
 #EXTINF:-1 tvg-id="teletoon.ca" tvg-name="CA : TELETOON" tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Teletoon_2011.PNG/220px-Teletoon_2011.PNG" group-title="Canadá",TELETOON (CA)
-http://185.232.53.5:2086/arellano/kgtL965n2Y/3205
+http://185.232.53.5:2086/tony2003/tony2003/3205
 
 #EXTINF:-1 tvg-id="noepg" tvg-name="CA : WWE" tvg-logo="http://www.freepnglogos.com/uploads/wwe-network-logo-0.png" group-title="Canadá",WWE (CA)
-http://185.232.53.5:2086/arellano/kgtL965n2Y/16218
+http://185.232.53.5:2086/tony2003/tony2003/16218
 
 #EXTINF:-1  group-title="Europa",*** Canales Europa ***
 http://livego.club:8080/Cz07YMAFcp/fZm8HS57F9/38446
@@ -949,7 +991,7 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.
 http://livego.club:8080/Cz07YMAFcp/fZm8HS57F9/23048
 
 #EXTINF:-1 tvg-logo="https://taptube.net/tv/images/channel_imgs/231216032801mtv.png" group-title="Europa",MTV (ES)
-http://185.232.53.5:2086/arellano/kgtL965n2Y/88785
+http://185.232.53.5:2086/tony2003/tony2003/88785
 
 #EXTINF:-1 tvg-logo="https://taptube.net/tv/images/channel_imgs/221216041215arte.gif" group-title="Europa",ARTE (FR)
 plugin://script.module.7of9-live/play/327/play.pvr
@@ -1052,45 +1094,45 @@ http://roedor.xyz/REGIO2O2O/mc.php?c=311&f=.m3u8
 http://livego.club:8080/Cz07YMAFcp/fZm8HS57F9/38446
 
 #EXTINF:-1 tvg-id="uk.247" tvg-name="24/7 : ANIMANIACS" tvg-logo="http://www.gstatic.com/tv/thumb/tvbanners/206489/p206489_b_v8_ae.jpg" group-title="24/7 en inglés",Animaniacs
-http://185.232.53.5:2086/arellano/kgtL965n2Y/64529
+http://185.232.53.5:2086/tony2003/tony2003/64529
 #EXTINF:-1 tvg-id="uk.247" tvg-name="24/7 : BATMAN" tvg-logo="http://www.thetvdb.com/banners/posters/77871-7.jpg" group-title="24/7 en inglés",Batman (60's)
-http://185.232.53.5:2086/arellano/kgtL965n2Y/17710
+http://185.232.53.5:2086/tony2003/tony2003/17710
 #EXTINF:-1 tvg-logo="http://www.gstatic.com/tv/thumb/tvbanners/7896580/p7896580_b_v8_ab.jpg" group-title="24/7 en inglés",Batman TAS
-http://185.232.53.5:2086/arellano/kgtL965n2Y/65532
+http://185.232.53.5:2086/tony2003/tony2003/65532
 #EXTINF:-1 tvg-id="uk.247" tvg-name="24/7 : BEAVIS & BUTT-HEAD" tvg-logo="https://artworks.thetvdb.com/banners/posters/75863-2_t.jpg" group-title="24/7 en inglés",Beavis & Butt-Head
-http://185.232.53.5:2086/arellano/kgtL965n2Y/63636
+http://185.232.53.5:2086/tony2003/tony2003/63636
 #EXTINF:-1 tvg-logo="http://www.thetvdb.com/banners/posters/194031-2.jpg" group-title="24/7 en inglés",Bob's Burgers
-http://185.232.53.5:2086/arellano/kgtL965n2Y/16161
+http://185.232.53.5:2086/tony2003/tony2003/16161
 #EXTINF:-1 tvg-id="" tvg-name="24/7 : DOCTOR WHO (2005)" tvg-logo="https://artworks.thetvdb.com/banners/posters/78804-52_t.jpg" group-title="24/7 en inglés",Doctor Who (00's)
-http://185.232.53.5:2086/arellano/kgtL965n2Y/93436
+http://185.232.53.5:2086/tony2003/tony2003/93436
 #EXTINF:-1 tvg-id="uk.247" tvg-name="24/7 : FAMILY GUY" tvg-logo="https://vignette.wikia.nocookie.net/siivagunner/images/9/9a/Family_Guy.png/revision/latest?cb=20170308005448" group-title="24/7 en inglés",Family Guy
-http://185.232.53.5:2086/arellano/kgtL965n2Y/16789
+http://185.232.53.5:2086/tony2003/tony2003/16789
 #EXTINF:-1 tvg-id="uk.247" tvg-name="24/7 : IT'S ALWAYS SUNNY IN PHILADELPHIA" tvg-logo="https://artworks.thetvdb.com/banners/posters/75805-12_t.jpg" group-title="24/7 en inglés",It's Always Sunny In Philadelphia
-http://185.232.53.5:2086/arellano/kgtL965n2Y/61641
+http://185.232.53.5:2086/tony2003/tony2003/61641
 #EXTINF:-1 tvg-id="uk.247" tvg-name="24/7 : KUNG FU" tvg-logo="http://www.gstatic.com/tv/thumb/tvbanners/184348/p184348_b_v8_aa.jpg" group-title="24/7 en inglés",Kung-Fu Movies
-http://185.232.53.5:2086/arellano/kgtL965n2Y/64275
+http://185.232.53.5:2086/tony2003/tony2003/64275
 #EXTINF:-1 tvg-id="uk.247" tvg-name="24/7 : MALCOLM IN THE MIDDLE" tvg-logo="http://www.thetvdb.com/banners/posters/73838-9.jpg" group-title="24/7 en inglés",Malcolm In The Middle
-http://185.232.53.5:2086/arellano/kgtL965n2Y/17805
+http://185.232.53.5:2086/tony2003/tony2003/17805
 #EXTINF:-1 tvg-chno="488" tvg-id="MST3K" tvg-name="MST3K" tvg-logo="https://images.pluto.tv/channels/545943f1c9f133a519bbac92/colorLogoPNG.png" group-title="24/7 en inglés",MST3K
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/545943f1c9f133a519bbac92/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=488&deviceId=545943f1c9f133a519bbac92&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-id="uk.247" tvg-name="24/7 : SPIDERMAN THE 67 COLLECTION" tvg-logo="https://artworks.thetvdb.com/banners/posters/72739-4_t.jpg" group-title="24/7 en inglés",Spider-Man (60's)
-http://185.232.53.5:2086/arellano/kgtL965n2Y/65431
+http://185.232.53.5:2086/tony2003/tony2003/65431
 #EXTINF:-1 tvg-id="uk.247" tvg-name="24/7 : SPIDERMAN AND HIS AMAZING FRIENDS" tvg-logo="https://artworks.thetvdb.com/banners/posters/71880-2_t.jpg" group-title="24/7 en inglés",Spider-Man And His Amazing Friends
-http://185.232.53.5:2086/arellano/kgtL965n2Y/65302
+http://185.232.53.5:2086/tony2003/tony2003/65302
 #EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/og-generic_02031d2b.png?region=0%2C0%2C1200%2C1200" group-title="24/7 en inglés",Star Wars Movies
-http://185.232.53.5:2086/arellano/kgtL965n2Y/18227
+http://185.232.53.5:2086/tony2003/tony2003/18227
 #EXTINF:-1 tvg-id="uk.247" tvg-name="24/7 : SPONGEBOB SQUAREPANTS" tvg-logo="https://artworks.thetvdb.com/banners/posters/75886-3_t.jpg" group-title="24/7 en inglés",SpongeBob Squarepants
-http://185.232.53.5:2086/arellano/kgtL965n2Y/53219
+http://185.232.53.5:2086/tony2003/tony2003/53219
 #EXTINF:-1 tvg-id="uk.247" tvg-name="24/7 : TALES FROM THE CRYPT" tvg-logo="http://www.thetvdb.com/banners/posters/73029-2.jpg" group-title="24/7 en inglés",Tales From The Crypt
-http://185.232.53.5:2086/arellano/kgtL965n2Y/15687
+http://185.232.53.5:2086/tony2003/tony2003/15687
 #EXTINF:-1 tvg-id="uk.247" tvg-name="24/7 : THE INCREDIBLE HULK" tvg-logo="http://www.gstatic.com/tv/thumb/tvbanners/183972/p183972_b_v8_ba.jpg" group-title="24/7 en inglés",The Incredible Hulk
-http://185.232.53.5:2086/arellano/kgtL965n2Y/64521
+http://185.232.53.5:2086/tony2003/tony2003/64521
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/73244-1_t.jpg" group-title="24/7 en inglés",The Office (US)
-http://185.232.53.5:2086/arellano/kgtL965n2Y/16153
+http://185.232.53.5:2086/tony2003/tony2003/16153
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.oXKcWpXr-Ff4Z_BkUiMIowHaDa&pid=Api&P=0&w=360&h=167" group-title="24/7 en español",TMNT
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=1b6f7d56-8787-4e86-99ad-8a3c6ba2c6e0&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 #EXTINF:-1 tvg-id="uk.247" tvg-name="24/7 : THE TWILIGHT ZONE" tvg-logo="http://www.thetvdb.com/banners/posters/73587-13.jpg" group-title="24/7 en inglés",The Twilight Zone
-http://185.232.53.5:2086/arellano/kgtL965n2Y/18202
+http://185.232.53.5:2086/tony2003/tony2003/18202
 
 #EXTINF:-1 group-title="adultswim.com",*** AdultSwim ***
 https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream.m3u8
