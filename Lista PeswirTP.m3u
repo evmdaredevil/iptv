@@ -129,7 +129,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0
 http://185.232.53.5:2086/tony2003/tony2003/88708
 #EXTINF:-1 tvg-id="Cinema.mx" tvg-name="AZTECA CINEMA" tvg-logo="https://i.ibb.co/RBHzKdk/Az-Cinema.png" group-title="Cine" tvg-shift="-6",AZTECA CINEMA
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1787&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AZTECA CINEMA" tvg-logo="https://i.ibb.co/RBHzKdk/Az-Cinema.png" group-title="Cine" tvg-shift="-6",AZTECA CINEMA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AZTECA CINEMA" tvg-logo="https://i.ibb.co/RBHzKdk/Az-Cinema.png" group-title="Cine" tvg-shift="-6",AZTECA CINEMA HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=1787&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-id="Cine Latino" tvg-name="CINE LATINO" tvg-logo="https://s3.castbox.fm/29/e1/43/98e45d48d39a208a4d9dd5c2f0.png" group-title="Cine" tvg-shift="-6",CINE LATINO
 http://titanlivetv.com:8080/ewok/ewok/1817
@@ -174,9 +174,6 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=146&f=HLSAD&s=zec
 #EXTINF:-1 tvg-id="FoxPremiumSeries(Este).mx" tvg-name="FOX SERIES" tvg-logo="https://i.ibb.co/bJy7C0r/Fox-Series.png" group-title="Cine" tvg-shift="-6",FOX SERIES
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=139&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 #EXTINF:-1 tvg-id="FXM(English).mx" tvg-name="FXM" tvg-logo="https://i.ibb.co/J78nC62/FXM-2.png" group-title="Cine" tvg-shift="-6",FXM
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=138&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
-#EXTINF:-1 tvg-id="FXM(English).mx" tvg-name="FXM (2)" tvg-logo="https://i.ibb.co/J78nC62/FXM-2.png" group-title="Cine" tvg-shift="-6",FXM (2)
-http://regioflix.club/Sr_Regio/tp.php?c=138&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="https://i.ibb.co/Z2vk4HS/TNT.png" group-title="Cine" tvg-shift="-6",TNT
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=126&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT HD" tvg-logo="https://i.ibb.co/Z2vk4HS/TNT.png" group-title="Cine" tvg-shift="-6",TNT HD
@@ -209,9 +206,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=137&f=HLSAD&s=zec
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=136&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 #EXTINF:-1 tvg-id="ISAT.mx" tvg-name="I-SAT" tvg-logo="https://i.ibb.co/FgYFdmw/I-Sat.png" group-title="Cine" tvg-shift="-6",I-SAT
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=135&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
-#EXTINF:-1 tvg-id="MorbidoTV.mx" tvg-name="MORBIDO TV" tvg-logo="https://i.ibb.co/zGWCM4r/Morbido-TV.png" group-title="Cine" tvg-shift="-6",MORBIDO TV
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=140&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
-#EXTINF:-1 tvg-id="MorbidoTV.mx" tvg-name="MORBIDO TV (2)" tvg-logo="https://i.ibb.co/zGWCM4r/Morbido-TV.png" group-title="Cine" tvg-shift="-6",MORBIDO TV (2)
+#EXTINF:-1 tvg-id="MorbidoTV.mx" tvg-name="MORBIDO TV (2)" tvg-logo="https://i.ibb.co/zGWCM4r/Morbido-TV.png" group-title="Cine" tvg-shift="-6",MORBIDO TV
 https://totalgo.totalplay.com.mx/TPMCOREWeb/LiveAdaptive?v=N&session=vh7m2joxow2tlmt&lchId=140&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="*** Entretenimiento ***" tvg-logo="" group-title="Entretenimiento" tvg-shift="-6",*** Entretenimiento ***
 http://livego.club:8080/Cz07YMAFcp/fZm8HS57F9/38446
@@ -225,8 +220,6 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=77&f=HLSAD&s=zecp
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=60&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 #EXTINF:-1 tvg-id="FX.mx" tvg-name="FX HD" tvg-logo="https://i.ibb.co/QvBd668/FX-2.png" group-title="Entretenimiento" tvg-shift="-6",FX HD
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=209&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
-#EXTINF:-1 tvg-id="FX.mx" tvg-name="FX HD (2)" tvg-logo="https://i.ibb.co/QvBd668/FX-2.png" group-title="Entretenimiento" tvg-shift="-6",FX HD (2)
-http://regioflix.club/Sr_Regio/tp.php?c=209&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Frecuencia Musical" tvg-logo="https://i.imgur.com/kV5t7Dg.png" group-title="Entretenimiento" tvg-shift="-6",Frecuencia Musical
 https://595b85410a151.streamlock.net:443/8056/8056/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Frecuencia Musical (2)" tvg-logo="https://i.imgur.com/kV5t7Dg.png" group-title="Entretenimiento" tvg-shift="-6",Frecuencia Musical (2)
@@ -249,8 +242,6 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=71&f=HLSAD&s=zecp
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=85&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 #EXTINF:-1 tvg-id="Unicable.mx" tvg-name="UNICABLE" tvg-logo="https://i.ibb.co/689DF6Q/Unicable-2.png" group-title="Entretenimiento" tvg-shift="-6",UNICABLE
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1499&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
-#EXTINF:-1 tvg-id="Unicable.mx" tvg-name="UNICABLE (2)" tvg-logo="https://i.ibb.co/689DF6Q/Unicable-2.png" group-title="Entretenimiento" tvg-shift="-6",UNICABLE (2)
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1499&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
 #EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="DISTRITO COMEDIA" tvg-logo="https://i.ibb.co/rFjQ7MQ/Distrito-Comedia.png" group-title="Entretenimiento" tvg-shift="-6",DISTRITO COMEDIA
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=78&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 #EXTINF:-1 tvg-id="TLNovelas.mx" tvg-name="TL NOVELAS" tvg-logo="https://i.ibb.co/9vdW572/Telenovelas.png" group-title="Entretenimiento" tvg-shift="-6",TL NOVELAS
@@ -265,8 +256,6 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=64&f=HLSAD&s=zecp
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=64&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="COMEDY CENTRAL" tvg-logo="https://i.ibb.co/wNpwDXq/Comedy-Central-2.png" group-title="Entretenimiento" tvg-shift="-6",COMEDY CENTRAL
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=340&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
-#EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="COMEDY CENTRAL (2)" tvg-logo="https://i.ibb.co/wNpwDXq/Comedy-Central-2.png" group-title="Entretenimiento" tvg-shift="-6",COMEDY CENTRAL (2)
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=340&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
 #EXTINF:-1 tvg-id="EEntertainmentTV.mx" tvg-name="E!" tvg-logo="https://i.ibb.co/Tb3D9d9/E.png" group-title="Entretenimiento" tvg-shift="-6",E!
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=55&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="E! HD" tvg-logo="https://i.ibb.co/Tb3D9d9/E.png" group-title="Entretenimiento" tvg-shift="-6",E! HD
@@ -351,8 +340,6 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=95&f=HLSAD&s=zecp
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2379&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 #EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="DISCOVERY WORLD" tvg-logo="https://i.ibb.co/VVd1fXY/Discovery-World.png" group-title="Cultura" tvg-shift="-6",DISCOVERY WORLD
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=101&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
-#EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="DISCOVERY WORLD (2)" tvg-logo="https://i.ibb.co/VVd1fXY/Discovery-World.png" group-title="Cultura" tvg-shift="-6",DISCOVERY WORLD (2)
-http://geotvplus.com:2082/Flix-Play/urZOuKYx9s/54124
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="NAT GEO" tvg-logo="https://i.ibb.co/J3cBn1h/Nat-Geo.png" group-title="Cultura" tvg-shift="-6",NAT GEO
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=91&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.es" tvg-name="NAT GEO (ESPAÑA)" tvg-logo="https://i.ibb.co/J3cBn1h/Nat-Geo.png" group-title="Cultura" tvg-shift="-6",NAT GEO (ESPAÑA)
@@ -473,8 +460,6 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=184&f=HLSAD&s=zec
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1449&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 #EXTINF:-1 tvg-id="CNN(English).mx" tvg-name="CNN" tvg-logo="https://i.ibb.co/rmmTgGk/CNN.png" group-title="Noticias" tvg-shift="-6",CNN
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=185&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
-#EXTINF:-1 tvg-id="CNN(English).mx" tvg-name="CNN (2)" tvg-logo="https://i.ibb.co/rmmTgGk/CNN.png" group-title="Noticias" tvg-shift="-6",CNN (2)
-http://regioflix.club/Sr_Regio/tp.php?c=186&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="CNNEnEspanol.mx" tvg-name="CNN Ñ" tvg-logo="https://i.ibb.co/PF1ktjD/CN.png" group-title="Noticias" tvg-shift="-6",CNN Ñ
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=187&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.mx" tvg-name="FOX NEWS" tvg-logo="https://i.ibb.co/x7LQBJ0/Fox-News.png" group-title="Noticias" tvg-shift="-6",FOX NEWS
