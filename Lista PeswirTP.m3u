@@ -1,6 +1,7 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/v158yx5z14s8pr4n9mwr"
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="*** TV Abierta ***" tvg-logo="" group-title="TV Abierta" tvg-shift="-6",*** TV Abierta ***
-https://youtu.be/NMre6IAAAiU
+http://livego.club:8080/Cz07YMAFcp/fZm8HS57F9/38446
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="IMAGEN TV" tvg-logo="https://i.ibb.co/2yH7rSF/Imagen-2.png" group-title="TV Abierta" tvg-shift="-6",IMAGEN TV
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2298&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IMAGEN TV HD" tvg-logo="https://i.ibb.co/2yH7rSF/Imagen-2.png" group-title="TV Abierta" tvg-shift="-6",IMAGEN TV HD
@@ -73,8 +74,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2316&f=HLSAD&s=ze
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2324&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
 #EXTINF:-1 tvg-id="CongresoNacionalTV.mx" tvg-name="CANAL DEL CONGRESO" tvg-logo="https://i.ibb.co/yk34GBg/Canal-del-Congreso.png" group-title="TV Abierta" tvg-shift="-6",CANAL DEL CONGRESO
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2331&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
-#EXTINF:-1 tvg-id="Academia" tvg-name="ACADEMIA" tvg-logo="https://i.ibb.co/7pYhH94/Academia.png" group-title="TV Abierta" tvg-shift="-6",ACADEMIA
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2703&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="*** Animación ***" tvg-logo="" group-title="Animación" tvg-shift="-6",*** Animación ***
 http://livego.club:8080/Cz07YMAFcp/fZm8HS57F9/38446
 #EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="CARTOON NETWORK" tvg-logo="https://i.ibb.co/T1FmWd9/Cartoon-Network.png" group-title="Animación" tvg-shift="-6",CARTOON NETWORK
@@ -113,8 +113,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2591&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 #EXTINF:-1 tvg-id="Locomotion" tvg-name="LOCOMOTION" tvg-logo="http://logosolusa.com/wp-content/uploads/parser/Locomotion-Logo-1.png" group-title="Animación" tvg-shift="-6",LOCOMOTION
 http://www.toonxtv.net/hls/loco_ch/stream.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NICK (PLUTO)" tvg-logo="http://1.bp.blogspot.com/_C8Dpr9s51ug/TAlqb5Ha4aI/AAAAAAAABaU/Of3TKoGmEnQ/s1600/nickla.png" group-title="(no group)" tvg-shift="-6",NICK (PLUTO)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=ef3ebd75-05aa-4f7e-b1bf-250819c2c37e&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceDNT=0&userId=&advertisingId=&deviceLat=25.8295&deviceLon=-80.2927&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="*** Cine ***" tvg-logo="" group-title="Cine" tvg-shift="-6",*** Cine ***
 http://livego.club:8080/Cz07YMAFcp/fZm8HS57F9/38446
 #EXTINF:-1 tvg-id="DePelicula.mx" tvg-name="DE PELICULA" tvg-logo="https://i.ibb.co/dcgYLqz/De-Pelicula.png" group-title="Cine" tvg-shift="-6",DE PELICULA
@@ -208,6 +207,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=136&f=HLSAD&s=zec
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=135&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 #EXTINF:-1 tvg-id="MorbidoTV.mx" tvg-name="MORBIDO TV (2)" tvg-logo="https://i.ibb.co/zGWCM4r/Morbido-TV.png" group-title="Cine" tvg-shift="-6",MORBIDO TV
 https://totalgo.totalplay.com.mx/TPMCOREWeb/LiveAdaptive?v=N&session=vh7m2joxow2tlmt&lchId=140&format=HLSAD&f=.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="*** Entretenimiento ***" tvg-logo="" group-title="Entretenimiento" tvg-shift="-6",*** Entretenimiento ***
 http://livego.club:8080/Cz07YMAFcp/fZm8HS57F9/38446
 #EXTINF:-1 tvg-id="Fox.mx" tvg-name="FOX" tvg-logo="https://i.ibb.co/FhDvNyz/Fox-2.png" group-title="Entretenimiento" tvg-shift="-6",FOX
@@ -286,6 +286,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=199&f=HLSAD&s=2b6
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2113&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COSMO (ES)" tvg-logo="https://taptube.net/tv/images/channel_imgs/231216042848cosmo.png" group-title="Europa" tvg-shift="-6",COSMO (ES)
 http://185.232.53.5:2086/tony2003/tony2003/88686
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="*** Canales Europa ***" tvg-logo="" group-title="Europa" tvg-shift="-6",*** Canales Europa ***
 http://livego.club:8080/Cz07YMAFcp/fZm8HS57F9/38446
 #EXTINF:-1 tvg-id="FOX.uk" tvg-name="FOX (UK)" tvg-logo="https://taptube.net/tv/images/channel_imgs/290616022614fox.jpg" group-title="Europa" tvg-shift="-6",FOX (UK)
@@ -318,6 +319,7 @@ plugin://script.module.7of9-live/play/318/play.pvr
 plugin://script.module.7of9-live/play/443/play.pvr
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M2O TV (IT)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSaHmyDU7KRtKpKGSM_MlB9LJo6-nk8Y6odXA&usqp=CAU" group-title="Europa" tvg-shift="-6",M2O TV (IT)
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="*** Cultura ***" tvg-logo="" group-title="Cultura" tvg-shift="-6",*** Cultura ***
 http://livego.club:8080/Cz07YMAFcp/fZm8HS57F9/38446
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.ibb.co/RQ0Z0D6/Discovery-Channel.png" group-title="Cultura" tvg-shift="-6",DISCOVERY CHANNEL
@@ -372,6 +374,7 @@ http://regioflix.club/Sr_Regio/tp.php?c=198&p=3&k=srregio&f=.m3u8
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2375&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 #EXTINF:-1 tvg-id="CuriosityStream(English).mx" tvg-name="CURIOSITY STREAM" tvg-logo="https://i.ibb.co/WfpsDDq/Curiosity-Stream.png" group-title="Cultura" tvg-shift="-6",CURIOSITY STREAM
 http://regioflix.club/Sr_Regio/tp.php?c=2594&p=3&k=srregio&f=.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="*** Música ***" tvg-logo="" group-title="Música" tvg-shift="-6",*** Música ***
 http://livego.club:8080/Cz07YMAFcp/fZm8HS57F9/38446
 #EXTINF:-1 tvg-id="MTV.mx" tvg-name="MTV" tvg-logo="https://i.ibb.co/34TpsYc/MTV.png" group-title="Música" tvg-shift="-6",MTV
@@ -396,6 +399,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=218&f=HLSAD&s=zec
 http://roedor.xyz/REGIO2O2O/mc.php?c=33&f.m3u8
 #EXTINF:-1 tvg-id="Bandamax.mx" tvg-name="BANDAMAX" tvg-logo="https://i.ibb.co/RNHhy38/Bandamax.png" group-title="Música" tvg-shift="-6",BANDAMAX
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=221&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="*** Deportes ***" tvg-logo="" group-title="Deportes" tvg-shift="-6",*** Deportes ***
 http://livego.club:8080/Cz07YMAFcp/fZm8HS57F9/38446
 #EXTINF:-1 tvg-id="ESPNLatin.mx" tvg-name="ESPN" tvg-logo="https://i.ibb.co/WFY9fVX/ESPN.png" group-title="Deportes" tvg-shift="-6",ESPN
@@ -442,6 +446,7 @@ http://regioflix.club/Sr_Regio/tp.php?c=2148&p=3&k=srregio&f=.m3u8
 http://regioflix.club/Sr_Regio/tp.php?c=2587&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="TheGolfChannelLatinoamerica.mx" tvg-name="GOLF" tvg-logo="https://i.ibb.co/hsTQf6k/Golf.png" group-title="Deportes" tvg-shift="-6",GOLF
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=179&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="*** Noticias ***" tvg-logo="" group-title="Noticias" tvg-shift="-6",*** Noticias ***
 http://livego.club:8080/Cz07YMAFcp/fZm8HS57F9/38446
 #EXTINF:-1 tvg-id="MilenioTV.mx" tvg-name="MILENIO" tvg-logo="https://i.ibb.co/TqZkbmJ/Milenio.png" group-title="Noticias" tvg-shift="-6",MILENIO
@@ -488,6 +493,7 @@ http://regioflix.club/Sr_Regio/tp.php?c=2091&p=3&k=srregio&f=.m3u8
 http://regioflix.club/Sr_Regio/tp.php?c=2402&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="AlJazeera(English).mx" tvg-name="AL JAAZERA" tvg-logo="https://i.ibb.co/QMCk9SZ/Al-Jaaed.png" group-title="Noticias" tvg-shift="-6",AL JAAZERA
 http://regioflix.club/Sr_Regio/tp.php?c=192&p=3&k=srregio&f=.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="*** Canales Latinoamérica ***" tvg-logo="" group-title="LatAm" tvg-shift="-6",*** Canales Latinoamérica ***
 http://livego.club:8080/Cz07YMAFcp/fZm8HS57F9/38446
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Caracol" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062014/logo_caracol_television.jpg?itok=Wmo-Rups" group-title="LatAm" tvg-shift="-6",Caracol
@@ -502,6 +508,7 @@ http://200.115.193.177/live/26hd-720/chunklist_w2010074499.m3u8
 http://wowza.telpin.com.ar:1936/live-powerTV/power.stream/chunklist_w528506640.m3u8
 #EXTINF:-1 tvg-id="Telemax(XEWH).mx" tvg-name="Telemax" tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/887.png" group-title="LatAm" tvg-shift="-6",Telemax
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1229773025_b1828000_sleng.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="*** Canales USA ***" tvg-logo="" group-title="USA" tvg-shift="-6",*** Canales USA ***
 http://livego.club:8080/Cz07YMAFcp/fZm8HS57F9/38446
 #EXTINF:-1 tvg-id="aande.us" tvg-name="US : A&E FHD 1080" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/aande.png" group-title="USA" tvg-shift="-6",US : A&E FHD 1080
@@ -620,36 +627,34 @@ https://nrpus.bozztv.com/36bay2/gusa-planetmusic/index.m3u8
 https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RetroCrush/7cf7a093-f906-49ee-b392-27de55787a74/0.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Screamfest" tvg-logo="https://i.imgur.com/yfEizcN.png" group-title="USA" tvg-shift="-6",Screamfest
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="*** Canales Canadá ***" tvg-logo="" group-title="Canadá" tvg-shift="-6",*** Canales Canadá ***
 http://livego.club:8080/Cz07YMAFcp/fZm8HS57F9/38446
-#EXTINF:-1 tvg-id="aande.ca" tvg-name="CA : A&E" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/aande.png" group-title="Canadá" tvg-shift="-6",CA : A&E
+#EXTINF:-1 tvg-id="aande.ca" tvg-name="CA : A&E" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/aande.png" group-title="Canadá" tvg-shift="-6",A&E (CA)
 http://185.232.53.5:2086/tony2003/tony2003/16240
-#EXTINF:-1 tvg-id="cartoonnetwork.ca" tvg-name="CA : CARTOON NETWORK" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cartoonnetwork.png" group-title="Canadá" tvg-shift="-6",CA : CARTOON NETWORK
+#EXTINF:-1 tvg-id="cartoonnetwork.ca" tvg-name="CA : CARTOON NETWORK" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cartoonnetwork.png" group-title="Canadá" tvg-shift="-6",CARTOON NETWORK  (CA)
 http://185.232.53.5:2086/tony2003/tony2003/3270
-#EXTINF:-1 tvg-id="disneychannel.ca" tvg-name="CA : DISNEY CHANNEL" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/disney.png" group-title="Canadá" tvg-shift="-6",CA : DISNEY CHANNEL
+#EXTINF:-1 tvg-id="disneychannel.ca" tvg-name="CA : DISNEY CHANNEL" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/disney.png" group-title="Canadá" tvg-shift="-6",DISNEY CHANNEL  (CA)
 http://185.232.53.5:2086/tony2003/tony2003/3261
-#EXTINF:-1 tvg-id="disneyjunior.ca" tvg-name="CA : DISNEY JR" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/disney_junior.png" group-title="Canadá" tvg-shift="-6",CA : DISNEY JR
+#EXTINF:-1 tvg-id="disneyjunior.ca" tvg-name="CA : DISNEY JR" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/disney_junior.png" group-title="Canadá" tvg-shift="-6",DISNEY JR  (CA)
 http://185.232.53.5:2086/tony2003/tony2003/3260
-#EXTINF:-1 tvg-id="disneyxd.ca" tvg-name="CA : DISNEY XD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/disneyxd.png" group-title="Canadá" tvg-shift="-6",CA : DISNEY XD
+#EXTINF:-1 tvg-id="disneyxd.ca" tvg-name="CA : DISNEY XD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/disneyxd.png" group-title="Canadá" tvg-shift="-6",DISNEY XD  (CA)
 http://185.232.53.5:2086/tony2003/tony2003/65851
-#EXTINF:-1 tvg-id="fxnow.ca" tvg-name="CA : FX" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/fxcanada.png" group-title="Canadá" tvg-shift="-6",CA : FX
+#EXTINF:-1 tvg-id="fxnow.ca" tvg-name="CA : FX" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/fxcanada.png" group-title="Canadá" tvg-shift="-6",FX  (CA)
 http://185.232.53.5:2086/tony2003/tony2003/16201
-#EXTINF:-1 tvg-id="fxx.ca" tvg-name="CA : FXX" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/fxx.png" group-title="Canadá" tvg-shift="-6",CA : FXX
+#EXTINF:-1 tvg-id="fxx.ca" tvg-name="CA : FXX" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/fxx.png" group-title="Canadá" tvg-shift="-6",FXX  (CA)
 http://185.232.53.5:2086/tony2003/tony2003/16200
-#EXTINF:-1 tvg-id="mtv.ca" tvg-name="CA : MTV" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/140px-MTV_Logo_2010.svg.png" group-title="Canadá" tvg-shift="-6",CA : MTV
+#EXTINF:-1 tvg-id="mtv.ca" tvg-name="CA : MTV" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/140px-MTV_Logo_2010.svg.png" group-title="Canadá" tvg-shift="-6",MTV  (CA)
 http://185.232.53.5:2086/tony2003/tony2003/13229
-#EXTINF:-1 tvg-id="muchmusic.ca" tvg-name="CA : MUCH MUSIC" tvg-logo="https://seeklogo.com/images/M/MuchMusic-logo-7E42B1AE67-seeklogo.com.png" group-title="Canadá" tvg-shift="-6",CA : MUCH MUSIC
+#EXTINF:-1 tvg-id="muchmusic.ca" tvg-name="CA : MUCH MUSIC" tvg-logo="https://seeklogo.com/images/M/MuchMusic-logo-7E42B1AE67-seeklogo.com.png" group-title="Canadá" tvg-shift="-6",MUCH MUSIC  (CA)
 http://185.232.53.5:2086/tony2003/tony2003/13228
-#EXTINF:-1 tvg-id="nickelodeon.ca" tvg-name="CA : NICKELODEON" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/250px-Nickelodeon_2009_logo.svg.png" group-title="Canadá" tvg-shift="-6",CA : NICKELODEON
+#EXTINF:-1 tvg-id="nickelodeon.ca" tvg-name="CA : NICKELODEON" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/250px-Nickelodeon_2009_logo.svg.png" group-title="Canadá" tvg-shift="-6",NICKELODEON  (CA)
 http://185.232.53.5:2086/tony2003/tony2003/3238
-#EXTINF:-1 tvg-id="teletoon.ca" tvg-name="CA : TELETOON" tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Teletoon_2011.PNG/220px-Teletoon_2011.PNG" group-title="Canadá" tvg-shift="-6",CA : TELETOON
+#EXTINF:-1 tvg-id="teletoon.ca" tvg-name="CA : TELETOON" tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Teletoon_2011.PNG/220px-Teletoon_2011.PNG" group-title="Canadá" tvg-shift="-6",TELETOON  (CA)
 http://185.232.53.5:2086/tony2003/tony2003/3205
-#EXTINF:-1 tvg-id="noepg" tvg-name="CA : WWE" tvg-logo="http://www.freepnglogos.com/uploads/wwe-network-logo-0.png" group-title="Canadá" tvg-shift="-6",CA : WWE
+#EXTINF:-1 tvg-id="noepg" tvg-name="CA : WWE" tvg-logo="http://www.freepnglogos.com/uploads/wwe-network-logo-0.png" group-title="Canadá" tvg-shift="-6",WWE (CA)
 http://185.232.53.5:2086/tony2003/tony2003/16218
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="84.3 FM Edogawa (FMえどがわ-JOZZ3AS-FM-Edogawa City-Tokyo)" tvg-logo="" group-title="JAPAN" tvg-shift="-6",84.3 FM Edogawa (FMえどがわ-JOZZ3AS-FM-Edogawa City-Tokyo)
-http://musicbird.leanstream.co/JCB032-MP3
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Banana FM (バナナエフエム-JOZZ7BE-FM-87.7 MHz-Wakayama City)" tvg-logo="" group-title="JAPAN" tvg-shift="-6",Banana FM (バナナエフエム-JOZZ7BE-FM-87.7 MHz-Wakayama City)
-http://musicbird.leanstream.co/JCB075-MP3
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="*** Canales Japón ***" tvg-logo="" group-title="JAPAN" tvg-shift="-6",*** Canales Japón ***
 http://livego.club:8080/Cz07YMAFcp/fZm8HS57F9/38446
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHK総合・東京" tvg-logo="https://i.imgur.com/jSJpXG0.png" group-title="JAPAN" tvg-shift="-6",NHK総合・東京
@@ -686,46 +691,48 @@ http://193.42.99.130:23455/3680/playlist.m3u8
 http://193.42.99.130:23455/3690/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WOWOWシネマ" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/87a1f3c18f1a5dee6e5906cd7b08329a.png" group-title="JAPAN" tvg-shift="-6",WOWOWシネマ
 http://193.42.99.130:23455/3700/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TMNT" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.oXKcWpXr-Ff4Z_BkUiMIowHaDa&pid=Api&P=0&w=360&h=167" group-title="24/7 en español" tvg-shift="-6",TMNT
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=1b6f7d56-8787-4e86-99ad-8a3c6ba2c6e0&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
-#EXTINF:-1 tvg-id="uk.247" tvg-name="24/7 : ANIMANIACS" tvg-logo="http://www.gstatic.com/tv/thumb/tvbanners/206489/p206489_b_v8_ae.jpg" group-title="24/7 en inglés" tvg-shift="-6",24/7 : ANIMANIACS
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="*** TV Abierta ***" tvg-logo="" group-title="TV Abierta" tvg-shift="-6",*** 24/7 en Inglés ***
+http://livego.club:8080/Cz07YMAFcp/fZm8HS57F9/38446
+#EXTINF:-1 tvg-id="uk.247" tvg-name="24/7 : ANIMANIACS" tvg-logo="http://www.gstatic.com/tv/thumb/tvbanners/206489/p206489_b_v8_ae.jpg" group-title="24/7 en inglés" tvg-shift="-6",24/7: ANIMANIACS
 http://185.232.53.5:2086/tony2003/tony2003/64529
-#EXTINF:-1 tvg-id="uk.247" tvg-name="24/7 : BATMAN" tvg-logo="http://www.thetvdb.com/banners/posters/77871-7.jpg" group-title="24/7 en inglés" tvg-shift="-6",24/7 : BATMAN
+#EXTINF:-1 tvg-id="uk.247" tvg-name="24/7 : BATMAN" tvg-logo="http://www.thetvdb.com/banners/posters/77871-7.jpg" group-title="24/7 en inglés" tvg-shift="-6",24/7: BATMAN
 http://185.232.53.5:2086/tony2003/tony2003/17710
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Batman TAS" tvg-logo="http://www.gstatic.com/tv/thumb/tvbanners/7896580/p7896580_b_v8_ab.jpg" group-title="24/7 en inglés" tvg-shift="-6",Batman TAS
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Batman TAS" tvg-logo="http://www.gstatic.com/tv/thumb/tvbanners/7896580/p7896580_b_v8_ab.jpg" group-title="24/7 en inglés" tvg-shift="-6",24/7: Batman TAS
 http://185.232.53.5:2086/tony2003/tony2003/65532
-#EXTINF:-1 tvg-id="uk.247" tvg-name="24/7 : BEAVIS & BUTT-HEAD" tvg-logo="https://artworks.thetvdb.com/banners/posters/75863-2_t.jpg" group-title="24/7 en inglés" tvg-shift="-6",24/7 : BEAVIS & BUTT-HEAD
+#EXTINF:-1 tvg-id="uk.247" tvg-name="24/7 : BEAVIS & BUTT-HEAD" tvg-logo="https://artworks.thetvdb.com/banners/posters/75863-2_t.jpg" group-title="24/7 en inglés" tvg-shift="-6",24/7: BEAVIS & BUTT-HEAD
 http://185.232.53.5:2086/tony2003/tony2003/63636
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bob's Burgers" tvg-logo="http://www.thetvdb.com/banners/posters/194031-2.jpg" group-title="24/7 en inglés" tvg-shift="-6",Bob's Burgers
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bob's Burgers" tvg-logo="http://www.thetvdb.com/banners/posters/194031-2.jpg" group-title="24/7 en inglés" tvg-shift="-6",24/7: Bob's Burgers
 http://185.232.53.5:2086/tony2003/tony2003/16161
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 : DOCTOR WHO (2005)" tvg-logo="https://artworks.thetvdb.com/banners/posters/78804-52_t.jpg" group-title="24/7 en inglés" tvg-shift="-6",24/7 : DOCTOR WHO (2005)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 : DOCTOR WHO (2005)" tvg-logo="https://artworks.thetvdb.com/banners/posters/78804-52_t.jpg" group-title="24/7 en inglés" tvg-shift="-6",24/7: DOCTOR WHO (2005)
 http://185.232.53.5:2086/tony2003/tony2003/93436
-#EXTINF:-1 tvg-id="uk.247" tvg-name="24/7 : FAMILY GUY" tvg-logo="https://vignette.wikia.nocookie.net/siivagunner/images/9/9a/Family_Guy.png/revision/latest?cb=20170308005448" group-title="24/7 en inglés" tvg-shift="-6",24/7 : FAMILY GUY
+#EXTINF:-1 tvg-id="uk.247" tvg-name="24/7 : FAMILY GUY" tvg-logo="https://vignette.wikia.nocookie.net/siivagunner/images/9/9a/Family_Guy.png/revision/latest?cb=20170308005448" group-title="24/7 en inglés" tvg-shift="-6",24/7: FAMILY GUY
 http://185.232.53.5:2086/tony2003/tony2003/16789
-#EXTINF:-1 tvg-id="uk.247" tvg-name="24/7 : IT'S ALWAYS SUNNY IN PHILADELPHIA" tvg-logo="https://artworks.thetvdb.com/banners/posters/75805-12_t.jpg" group-title="24/7 en inglés" tvg-shift="-6",24/7 : IT'S ALWAYS SUNNY IN PHILADELPHIA
+#EXTINF:-1 tvg-id="uk.247" tvg-name="24/7 : IT'S ALWAYS SUNNY IN PHILADELPHIA" tvg-logo="https://artworks.thetvdb.com/banners/posters/75805-12_t.jpg" group-title="24/7 en inglés" tvg-shift="-6",24/7: IT'S ALWAYS SUNNY IN PHILADELPHIA
 http://185.232.53.5:2086/tony2003/tony2003/61641
-#EXTINF:-1 tvg-id="uk.247" tvg-name="24/7 : KUNG FU" tvg-logo="http://www.gstatic.com/tv/thumb/tvbanners/184348/p184348_b_v8_aa.jpg" group-title="24/7 en inglés" tvg-shift="-6",24/7 : KUNG FU
+#EXTINF:-1 tvg-id="uk.247" tvg-name="24/7 : KUNG FU" tvg-logo="http://www.gstatic.com/tv/thumb/tvbanners/184348/p184348_b_v8_aa.jpg" group-title="24/7 en inglés" tvg-shift="-6",24/7: KUNG FU
 http://185.232.53.5:2086/tony2003/tony2003/64275
-#EXTINF:-1 tvg-id="uk.247" tvg-name="24/7 : MALCOLM IN THE MIDDLE" tvg-logo="http://www.thetvdb.com/banners/posters/73838-9.jpg" group-title="24/7 en inglés" tvg-shift="-6",24/7 : MALCOLM IN THE MIDDLE
+#EXTINF:-1 tvg-id="uk.247" tvg-name="24/7 : MALCOLM IN THE MIDDLE" tvg-logo="http://www.thetvdb.com/banners/posters/73838-9.jpg" group-title="24/7 en inglés" tvg-shift="-6",24/7: MALCOLM IN THE MIDDLE
 http://185.232.53.5:2086/tony2003/tony2003/17805
-#EXTINF:-1 tvg-id="MST3K" tvg-name="MST3K" tvg-logo="https://images.pluto.tv/channels/545943f1c9f133a519bbac92/colorLogoPNG.png" group-title="24/7 en inglés" tvg-shift="-6",MST3K
+#EXTINF:-1 tvg-id="MST3K" tvg-name="MST3K" tvg-logo="https://images.pluto.tv/channels/545943f1c9f133a519bbac92/colorLogoPNG.png" group-title="24/7 en inglés" tvg-shift="-6",24/7: MST3K
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/545943f1c9f133a519bbac92/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=488&deviceId=545943f1c9f133a519bbac92&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-id="uk.247" tvg-name="24/7 : SPIDERMAN THE 67 COLLECTION" tvg-logo="https://artworks.thetvdb.com/banners/posters/72739-4_t.jpg" group-title="24/7 en inglés" tvg-shift="-6",24/7 : SPIDERMAN THE 67 COLLECTION
+#EXTINF:-1 tvg-id="uk.247" tvg-name="24/7 : SPIDERMAN THE 67 COLLECTION" tvg-logo="https://artworks.thetvdb.com/banners/posters/72739-4_t.jpg" group-title="24/7 en inglés" tvg-shift="-6",24/7: SPIDERMAN THE 67 COLLECTION
 http://185.232.53.5:2086/tony2003/tony2003/65431
-#EXTINF:-1 tvg-id="uk.247" tvg-name="24/7 : SPIDERMAN AND HIS AMAZING FRIENDS" tvg-logo="https://artworks.thetvdb.com/banners/posters/71880-2_t.jpg" group-title="24/7 en inglés" tvg-shift="-6",24/7 : SPIDERMAN AND HIS AMAZING FRIENDS
+#EXTINF:-1 tvg-id="uk.247" tvg-name="24/7 : SPIDERMAN AND HIS AMAZING FRIENDS" tvg-logo="https://artworks.thetvdb.com/banners/posters/71880-2_t.jpg" group-title="24/7 en inglés" tvg-shift="-6",24/7: SPIDERMAN AND HIS AMAZING FRIENDS
 http://185.232.53.5:2086/tony2003/tony2003/65302
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Wars Movies" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/og-generic_02031d2b.png?region=0%2C0%2C1200%2C1200" group-title="24/7 en inglés" tvg-shift="-6",Star Wars Movies
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Wars Movies" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/og-generic_02031d2b.png?region=0%2C0%2C1200%2C1200" group-title="24/7 en inglés" tvg-shift="-6",24/7: Star Wars Movies
 http://185.232.53.5:2086/tony2003/tony2003/18227
-#EXTINF:-1 tvg-id="uk.247" tvg-name="24/7 : SPONGEBOB SQUAREPANTS" tvg-logo="https://artworks.thetvdb.com/banners/posters/75886-3_t.jpg" group-title="24/7 en inglés" tvg-shift="-6",24/7 : SPONGEBOB SQUAREPANTS
+#EXTINF:-1 tvg-id="uk.247" tvg-name="24/7 : SPONGEBOB SQUAREPANTS" tvg-logo="https://artworks.thetvdb.com/banners/posters/75886-3_t.jpg" group-title="24/7 en inglés" tvg-shift="-6",24/7: SPONGEBOB SQUAREPANTS
 http://185.232.53.5:2086/tony2003/tony2003/53219
-#EXTINF:-1 tvg-id="uk.247" tvg-name="24/7 : TALES FROM THE CRYPT" tvg-logo="http://www.thetvdb.com/banners/posters/73029-2.jpg" group-title="24/7 en inglés" tvg-shift="-6",24/7 : TALES FROM THE CRYPT
+#EXTINF:-1 tvg-id="uk.247" tvg-name="24/7 : TALES FROM THE CRYPT" tvg-logo="http://www.thetvdb.com/banners/posters/73029-2.jpg" group-title="24/7 en inglés" tvg-shift="-6",24/7: TALES FROM THE CRYPT
 http://185.232.53.5:2086/tony2003/tony2003/15687
-#EXTINF:-1 tvg-id="uk.247" tvg-name="24/7 : THE INCREDIBLE HULK" tvg-logo="http://www.gstatic.com/tv/thumb/tvbanners/183972/p183972_b_v8_ba.jpg" group-title="24/7 en inglés" tvg-shift="-6",24/7 : THE INCREDIBLE HULK
+#EXTINF:-1 tvg-id="uk.247" tvg-name="24/7 : THE INCREDIBLE HULK" tvg-logo="http://www.gstatic.com/tv/thumb/tvbanners/183972/p183972_b_v8_ba.jpg" group-title="24/7 en inglés" tvg-shift="-6",24/7: THE INCREDIBLE HULK
 http://185.232.53.5:2086/tony2003/tony2003/64521
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Office (US)" tvg-logo="https://artworks.thetvdb.com/banners/posters/73244-1_t.jpg" group-title="24/7 en inglés" tvg-shift="-6",The Office (US)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Office (US)" tvg-logo="https://artworks.thetvdb.com/banners/posters/73244-1_t.jpg" group-title="24/7 en inglés" tvg-shift="-6",24/7: The Office (US)
 http://185.232.53.5:2086/tony2003/tony2003/16153
-#EXTINF:-1 tvg-id="uk.247" tvg-name="24/7 : THE TWILIGHT ZONE" tvg-logo="http://www.thetvdb.com/banners/posters/73587-13.jpg" group-title="24/7 en inglés" tvg-shift="-6",24/7 : THE TWILIGHT ZONE
+#EXTINF:-1 tvg-id="uk.247" tvg-name="24/7 : THE TWILIGHT ZONE" tvg-logo="http://www.thetvdb.com/banners/posters/73587-13.jpg" group-title="24/7 en inglés" tvg-shift="-6",24/7: THE TWILIGHT ZONE
 http://185.232.53.5:2086/tony2003/tony2003/18202
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="*** AdultSwim ***" tvg-logo="" group-title="adultswim.com" tvg-shift="-6",*** AdultSwim ***
 https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aqua Teen Hunger Force" tvg-logo="https://i.imgur.com/eQYzog8.png" group-title="adultswim.com" tvg-shift="-6",Aqua Teen Hunger Force
@@ -774,25 +781,30 @@ http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8
 http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Your Pretty Face Is Going to Hell" tvg-logo="https://i.imgur.com/v9HBW7B.jpg" group-title="adultswim.com" tvg-shift="-6",Your Pretty Face Is Going to Hell
 https://adultswim-vodlive.cdn.turner.com/live/ypf/stream.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Imagen Radio" tvg-logo="" group-title="México" tvg-shift="-6",Imagen Radio
+
+#EXTINF:-1 tvg-logo="" group-title="México" radio="true",Imagen Radio
 http://19233.live.streamtheworld.com/XEDAFM.mp3
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Universal Stereo" tvg-logo="" group-title="México" tvg-shift="-6",Universal Stereo
+#EXTINF:-1 tvg-logo="" group-title="México" radio="true",Universal Stereo
 http://22823.live.streamtheworld.com:3690/XHRED_FM_SC
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Oye 89.7 FM" tvg-logo="" group-title="México" tvg-shift="-6",Oye 89.7 FM
+#EXTINF:-1 tvg-logo="" group-title="México" radio="true",Oye 89.7 FM
 http://playerservices.streamtheworld.com/api/livestream-redirect/XEOYEFM.mp3
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Disney 92.1 FM" tvg-logo="" group-title="México" tvg-shift="-6",Radio Disney 92.1 FM
+#EXTINF:-1 tvg-logo="" group-title="México" radio="true",Radio Disney 92.1 FM
 https://radiodisney.spiritmedia.mx/xhfo921_m
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amor 95.3 FM" tvg-logo="" group-title="México" tvg-shift="-6",Amor 95.3 FM
+#EXTINF:-1 tvg-logo="" group-title="México" radio="true",Amor 95.3 FM
 http://playerservices.streamtheworld.com/api/livestream-redirect/XHSHFM.mp3
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XHPOP 99.3 Match FM" tvg-logo="" group-title="México" tvg-shift="-6",XHPOP 99.3 Match FM
+#EXTINF:-1 tvg-logo="" group-title="México" radio="true",XHPOP 99.3 Match FM
 http://playerservices.streamtheworld.com/api/livestream-redirect/XHPOPFM.mp3
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Classic Rock Florida HD" tvg-logo="" group-title="United States" tvg-shift="-6",Classic Rock Florida HD
+#EXTINF:-1 tvg-logo="" group-title="United States" radio="true",Classic Rock Florida HD
 http://us4.internet-radio.com:8258/
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="San Franciscos 70s HITS!" tvg-logo="" group-title="United States" tvg-shift="-6",San Franciscos 70s HITS!
+#EXTINF:-1 tvg-logo="" group-title="United States" radio="true",San Franciscos 70s HITS!
 http://198.178.123.17:10922/
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ambient Radio.org" tvg-logo="" group-title="United States" tvg-shift="-6",Ambient Radio.org
+#EXTINF:-1 tvg-logo="" group-title="United States" radio="true",Ambient Radio.org
 http://uk2.internet-radio.com:31491/
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Play Emotions" tvg-logo="" group-title="United States" tvg-shift="-6",Radio Play Emotions
+#EXTINF:-1 tvg-logo="" group-title="United States" radio="true",Radio Play Emotions
 http://5.39.82.157:8054/
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dance UK Radio" tvg-logo="" group-title="United Kingdom" tvg-shift="-6",Dance UK Radio
+#EXTINF:-1 tvg-logo="" group-title="United Kingdom" radio="true",Dance UK Radio
 http://uk2.internet-radio.com:8024/
+#EXTINF:-1 tvg-logo="" group-title="Japan" radio="true",84.3 FM Edogawa (FMえどがわ-JOZZ3AS-FM-Edogawa City-Tokyo)
+http://musicbird.leanstream.co/JCB032-MP3
+#EXTINF:-1 tvg-logo="" group-title="Japan" radio="true",Banana FM (バナナエフエム-JOZZ7BE-FM-87.7 MHz-Wakayama City)
+http://musicbird.leanstream.co/JCB075-MP3
