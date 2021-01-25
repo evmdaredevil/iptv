@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="*** TV Abierta ***" tvg-logo="" group-title="TV Abierta" tvg-shift="-6",*** TV Abierta ***
-http://livego.club:8080/Cz07YMAFcp/fZm8HS57F9/38446
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidykj6wvf185&lchId=02&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="IMAGEN TV" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s101096_dark_360w_270h.png" group-title="TV Abierta" tvg-shift="-6",IMAGEN TV
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2298&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
@@ -13,13 +13,16 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=27&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
 #EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" tvg-name="AZTECA UNO HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s24519_dark_360w_270h.png" group-title="TV Abierta" tvg-shift="-6",AZTECA UNO HD
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=27&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidykj6wvf185&lchId=7&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="AZTECA 7" tvg-logo="https://i.ibb.co/wSQzRxb/Az-7-2.png" group-title="TV Abierta" tvg-shift="-6",AZTECA 7
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=21&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="AZTECA 7 HD" tvg-logo="https://i.ibb.co/wSQzRxb/Az-7-2.png" group-title="TV Abierta" tvg-shift="-6",AZTECA 7 HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=317&format=HLS&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AZTECA 7.3" tvg-logo="https://i.ibb.co/wSQzRxb/Az-7-2.png" group-title="TV Abierta" tvg-shift="-6",AZTECA 7.3 (CLASES EN LINEA)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidykj6wvf185&lchId=3316&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="Clic.mx" tvg-name="AZ CLIC HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s92197_dark_360w_270h.png" group-title="TV Abierta" tvg-shift="-6",AZ CLIC HD
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=223&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
@@ -40,7 +43,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=17&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="LAS ESTRELLAS HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16461_dark_360w_270h.png" group-title="TV Abierta" tvg-shift="-6",LAS ESTRELLAS HD
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1784&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidykj6wvf185&lchId=17&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="XHPTDT.mx" tvg-name="TELEVISA PUEBLA" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s91868_dark_360w_270h.png" group-title="TV Abierta" tvg-shift="-6",TELEVISA PUEBLA
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2312&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
@@ -67,7 +70,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1783&f=HLSAD&s=2b
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=25&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
 #EXTINF:-1 tvg-id="Once.mx" tvg-name="ONCE HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s36139_dark_360w_270h.png" group-title="TV Abierta" tvg-shift="-6",ONCE HD
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1942&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidykj6wvf185&lchId=25&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="TVMexiquense.mx" tvg-name="MEXIQUENSE TV" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s28440_dark_360w_270h.png" group-title="TV Abierta" tvg-shift="-6",MEXIQUENSE TV
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=44&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
@@ -104,7 +107,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2331&f=HLSAD&s=2b
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="*** Animación ***" tvg-logo="" group-title="Animación" tvg-shift="-6",*** Animación ***
-http://livego.club:8080/Cz07YMAFcp/fZm8HS57F9/38446
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidykj6wvf185&lchId=02&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="CARTOON NETWORK" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16141_dark_360w_270h.png" group-title="Animación" tvg-shift="-6",CARTOON NETWORK
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=112&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
@@ -155,18 +158,18 @@ http://www.toonxtv.net/hls/loco_ch/stream.m3u8
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="*** Cine ***" tvg-logo="" group-title="Cine" tvg-shift="-6",*** Cine ***
-http://livego.club:8080/Cz07YMAFcp/fZm8HS57F9/38446
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidykj6wvf185&lchId=02&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-id="DePelicula.mx" tvg-name="DE PELICULA" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16288_dark_360w_270h.png" group-title="Cine" tvg-shift="-6",DE PELICULA
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=335&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
 #EXTINF:-1 tvg-id="DePelicula.mx" tvg-name="DE PELICULA HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16288_dark_360w_270h.png" group-title="Cine" tvg-shift="-6",DE PELICULA HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=335&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidykj6wvf185&lchId=335&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="DePeliculaPlus.mx" tvg-name="DE PELICULA +" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s74016_dark_360w_270h.png" group-title="Cine" tvg-shift="-6",DE PELICULA +
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=121&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
 #EXTINF:-1 tvg-id="DePeliculaPlus.mx" tvg-name="DE PELICULA + HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s74016_dark_360w_270h.png" group-title="Cine" tvg-shift="-6",DE PELICULA + HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=121&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidykj6wvf185&lchId=121&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="DePeliculaClasico(Spanish).us" tvg-name="DE PELICULA CLÁSICO" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s33628_dark_360w_270h.png" group-title="Cine" tvg-shift="-6",DE PELICULA CLÁSICO
 http://185.232.53.5:2086/tony2003/tony2003/88708
@@ -175,7 +178,7 @@ http://185.232.53.5:2086/tony2003/tony2003/88708
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1787&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
 
 #EXTINF:-1 tvg-id="Cinema.mx" tvg-name="AZTECA CINEMA" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s95687_dark_360w_270h.png" group-title="Cine" tvg-shift="-6",AZTECA CINEMA HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=1787&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidykj6wvf185&lchId=1787&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="CineLatino.mx" tvg-name="CINE LATINO" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s15296_dark_360w_270h.png" group-title="Cine" tvg-shift="-6",CINE LATINO
 http://titanlivetv.com:8080/ewok/ewok/1817
@@ -199,13 +202,13 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1726&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
 #EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s84823_dark_360w_270h.png" group-title="Cine" tvg-shift="-6",HBO
-http://asylumtv.ddns.net:8000/SHANNAN/SHANNAN/8520
+http://localdblagent.club:8080/October25/October25/12027
 
 #EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO LATINO HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s84823_dark_360w_270h.png" group-title="Cine" tvg-shift="-6",HBO LATINO HD
-http://asylumtv.ddns.net:8000/SHANNAN/SHANNAN/10704
+http://localdblagent.club:8080/October25/October25/12347
 
 #EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s80652_dark_360w_270h.png" group-title="Cine" tvg-shift="-6",HBO 2
-http://asylumtv.ddns.net:8000/SHANNAN/SHANNAN/8521
+http://localdblagent.club:8080/October25/October25/12028
 
 #EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO Family" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s80118_dark_360w_270h.png" group-title="Cine" tvg-shift="-6",HBO Family
 http://asylumtv.ddns.net:8000/SHANNAN/SHANNAN/8522
@@ -288,14 +291,16 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=135&f=HLSAD&s=zec
 #EXTINF:-1 tvg-id="MorbidoTV.mx" tvg-name="MORBIDO TV" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s107890_dark_360w_270h.png" group-title="Cine" tvg-shift="-6",MORBIDO TV
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=140&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
+#EXTINF:-1 tvg-id="MorbidoTV.mx" tvg-name="MORBIDO TV" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s107890_dark_360w_270h.png" group-title="Cine" tvg-shift="-6",MORBIDO TV HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidykj6wvf185&lchId=140&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="*** Entretenimiento ***" tvg-logo="" group-title="Entretenimiento" tvg-shift="-6",*** Entretenimiento ***
-http://livego.club:8080/Cz07YMAFcp/fZm8HS57F9/38446
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidykj6wvf185&lchId=02&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-id="Fox.mx" tvg-name="FOX" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s95131_dark_360w_270h.png" group-title="Entretenimiento" tvg-shift="-6",FOX
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=47&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
 #EXTINF:-1 tvg-id="Fox.mx" tvg-name="FOX HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s95131_dark_360w_270h.png" group-title="Entretenimiento" tvg-shift="-6",FOX HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=z7v6yw0kvi48dcv&lchId=46&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidykj6wvf185&lchId=46&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="FoxLife.mx" tvg-name="FOX LIFE" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s49263_dark_360w_270h.png" group-title="Entretenimiento" tvg-shift="-6",FOX LIFE
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=77&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
@@ -402,7 +407,7 @@ http://185.232.53.5:2086/tony2003/tony2003/88686
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="*** Cultura ***" tvg-logo="" group-title="Cultura" tvg-shift="-6",*** Cultura ***
-http://livego.club:8080/Cz07YMAFcp/fZm8HS57F9/38446
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidykj6wvf185&lchId=02&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s96307_dark_360w_270h.png" group-title="Cultura" tvg-shift="-6",DISCOVERY CHANNEL
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=86&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
@@ -474,7 +479,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2375&f=HLSAD&s=ze
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="*** Música ***" tvg-logo="" group-title="Música" tvg-shift="-6",*** Música ***
-http://livego.club:8080/Cz07YMAFcp/fZm8HS57F9/38446
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidykj6wvf185&lchId=02&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-id="MTV.mx" tvg-name="MTV" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s12712_dark_360w_270h.png" group-title="Música" tvg-shift="-6",MTV
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=212&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
@@ -507,7 +512,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=221&f=HLSAD&s=zec
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="*** Deportes ***" tvg-logo="" group-title="Deportes" tvg-shift="-6",*** Deportes ***
-http://livego.club:8080/Cz07YMAFcp/fZm8HS57F9/38446
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidykj6wvf185&lchId=02&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-id="ESPNLatin.mx" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s96876_dark_360w_270h.png" group-title="Deportes" tvg-shift="-6",ESPN
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=168&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
@@ -555,7 +560,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=179&f=HLSAD&s=zec
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="*** Noticias ***" tvg-logo="" group-title="Noticias" tvg-shift="-6",*** Noticias ***
-http://livego.club:8080/Cz07YMAFcp/fZm8HS57F9/38446
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidykj6wvf185&lchId=02&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-id="MilenioTV.mx" tvg-name="MILENIO" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s61719_dark_360w_270h.png" group-title="Noticias" tvg-shift="-6",MILENIO
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1250&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
@@ -597,7 +602,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=209&f=HLSAD&s=zec
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="*** Canales Latinoamérica ***" tvg-logo="" group-title="LatAm" tvg-shift="-6",*** Canales Latinoamérica ***
-http://livego.club:8080/Cz07YMAFcp/fZm8HS57F9/38446
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidykj6wvf185&lchId=02&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Caracol" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062014/logo_caracol_television.jpg?itok=Wmo-Rups" group-title="LatAm" tvg-shift="-6",Caracol
 http://185.232.53.5:2086/tony2003/tony2003/88685
 
@@ -615,7 +620,7 @@ http://wowza.telpin.com.ar:1936/live-powerTV/power.stream/chunklist_w528506640.m
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="*** Canales USA ***" tvg-logo="" group-title="USA" tvg-shift="-6",*** Canales USA ***
-http://livego.club:8080/Cz07YMAFcp/fZm8HS57F9/38446
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidykj6wvf185&lchId=02&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-id="aande.us" tvg-name="A&E (US)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s10035_dark_360w_270h.png" group-title="USA" tvg-shift="-6",A&E (US)
 http://185.232.53.5:2086/tony2003/tony2003/64160
 
@@ -792,7 +797,7 @@ https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/segli
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="*** Canales Canadá ***" tvg-logo="" group-title="Canadá" tvg-shift="-6",*** Canales Canadá ***
-http://livego.club:8080/Cz07YMAFcp/fZm8HS57F9/38446
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidykj6wvf185&lchId=02&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-id="AandE(English).ca" tvg-name="A&E (CA)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s10036_dark_360w_270h.png" group-title="Canadá" tvg-shift="-6",A&E (CA)
 http://185.232.53.5:2086/tony2003/tony2003/16240
 
@@ -831,7 +836,7 @@ http://185.232.53.5:2086/tony2003/tony2003/16218
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="*** Canales Europa ***" tvg-logo="" group-title="Europa" tvg-shift="-6",*** Canales Europa ***
-http://livego.club:8080/Cz07YMAFcp/fZm8HS57F9/38446
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidykj6wvf185&lchId=02&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-id="FOX.uk" tvg-name="FOX (UK)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s58972_dark_360w_270h.png" group-title="Europa" tvg-shift="-6",FOX (UK)
 plugin://script.module.7of9-live/play/290/play.pvr
 
@@ -879,7 +884,7 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=o
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="*** Canales Japón ***" tvg-logo="" group-title="JAPAN" tvg-shift="-6",*** Canales Japón ***
-http://livego.club:8080/Cz07YMAFcp/fZm8HS57F9/38446
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=13jidykj6wvf185&lchId=02&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Tokyo JP" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/815ae2a83110ea1341cf8691ad462ad6.png" group-title="JAPAN" tvg-shift="-6",テレビ東京
 http://193.42.99.130:23455/TVTOKYO/playlist.m3u8
 
