@@ -670,7 +670,7 @@ plugin://script.module.7of9-live/play/603/play.pvr
 http://mytv.fun:8080/Oskartest/t4h92jfvp/13756
 
 #EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="COMEDY CENTRAL (US)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s10149_dark_360w_270h.png" group-title="USA" tvg-shift="-6",COMEDY CENTRAL (US)
-plugin://script.module.7of9-live/play/85/play.pvr
+http://mytv.fun:8080/Oskartest/t4h92jfvp/4882
 
 #EXTINF:-1 tvg-id="hbo.us" tvg-name="HBO (US)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s10240_dark_360w_270h.png" group-title="USA" tvg-shift="-6",HBO (US)
 http://mytv.fun:8080/Oskartest/t4h92jfvp/685038
@@ -679,10 +679,10 @@ http://mytv.fun:8080/Oskartest/t4h92jfvp/685038
 http://mytv.fun:8080/Oskartest/t4h92jfvp/14342
 
 #EXTINF:-1 tvg-id="nickelodeon.us" tvg-name=" NICKELODEON (US)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s11006_dark_360w_270h.png" group-title="USA" tvg-shift="-6", NICKELODEON (US)
-http://mytv.fun:8080/Oskartest/t4h92jfvp/13744
+http://mytv.fun:8080/Oskartest/t4h92jfvp/638822
 
 #EXTINF:-1 tvg-id="NicktoonsNetwork.us" tvg-name="NICKTOONS (US)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s30420_dark_360w_270h.png" group-title="USA" tvg-shift="-6",NICKTOONS (US)
-http://mytv.fun:8080/Oskartest/t4h92jfvp/638822
+http://mytv.fun:8080/Oskartest/t4h92jfvp/13744
 
 #EXTINF:-1 tvg-id="History.us" tvg-name="HISTORY (US)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s14771_dark_360w_270h.png" group-title="USA" tvg-shift="-6",HISTORY (US)
 http://mytv.fun:8080/Oskartest/t4h92jfvp/6244
@@ -791,7 +791,7 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=o
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="*** Canales Japón ***" tvg-logo="" group-title="JAPAN" tvg-shift="-6",*** Canales Japón ***
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=02&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Tokyo JP" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/815ae2a83110ea1341cf8691ad462ad6.png" group-title="JAPAN" tvg-shift="-6",テレビ東京
-http://203.162.235.41:16908
+http://redlabmcdn.s.llnwi.net/jp01/ryowa6/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="フジテレビ" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/22b105b34252fc5a532d36494ed88deb.png" group-title="JAPAN" tvg-shift="-6",フジテレビ
 http://203.162.235.41:16904
@@ -800,7 +800,7 @@ http://203.162.235.41:16904
 http://203.162.235.41:16913
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BSアニマックス" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/8e3646b71c2b9dba8fff762f4720ff91.png" group-title="JAPAN" tvg-shift="-6",BSアニマックス
-https://cdn.kr130.jpnettv.live/live/janimax_540/playlist.m3u8?
+http://180.92.158.208:9981/stream/channelid/806982131
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(no tvg-id)" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/4c21fcb1be5f941e0ed936e623ce932a.png" group-title="JAPAN" tvg-shift="-6",MTV (JP)
 http://211.245.55.198:1024/m2u/239.192.55.4:49220
