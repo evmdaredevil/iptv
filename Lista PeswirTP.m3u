@@ -243,19 +243,16 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=126&f=HLSAD&s=zec
 #EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s80807_dark_360w_270h.png" group-title="Cine" tvg-shift="-6",TNT HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=126&format=HLS&f=.m3u8
 
-#EXTINF:-1 tvg-id="FoxPremiumAction(Este).mx" tvg-name="FOX ACTION HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s105161_dark_360w_270h.png" group-title="Cine" tvg-shift="-6",FOX ACTION HD
+#EXTINF:-1 tvg-id="StarAction.mx" tvg-name="FOX ACTION HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s58835_dark_360w_270h.png" group-title="Cine",FOX ACTION HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=336&format=HLS&f=.m3u8
 
-#EXTINF:-1 tvg-id="FoxPremiumCinema.mx" tvg-name="FOX CINEMA HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s71662_dark_360w_270h.png" group-title="Cine" tvg-shift="-6",FOX CINEMA HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=1729&format=HLS&f=.m3u8
-
-#EXTINF:-1 tvg-id="FoxPremiumClassics.mx" tvg-name="FOX CLASSICS HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s98730_dark_360w_270h.png" group-title="Cine" tvg-shift="-6",FOX CLASSICS HD
+#EXTINF:-1 tvg-id="StarClassics.mx" tvg-name="FOX CLASSICS HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s98730_dark_360w_270h.png" group-title="Cine",FOX CLASSICS HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=1732&format=HLS&f=.m3u8
 
-#EXTINF:-1 tvg-id="FoxPremiumMovies(Este).mx" tvg-name="FOX MOVIES HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s73049_dark_360w_270h.png" group-title="Cine" tvg-shift="-6",FOX MOVIES HD
+#EXTINF:-1 tvg-id="STARCINEMA.mx" tvg-name="FOX MOVIES HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s71662_dark_360w_270h.png" group-title="Cine",FOX MOVIES HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=146&format=HLS&f=.m3u8
 
-#EXTINF:-1 tvg-id="FoxPremiumSeries(Este).mx" tvg-name="FOX SERIES HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s60542_dark_360w_270h.png" group-title="Cine" tvg-shift="-6",FOX SERIES HD
+#EXTINF:-1 tvg-id="StarSeries.mx" tvg-name="FOX SERIES HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s17960_dark_360w_270h.png" group-title="Cine",FOX SERIES HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=139&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s84823_dark_360w_270h.png" group-title="Cine" tvg-shift="-6",HBO
@@ -320,13 +317,13 @@ http://xdgo.live:8080/JJaco503/97tyf7vbBH/27550
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="*** Entretenimiento ***" tvg-logo="" group-title="Entretenimiento" tvg-shift="-6",*** Entretenimiento ***
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=02&format=HLS&f=.m3u8
-#EXTINF:-1 tvg-id="Fox.mx" tvg-name="FOX" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s95131_dark_360w_270h.png" group-title="Entretenimiento" tvg-shift="-6",FOX
+#EXTINF:-1 tvg-id="StarChannel.mx" tvg-name="STAR CHANNEL" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s95131_dark_360w_270h.png" group-title="Entretenimiento",STAR CHANNEL
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=46&format=HLSAD&f=.m3u8
 
-#EXTINF:-1 tvg-id="Fox.mx" tvg-name="FOX HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s95131_dark_360w_270h.png" group-title="Entretenimiento" tvg-shift="-6",FOX HD
+#EXTINF:-1 tvg-id="StarChannel.mx" tvg-name="STAR CHANNEL HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s95131_dark_360w_270h.png" group-title="Entretenimiento",STAR CHANNEL HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=46&format=HLS&f=.m3u8
 
-#EXTINF:-1 tvg-id="FoxLife.mx" tvg-name="FOX LIFE" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s49263_dark_360w_270h.png" group-title="Entretenimiento" tvg-shift="-6",FOX LIFE
+#EXTINF:-1 tvg-id="StarLife.mx" tvg-name="STAR LIFE" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s49263_dark_360w_270h.png" group-title="Entretenimiento",STAR LIFE
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=77&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
 #EXTINF:-1 tvg-id="FX.mx" tvg-name="FX" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s46442_dark_360w_270h.png" group-title="Entretenimiento" tvg-shift="-6",FX
@@ -793,6 +790,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Tokyo JP" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/815ae2a83110ea1341cf8691ad462ad6.png" group-title="JAPAN" tvg-shift="-6",テレビ東京
 http://redlabmcdn.s.llnwi.net/jp01/ryowa6/index.m3u8
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Tokyo JP" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/815ae2a83110ea1341cf8691ad462ad6.png" group-title="JAPAN" tvg-shift="-6",テレビ東京
+https://ok.ru/video/2566528638580
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="フジテレビ" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/22b105b34252fc5a532d36494ed88deb.png" group-title="JAPAN" tvg-shift="-6",フジテレビ
 http://203.162.235.41:16904
 
@@ -801,6 +801,9 @@ http://203.162.235.41:16913
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BSアニマックス" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/8e3646b71c2b9dba8fff762f4720ff91.png" group-title="JAPAN" tvg-shift="-6",BSアニマックス
 http://180.92.158.208:9981/stream/channelid/806982131
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BSアニマックス" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/8e3646b71c2b9dba8fff762f4720ff91.png" group-title="JAPAN" tvg-shift="-6",BSアニマックス tvbus
+tvbus://5segWTSriJfRcv76Z2Hofi585YQnGbjxJjtVb1ewms8vT8pdvHRp17nhYXGE3
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(no tvg-id)" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/4c21fcb1be5f941e0ed936e623ce932a.png" group-title="JAPAN" tvg-shift="-6",MTV (JP)
 http://211.245.55.198:1024/m2u/239.192.55.4:49220
