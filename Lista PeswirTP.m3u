@@ -643,52 +643,52 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww
 plugin://script.module.7of9-live/play/63/play.pvr
 
 #EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="CARTOON NETWORK HD (US)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s12131_dark_360w_270h.png" group-title="USA" tvg-shift="-6",CARTOON NETWORK HD (US)
-http://mytv.fun:8080/Oskartest/t4h92jfvp/14387
+http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/14387
 
 #EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="CARTOON NETWORK HD (US) (2)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s12131_dark_360w_270h.png" group-title="USA" tvg-shift="-6",CARTOON NETWORK HD (US) (2)
-http://mytv.fun:8080/Oskartest/t4h92jfvp/4886
+http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/4886
 
 #EXTINF:-1 tvg-id="Vice.us" tvg-name="VICE (US)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s18822_dark_360w_270h.png" group-title="USA" tvg-shift="-6",VICE (US)
 plugin://script.module.7of9-live/play/612/play.pvr
 
 #EXTINF:-1 tvg-id="Vice.us" tvg-name="VICE HD (US)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s18822_dark_360w_270h.png" group-title="USA" tvg-shift="-6",VICELAND HD (US)
-http://mytv.fun:8080/Oskartest/t4h92jfvp/667813
+http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/667813
 
 #EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="DINSNEY XD (US)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s18279_dark_360w_270h.png" group-title="USA" tvg-shift="-6",DINSNEY XD (US)
-http://mytv.fun:8080/Oskartest/t4h92jfvp/14368
+http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/14368
 
 #EXTINF:-1 tvg-id="FX.us" tvg-name="FX (US)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s14321_dark_360w_270h.png" group-title="USA" tvg-shift="-6",FX (US)
-http://mytv.fun:8080/Oskartest/t4h92jfvp/13763
+http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/13763
 
 #EXTINF:-1 tvg-id="FXX.us" tvg-name="FXX (US)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s17927_dark_360w_270h.png" group-title="USA" tvg-shift="-6",FXX (US)
 plugin://script.module.7of9-live/play/603/play.pvr
 
 #EXTINF:-1 tvg-id="FXX.us" tvg-name="FXX HD (US)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s17927_dark_360w_270h.png" group-title="USA" tvg-shift="-6",FXX HD (US)
-http://mytv.fun:8080/Oskartest/t4h92jfvp/13756
+http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/13756
 
 #EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="COMEDY CENTRAL (US)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s10149_dark_360w_270h.png" group-title="USA" tvg-shift="-6",COMEDY CENTRAL (US)
-http://mytv.fun:8080/Oskartest/t4h92jfvp/4882
+http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/4882
 
 #EXTINF:-1 tvg-id="hbo.us" tvg-name="HBO (US)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s10240_dark_360w_270h.png" group-title="USA" tvg-shift="-6",HBO (US)
-http://mytv.fun:8080/Oskartest/t4h92jfvp/685038
+http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/685038
 
 #EXTINF:-1 tvg-id="mtv.us" tvg-name="MTV (US)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s10986_dark_360w_270h.png" group-title="USA" tvg-shift="-6",MTV (US)
-http://mytv.fun:8080/Oskartest/t4h92jfvp/14342
+http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/14342
 
 #EXTINF:-1 tvg-id="nickelodeon.us" tvg-name=" NICKELODEON (US)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s11006_dark_360w_270h.png" group-title="USA" tvg-shift="-6", NICKELODEON (US)
-http://mytv.fun:8080/Oskartest/t4h92jfvp/638822
+http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/638822
 
 #EXTINF:-1 tvg-id="NicktoonsNetwork.us" tvg-name="NICKTOONS (US)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s30420_dark_360w_270h.png" group-title="USA" tvg-shift="-6",NICKTOONS (US)
-http://mytv.fun:8080/Oskartest/t4h92jfvp/13744
+http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/13744
 
 #EXTINF:-1 tvg-id="History.us" tvg-name="HISTORY (US)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s14771_dark_360w_270h.png" group-title="USA" tvg-shift="-6",HISTORY (US)
-http://mytv.fun:8080/Oskartest/t4h92jfvp/6244
+http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/6244
 
 #EXTINF:-1 tvg-id="turnerclassicmovies.us" tvg-name="TURNER CLASSIC MOVIES (US)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s12852_dark_360w_270h.png" group-title="USA" tvg-shift="-6",TURNER CLASSIC MOVIES (US)
-http://mytv.fun:8080/Oskartest/t4h92jfvp/677203
+http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/677203
 
 #EXTINF:-1 tvg-id="vh1.us" tvg-name="VH1 (US)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s11218_dark_360w_270h.png" group-title="USA" tvg-shift="-6",VH1 (US)
-http://mytv.fun:8080/Oskartest/t4h92jfvp/6753
+http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/6753
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="*** Canales USA Online***" tvg-logo="" group-title="USA" tvg-shift="-6",*** Canales USA Online***
