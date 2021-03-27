@@ -632,7 +632,7 @@ http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/argU5Q9r5-gvleMRCafNE2TyaWioaSr69ROMhr4nXG1iuzrT1noRMDJX8qAoYCZsfOA" group-title="LatAm", TELESUR VENEZUELA HD 
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
 
-#EXTINF:-1 group-title="LatAm", TELERITMO
+#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/TLRMO.PNG" group-title="LatAm", TELERITMO
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
 
@@ -800,7 +800,7 @@ http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/671353
 #EXTINF:-1 tvg-id="Antena3.es" tvg-name="ANTENA 3 (ES)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s91176_dark_360w_270h.png" group-title="Europa",ANTENA 3 (ES)
 http://iptv-g.host:8880/live/K3/gx6pMYlwWj/2646484.m3u8
 
-#EXTINF:-1 tvg-id="CALLE13(src01).es" tvg-name="CALLE 13 (ES)" tvg-logo="" group-title="Europa",CALLE 13 (ES)
+#EXTINF:-1 tvg-id="CALLE13(src01).es" tvg-name="CALLE 13 (ES)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Calle_13_logo.svg/revision/latest/scale-to-width-down/340?cb=20100609175657" group-title="Europa",CALLE 13 (ES)
 http://iptv-g.host:8880/live/K3/gx6pMYlwWj/2646595.m3u8
 
 #EXTINF:-1 tvg-id="ComedyCentral.es" tvg-name="COMEDY CENTRAL (ES)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s91277_dark_360w_270h.png" group-title="Europa",COMEDY CENTRAL (ES)
@@ -830,7 +830,7 @@ http://redlabmcdn.s.llnwi.net/jp01/ryowa6/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Tokyo JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1200px-TV_Tokyo_logo_20110629.svg.png" group-title="JAPAN" tvg-shift="-6",テレビ東京
 https://ok.ru/video/2566528638580
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="フジテレビ" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mapion.co.jp%2Fnews%2Fcolumn%2Fcobs802838-1-all%2F&psig=AOvVaw2uCAztU8YWP28lZI9F9hMa&ust=1616905568601000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCPk-PQz-8CFQAAAAAdAAAAABAJ" group-title="JAPAN" tvg-shift="-6",フジテレビ
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="フジテレビ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/1200px-Fuji_TV_logo.svg.png" group-title="JAPAN" tvg-shift="-6",フジテレビ
 http://203.162.235.41:16904
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(no tvg-id)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/TBS_TV.svg/revision/latest/scale-to-width-down/340?cb=20180521021808" group-title="JAPAN" tvg-shift="-6",TBS (JP)
