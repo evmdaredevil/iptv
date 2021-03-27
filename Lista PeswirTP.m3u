@@ -659,7 +659,7 @@ http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/13763
 #EXTINF:-1 tvg-id="FXX.us" tvg-name="FXX HD (US)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s17927_dark_360w_270h.png" group-title="USA" tvg-shift="-6",FXX HD (US)
 http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/13756
 
-#EXTINF:-1 tvg-id="FOXNet.us" tvg-name="FOX5 New York HD (US)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s103482_dark_360w_270h.png" group-title="USA",FOX HD (US)
+#EXTINF:-1 tvg-id="FOX(WNYW)NewYorkNY(src01).us" tvg-name="FOX5 New York HD (US)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s103482_dark_360w_270h.png" group-title="USA",FOX5 New York HD (US)
 http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/677119
 
 #EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="COMEDY CENTRAL (US)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s10149_dark_360w_270h.png" group-title="USA" tvg-shift="-6",COMEDY CENTRAL (US)
@@ -754,7 +754,7 @@ http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/671712
 #EXTINF:-1 tvg-id="BBCFour.uk" tvg-name="BBC FOUR HD (UK)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s83282_dark_360w_270h.png" group-title="Europa",BBC FOUR HD (UK)
 http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/671388
 
-#EXTINF:-1 tvg-id="bbc" tvg-name="BBC ENTERTAINMENT (UK)" tvg-logo="https://download.logo.wine/logo/BBC_Entertainment/BBC_Entertainment-Logo.wine.png" group-title="Europa",BBC ENTERTAINMENT (UK)
+#EXTINF:-1 tvg-id="BBCEntertainment(English).de" tvg-name="BBC ENTERTAINMENT (UK)" tvg-logo="https://download.logo.wine/logo/BBC_Entertainment/BBC_Entertainment-Logo.wine.png" group-title="Europa",BBC ENTERTAINMENT (UK)
 http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/9548
 
 #EXTINF:-1 tvg-id="CartoonNetwork.uk" tvg-name="CARTOON NETWORK HD (US)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s78843_dark_360w_270h.png" group-title="Europa",CARTOON NETWORK HD (US)
