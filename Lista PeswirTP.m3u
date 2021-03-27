@@ -243,16 +243,16 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=126&f=HLSAD&s=zec
 #EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s80807_dark_360w_270h.png" group-title="Cine" tvg-shift="-6",TNT HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=126&format=HLS&f=.m3u8
 
-#EXTINF:-1 tvg-id="StarAction.mx" tvg-name="FOX ACTION HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s58835_dark_360w_270h.png" group-title="Cine",FOX ACTION HD
+#EXTINF:-1 tvg-id="StarAction.mx" tvg-name="STAR ACTION HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s58835_dark_360w_270h.png" group-title="Cine",STAR ACTION HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=336&format=HLS&f=.m3u8
 
-#EXTINF:-1 tvg-id="StarClassics.mx" tvg-name="FOX CLASSICS HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s98730_dark_360w_270h.png" group-title="Cine",FOX CLASSICS HD
+#EXTINF:-1 tvg-id="StarClassics.mx" tvg-name="STAR CLASSICS HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s98730_dark_360w_270h.png" group-title="Cine",STAR CLASSICS HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=1732&format=HLS&f=.m3u8
 
-#EXTINF:-1 tvg-id="STARCINEMA.mx" tvg-name="FOX MOVIES HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s71662_dark_360w_270h.png" group-title="Cine",FOX MOVIES HD
+#EXTINF:-1 tvg-id="STARCINEMA.mx" tvg-name="STAR MOVIES HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s71662_dark_360w_270h.png" group-title="Cine",STAR MOVIES HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=146&format=HLS&f=.m3u8
 
-#EXTINF:-1 tvg-id="StarSeries.mx" tvg-name="FOX SERIES HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s17960_dark_360w_270h.png" group-title="Cine",FOX SERIES HD
+#EXTINF:-1 tvg-id="StarSeries.mx" tvg-name="STAR SERIES HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s17960_dark_360w_270h.png" group-title="Cine",STAR SERIES HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=139&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s84823_dark_360w_270h.png" group-title="Cine" tvg-shift="-6",HBO
@@ -426,7 +426,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=86&f=HLSAD&s=zecp
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=86&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.es" tvg-name="DISCOVERY CHANNEL (ESPAÑA)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s97470_dark_360w_270h.png" group-title="Cultura" tvg-shift="-6",DISCOVERY CHANNEL (ESPAÑA)
-plugin://script.module.7of9-live/play/673/play.pvr
+http://iptv-g.host:8880/live/K3/gx6pMYlwWj/2646541.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryCivilization.mx" tvg-name="DISCOVERY CIVILIZATION HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s46609_dark_360w_270h.png" group-title="Cultura" tvg-shift="-6",DISCOVERY CIVILIZATION HD
 http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/977.m3u8
@@ -459,13 +459,13 @@ http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/972.m3u8
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=91&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
 #EXTINF:-1 tvg-id="NationalGeographic.es" tvg-name="NAT GEO (ESPAÑA)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s91208_dark_360w_270h.png" group-title="Cultura" tvg-shift="-6",NAT GEO (ESPAÑA)
-plugin://script.module.7of9-live/play/347/play.pvr
+http://iptv-g.host:8880/live/K3/gx6pMYlwWj/2646552.m3u8
 
 #EXTINF:-1 tvg-id="NationalGeographicWild.mx" tvg-name="NAT GEO WILD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s66491_dark_360w_270h.png" group-title="Cultura" tvg-shift="-6",NAT GEO WILD
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=92&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
 #EXTINF:-1 tvg-id="NationalGeographicWild.es" tvg-name="NAT GEO WILD (ESPAÑA)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s91207_dark_360w_270h.png" group-title="Cultura" tvg-shift="-6",NAT GEO WILD (ESPAÑA)
-plugin://script.module.7of9-live/play/361/play.pvr
+http://iptv-g.host:8880/live/K3/gx6pMYlwWj/2646548.m3u8
 
 #EXTINF:-1 tvg-id="History.mx" tvg-name="HISTORY" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s40137_dark_360w_270h.png" group-title="Cultura" tvg-shift="-6",HISTORY
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=89&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
@@ -474,10 +474,10 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=89&f=HLSAD&s=zecp
 http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/968.m3u8
 
 #EXTINF:-1 tvg-id="Historia.es" tvg-name="HISTORY (ESPAÑA)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s97473_dark_360w_270h.png" group-title="Cultura" tvg-shift="-6",HISTORY (ESPAÑA)
-plugin://script.module.7of9-live/play/356/play.pvr
+http://iptv-g.host:8880/live/K3/gx6pMYlwWj/2646544.m3u8
 
 #EXTINF:-1 tvg-id="History2.mx" tvg-name="H2" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s80374_dark_360w_270h.png" group-title="Cultura" tvg-shift="-6",H2
-http://live.tvsmartgo.com:8000/live/Xgren7cgXT/O9mqutV6zN/46714.ts
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/224/12?f=.m3u8
 
 #EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="ANIMAL PLANET" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s107374_dark_360w_270h.png" group-title="Cultura" tvg-shift="-6",ANIMAL PLANET
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=2378&format=HLSAD&f=.m3u8
@@ -639,17 +639,14 @@ https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="*** Canales USA ***" tvg-logo="" group-title="USA" tvg-shift="-6",*** Canales USA ***
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=02&format=HLS&f=.m3u8
 
-#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="CARTOON NETWORK (US)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s12131_dark_360w_270h.png" group-title="USA" tvg-shift="-6",CARTOON NETWORK (US)
-plugin://script.module.7of9-live/play/63/play.pvr
+#EXTINF:-1 group-title="USA" tvg-shift="-6",ADULT SWIM (US)
+http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/676925
 
 #EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="CARTOON NETWORK HD (US)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s12131_dark_360w_270h.png" group-title="USA" tvg-shift="-6",CARTOON NETWORK HD (US)
 http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/14387
 
 #EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="CARTOON NETWORK HD (US) (2)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s12131_dark_360w_270h.png" group-title="USA" tvg-shift="-6",CARTOON NETWORK HD (US) (2)
 http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/4886
-
-#EXTINF:-1 tvg-id="Vice.us" tvg-name="VICE (US)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s18822_dark_360w_270h.png" group-title="USA" tvg-shift="-6",VICE (US)
-plugin://script.module.7of9-live/play/612/play.pvr
 
 #EXTINF:-1 tvg-id="Vice.us" tvg-name="VICE HD (US)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s18822_dark_360w_270h.png" group-title="USA" tvg-shift="-6",VICELAND HD (US)
 http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/667813
@@ -659,9 +656,6 @@ http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/14368
 
 #EXTINF:-1 tvg-id="FX.us" tvg-name="FX (US)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s14321_dark_360w_270h.png" group-title="USA" tvg-shift="-6",FX (US)
 http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/13763
-
-#EXTINF:-1 tvg-id="FXX.us" tvg-name="FXX (US)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s17927_dark_360w_270h.png" group-title="USA" tvg-shift="-6",FXX (US)
-plugin://script.module.7of9-live/play/603/play.pvr
 
 #EXTINF:-1 tvg-id="FXX.us" tvg-name="FXX HD (US)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s17927_dark_360w_270h.png" group-title="USA" tvg-shift="-6",FXX HD (US)
 http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/13756
@@ -687,7 +681,34 @@ http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/6244
 #EXTINF:-1 tvg-id="turnerclassicmovies.us" tvg-name="TURNER CLASSIC MOVIES (US)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s12852_dark_360w_270h.png" group-title="USA" tvg-shift="-6",TURNER CLASSIC MOVIES (US)
 http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/677203
 
-#EXTINF:-1 tvg-id="vh1.us" tvg-name="VH1 (US)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s11218_dark_360w_270h.png" group-title="USA" tvg-shift="-6",VH1 (US)
+#EXTINF:-1 group-title="USA" tvg-shift="-6",ABC HD US
+http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/4925
+
+#EXTINF:-1 group-title="USA" tvg-shift="-6",BBC AMERICA US
+http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/14392
+
+#EXTINF:-1 group-title="USA" tvg-shift="-6",FOX HD (US)
+http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/13757
+
+#EXTINF:-1 group-title="USA" tvg-shift="-6",HBO HD (US)
+http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/685038
+
+#EXTINF:-1 group-title="USA" tvg-shift="-6",NASA (US)
+http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/4941
+
+#EXTINF:-1 group-title="USA" tvg-shift="-6",MTV HD (US)
+http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/14342
+
+#EXTINF:-1 group-title="USA" tvg-shift="-6",MTV CLASSIC (US)
+http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/683899
+
+#EXTINF:-1 group-title="USA" tvg-shift="-6",PARAMOUNT HF (US)
+http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/677220
+
+#EXTINF:-1 group-title="USA" tvg-shift="-6",SOUL (US)
+http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/6610
+
+#EXTINF:-1 group-title="USA" tvg-shift="-6",VH1 HD (US)
 http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/6753
 
 
@@ -742,23 +763,24 @@ http://live.tvsmartgo.com:8000/live/Xgren7cgXT/O9mqutV6zN/51704.ts
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="*** Canales Europa ***" tvg-logo="" group-title="Europa" tvg-shift="-6",*** Canales Europa ***
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=02&format=HLS&f=.m3u8
-#EXTINF:-1 tvg-id="FOX.uk" tvg-name="FOX (UK)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s58972_dark_360w_270h.png" group-title="Europa" tvg-shift="-6",FOX (UK)
-plugin://script.module.7of9-live/play/290/play.pvr
 
-#EXTINF:-1 tvg-id="BBCEntertainment(English).fr" tvg-name="BBC ENTERTAINMENT (UK)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s80561_dark_360w_270h.png" group-title="Europa" tvg-shift="-6",BBC ENTERTAINMENT (UK)
-plugin://script.module.7of9-live/play/248/play.pvr
+#EXTINF:-1 group-title="Europa" tvg-shift="-6",BBC ONE HD (UK)
+http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/671711
 
-#EXTINF:-1 tvg-id="BBCOne.uk" tvg-name="BBC ONE (UK)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s17153_dark_360w_270h.png" group-title="Europa" tvg-shift="-6",BBC ONE (UK)
-plugin://script.module.7of9-live/play/44/play.pvr
+#EXTINF:-1 group-title="Europa" tvg-shift="-6",BBC TWO HD (UK)
+http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/671712
 
-#EXTINF:-1 tvg-id="BBCTwo.uk" tvg-name="BBC TWO (UK)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s17154_dark_360w_270h.png" group-title="Europa" tvg-shift="-6",BBC TWO (UK)
-plugin://script.module.7of9-live/play/46/play.pvr
+#EXTINF:-1 group-title="Europa" tvg-shift="-6",BBC FOUR HD (UK)
+http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/671388
 
-#EXTINF:-1 tvg-id="BBCFour.uk" tvg-name="BBC FOUR (UK)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s83282_dark_360w_270h.png" group-title="Europa" tvg-shift="-6",BBC FOUR (UK)
-plugin://script.module.7of9-live/play/43/play.pvr
+#EXTINF:-1 group-title="Europa" tvg-shift="-6",BBC ENTERTAINMENT (UK)
+http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/9548
 
-#EXTINF:-1 tvg-id="Viceland(src02).uk" tvg-name="VICE (UK)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1827.png" group-title="Europa" tvg-shift="-6",VICE (UK)
-plugin://script.module.7of9-live/play/646/play.pvr
+#EXTINF:-1 group-title="Europa" tvg-shift="-6",CARTOON NETWORK HD (US)
+http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/671326
+
+#EXTINF:-1 group-title="Europa" tvg-shift="-6",COMEDY CENTRAL HD (UK)
+http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/683746
 
 #EXTINF:-1 tvg-id="Fashion4KUHD.uk" tvg-name="FASHION HD (UK)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDdRFu3N8CjNiFxRqrWqNHRAWJJ8ROhDN8SKE5mLzE_oJ4NXP4" group-title="Europa" tvg-shift="-6",FASHION HD (UK)
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
@@ -766,23 +788,56 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-id="Fashion4KUHD.uk" tvg-name="FASHION TV MIDNITE (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/FashionTV2019novo.png" group-title="Europa" tvg-shift="-6",FASHION TV MIDNITE (UK)
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 
-#EXTINF:-1 tvg-id="FOX(src02).es" tvg-name="FOX (ES)" tvg-logo="https://taptube.net/tv/images/channel_imgs/231216040658fox.png" group-title="Europa" tvg-shift="-6",FOX (ES)
-http://livego.club:8080/Cz07YMAFcp/fZm8HS57F9/23048
+#EXTINF:-1 group-title="Europa" tvg-shift="-6",FOX HD (UK)
+http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/671330
 
-#EXTINF:-1 tvg-id="ARTE(src02).fr" tvg-name="ARTE (FR)" tvg-logo="https://taptube.net/tv/images/channel_imgs/221216041215arte.gif" group-title="Europa" tvg-shift="-6",ARTE (FR)
-plugin://script.module.7of9-live/play/327/play.pvr
+#EXTINF:-1 group-title="Europa" tvg-shift="-6",HORROR CHANNEL (UK)
+http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/683748
 
-#EXTINF:-1 tvg-id="CANALplus(src01).fr" tvg-name="CANAL+ (FR)" tvg-logo="https://taptube.net/tv/images/channel_imgs/221216034553canalplus.png" group-title="Europa" tvg-shift="-6",CANAL+ (FR)
-plugin://script.module.7of9-live/play/315/play.pvr
+#EXTINF:-1 group-title="Europa" tvg-shift="-6",LONDON LIVE (UK)
+http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/6583
 
-#EXTINF:-1 tvg-id="PLANETE(src01).fr" tvg-name="PLANETE+ (FR)" tvg-logo="https://taptube.net/tv/images/channel_imgs/221216035253plan%2B.png" group-title="Europa" tvg-shift="-6",PLANETE+ (FR)
-plugin://script.module.7of9-live/play/318/play.pvr
+#EXTINF:-1 group-title="Europa" tvg-shift="-6",NICKTOONS (UK)
+http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/6570
 
-#EXTINF:-1 tvg-id="Italia1.it" tvg-name="ITALIA 1 (IT)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s84622_dark_360w_270h.png" group-title="Europa" tvg-shift="-6",ITALIA 1 (IT)
-plugin://script.module.7of9-live/play/443/play.pvr
+#EXTINF:-1 group-title="Europa" tvg-shift="-6",SKY ARTS HD (UK)
+http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/684070
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M2O TV (IT)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSaHmyDU7KRtKpKGSM_MlB9LJo6-nk8Y6odXA&usqp=CAU" group-title="Europa" tvg-shift="-6",M2O TV (IT)
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Europa" tvg-shift="-6",VICE HD (UK)
+http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/13219
+
+#EXTINF:-1 group-title="Europa" tvg-shift="-6",VIRGIN MEDIA ONE HD (UK)
+http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/683786
+
+#EXTINF:-1 group-title="Europa" tvg-shift="-6",VIRGIN MEDIA TWO HD (UK)
+http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/683846
+
+#EXTINF:-1 group-title="Europa" tvg-shift="-6",VIRGIN MEDIA THREE HD (UK)
+http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/671353
+
+#EXTINF:-1 group-title="Europa" tvg-shift="-6",ANTENA 3 (ES)
+http://iptv-g.host:8880/live/K3/gx6pMYlwWj/2646484.m3u8
+
+#EXTINF:-1 group-title="Europa" tvg-shift="-6",CALLE 13 (ES)
+http://iptv-g.host:8880/live/K3/gx6pMYlwWj/2646595.m3u8
+
+#EXTINF:-1 group-title="Europa" tvg-shift="-6",COMEDY CENTRAL (ES)
+http://iptv-g.host:8880/live/K3/gx6pMYlwWj/2646557.m3u8
+
+#EXTINF:-1 group-title="Europa" tvg-shift="-6",CUATRO (ES)
+http://iptv-g.host:8880/live/K3/gx6pMYlwWj/2646490.m3u8
+
+#EXTINF:-1 group-title="Europa" tvg-shift="-6",DIVINITY (ES)
+http://iptv-g.host:8880/live/K3/gx6pMYlwWj/2646517.m3u8
+
+#EXTINF:-1 group-title="Europa" tvg-shift="-6",FOX (ES)
+http://iptv-g.host:8880/live/K3/gx6pMYlwWj/2646601.m3u8
+
+#EXTINF:-1 group-title="Europa" tvg-shift="-6",MEGA (ES)
+http://iptv-g.host:8880/live/K3/gx6pMYlwWj/2646508.m3u8
+
+#EXTINF:-1 group-title="Europa" tvg-shift="-6",TELECINCO (ES)
+http://iptv-g.host:8880/live/K3/gx6pMYlwWj/2646494.m3u8
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="*** Canales Japón ***" tvg-logo="" group-title="JAPAN" tvg-shift="-6",*** Canales Japón ***
