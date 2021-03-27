@@ -659,8 +659,8 @@ http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/13763
 #EXTINF:-1 tvg-id="FXX.us" tvg-name="FXX HD (US)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s17927_dark_360w_270h.png" group-title="USA" tvg-shift="-6",FXX HD (US)
 http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/13756
 
-#EXTINF:-1 tvg-id="FOXNet.us" tvg-name="FOX HD (US)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s103482_dark_360w_270h.png" group-title="USA",FOX HD (US)
-http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/13757
+#EXTINF:-1 tvg-id="FOXNet.us" tvg-name="FOX5 New York HD (US)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s103482_dark_360w_270h.png" group-title="USA",FOX HD (US)
+http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/677119
 
 #EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="COMEDY CENTRAL (US)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s10149_dark_360w_270h.png" group-title="USA" tvg-shift="-6",COMEDY CENTRAL (US)
 http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/4882
@@ -854,10 +854,10 @@ ttp://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="*** Anime Latino ***" tvg-logo="" group-title="Anime" tvg-shift="-6",*** Anime Latino ***
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=02&format=HLS&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://locomotiontv.com/locomotion/logo.png",AZTV
+#EXTINF:-1 tvg-logo="http://locomotiontv.com/locomotion/aztv_logo.png",AZTV
 http://azxtv.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="http://locomotiontv.com/locomotion/aztv_logo.png",LOCOMOTION
+#EXTINF:-1 tvg-logo="http://locomotiontv.com/locomotion/logo.png,LOCOMOTION
 http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="*** AdultSwim ***" tvg-logo="" group-title="adultswim.com" tvg-shift="-6",*** AdultSwim ***
