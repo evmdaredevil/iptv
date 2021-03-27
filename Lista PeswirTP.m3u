@@ -623,13 +623,13 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Caracol" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062014/logo_caracol_television.jpg?itok=Wmo-Rups" group-title="LatAm" tvg-shift="-6",Caracol
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
 
-#EXTINF:-1 group-title="LatAm", NACIONES UNIDAS TV HD 
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/United-Nations-Logo.png" group-title="LatAm", NACIONES UNIDAS TV HD 
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/master.m3u8
 
-#EXTINF:-1 group-title="LatAm", TELESUR COSTA RICA HD 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/argU5Q9r5-gvleMRCafNE2TyaWioaSr69ROMhr4nXG1iuzrT1noRMDJX8qAoYCZsfOA" group-title="LatAm", TELESUR COSTA RICA HD 
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 
-#EXTINF:-1 group-title="LatAm", TELESUR VENEZUELA HD 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/argU5Q9r5-gvleMRCafNE2TyaWioaSr69ROMhr4nXG1iuzrT1noRMDJX8qAoYCZsfOA" group-title="LatAm", TELESUR VENEZUELA HD 
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
 
 #EXTINF:-1 group-title="LatAm", TELERITMO
@@ -693,7 +693,7 @@ http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/683899
 http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/677220
 
 #EXTINF:-1 tvg-id="BETSOUL.us" tvg-name="SOUL (US)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s18718_dark_360w_270h.png" group-title="USA",SOUL (US)
-http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/6610
+http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/661091
 
 #EXTINF:-1 tvg-id="VH1.us" tvg-name="VH1 HD (US)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s11218_dark_360w_270h.png" group-title="USA",VH1 HD (US)
 http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/6753
@@ -743,11 +743,6 @@ https://nrpus.bozztv.com/36bay2/gusa-planetmusic/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Screamfest" tvg-logo="https://i.imgur.com/yfEizcN.png" group-title="USA" tvg-shift="-6",Screamfest
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="*** Canales Canadá ***" tvg-logo="" group-title="Canadá" tvg-shift="-6",*** Canales Canadá ***
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=02&format=HLS&f=.m3u8
-#EXTINF:-1 tvg-id="Teletoon(English).ca" tvg-name="TELETOON  (CA)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s17417_dark_360w_270h.png" group-title="Canadá" tvg-shift="-6",TELETOON  (CA)
-http://live.tvsmartgo.com:8000/live/Xgren7cgXT/O9mqutV6zN/51704.ts
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="*** Canales Europa ***" tvg-logo="" group-title="Europa" tvg-shift="-6",*** Canales Europa ***
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=02&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-id="BBCOne.uk" tvg-name="BBC ONE HD (UK)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s17153_dark_360w_270h.png" group-title="Europa",BBC ONE HD (UK)
@@ -775,7 +770,7 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 
 #EXTINF:-1 tvg-id="FOX.uk" tvg-name="FOX HD (UK)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s58972_dark_360w_270h.png" group-title="Europa",FOX HD (UK)
-http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/671330
+http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/6604
 
 #EXTINF:-1 tvg-id="HorrorChannel.uk" tvg-name="HORROR CHANNEL (UK)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s42762_dark_360w_270h.png" group-title="Europa",HORROR CHANNEL (UK)
 http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/683748
@@ -789,11 +784,13 @@ http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/6570
 #EXTINF:-1 tvg-id="SkyArts.uk" tvg-name="SKY ARTS HD (UK)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s49612_dark_360w_270h.png" group-title="Europa",SKY ARTS HD (UK)
 http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/684070
 
-#EXTINF:-1 tvg-id="VICELAND(src01).uk" tvg-name="VICE HD (UK)" tvg-logo="" group-title="Europa",VICE HD (UK)
+#EXTINF:-1 tvg-id="VICELAND(src01).uk" tvg-name="VICE HD (UK)" tvg-logo="
+#EXTINF:-1 tvg-id="Vice.us" tvg-name="VICE HD (US)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s18822_dark_360w_270h.png" group-title="Europa",VICE HD (UK)
 http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/13219
 
 #EXTINF:-1 tvg-id="VirginMediaOne.uk" tvg-name="VIRGIN MEDIA ONE HD (UK)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s30453_dark_360w_270h.png" group-title="Europa",VIRGIN MEDIA ONE HD (UK)
 http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/683786
+
 #EXTINF:-1 tvg-id="VirginMediaTwo.uk" tvg-name="VIRGIN MEDIA TWO HD (UK)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s54800_dark_360w_270h.png" group-title="Europa",VIRGIN MEDIA TWO HD (UK)
 http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/683846
 
@@ -827,43 +824,40 @@ http://iptv-g.host:8880/live/K3/gx6pMYlwWj/2646494.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="*** Canales Japón ***" tvg-logo="" group-title="JAPAN" tvg-shift="-6",*** Canales Japón ***
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=02&format=HLS&f=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Tokyo JP" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/815ae2a83110ea1341cf8691ad462ad6.png" group-title="JAPAN" tvg-shift="-6",テレビ東京
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Tokyo JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1200px-TV_Tokyo_logo_20110629.svg.png" group-title="JAPAN" tvg-shift="-6",テレビ東京
 http://redlabmcdn.s.llnwi.net/jp01/ryowa6/index.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Tokyo JP" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/815ae2a83110ea1341cf8691ad462ad6.png" group-title="JAPAN" tvg-shift="-6",テレビ東京
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Tokyo JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1200px-TV_Tokyo_logo_20110629.svg.png" group-title="JAPAN" tvg-shift="-6",テレビ東京
 https://ok.ru/video/2566528638580
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="フジテレビ" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/22b105b34252fc5a532d36494ed88deb.png" group-title="JAPAN" tvg-shift="-6",フジテレビ
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="フジテレビ" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mapion.co.jp%2Fnews%2Fcolumn%2Fcobs802838-1-all%2F&psig=AOvVaw2uCAztU8YWP28lZI9F9hMa&ust=1616905568601000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCPk-PQz-8CFQAAAAAdAAAAABAJ" group-title="JAPAN" tvg-shift="-6",フジテレビ
 http://203.162.235.41:16904
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(no tvg-id)" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/aca89f64c5b07608f33f4a1aa78e487e.png" group-title="JAPAN" tvg-shift="-6",TBS (JP)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(no tvg-id)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/TBS_TV.svg/revision/latest/scale-to-width-down/340?cb=20180521021808" group-title="JAPAN" tvg-shift="-6",TBS (JP)
 http://203.162.235.41:16913
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BSアニマックス" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/8e3646b71c2b9dba8fff762f4720ff91.png" group-title="JAPAN" tvg-shift="-6",BSアニマックス
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BSアニマックス" tvg-logo="https://iconape.com/wp-content/files/px/285466/svg/animax-logo-logo-icon-png-svg.png" group-title="JAPAN" tvg-shift="-6",BSアニマックス
 http://180.92.158.208:9981/stream/channelid/806982131
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(no tvg-id)" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/4c21fcb1be5f941e0ed936e623ce932a.png" group-title="JAPAN" tvg-shift="-6",MTV (JP)
-http://211.245.55.198:1024/m2u/239.192.55.4:49220
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHK総合・東京" tvg-logo="https://i.imgur.com/jSJpXG0.png" group-title="JAPAN" tvg-shift="-6",NHK総合・東京
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHK総合・東京" tvg-logo="https://static.wikia.nocookie.net/drama/images/3/39/NHK.png/revision/latest?cb=20200301184626" group-title="JAPAN" tvg-shift="-6",NHK総合・東京
 http://193.42.99.130:23455/NHKHD/playlist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHKEテレ東京" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/2b69210c4a3afaa51a0108af359383df.png" group-title="JAPAN" tvg-shift="-6",NHKEテレ東京
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHKEテレ東京" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/NHK_Educational_TV_logo.svg/revision/latest/scale-to-width-down/340?cb=20190119102041" group-title="JAPAN" tvg-shift="-6",NHKEテレ東京
 http://203.162.235.41:16903
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TOKYO MX 1" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/fd2de06eae2c92b4549324c2f4a439f9.jpg" group-title="JAPAN" tvg-shift="-6",TOKYO MX 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TOKYO MX 1" tvg-logo="https://s.mxtv.jp/alexa_mx/images_s/mcas_logo.png" group-title="JAPAN" tvg-shift="-6",TOKYO MX 1
 http://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TOKYO MX 2" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/fd2de06eae2c92b4549324c2f4a439f9.jpg" group-title="JAPAN" tvg-shift="-6",TOKYO MX 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TOKYO MX 2" tvg-logo="https://s.mxtv.jp/alexa_mx/images_s/mcas_logo.png" group-title="JAPAN" tvg-shift="-6",TOKYO MX 2
 ttp://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="*** Anime ***" tvg-logo="" group-title="Anime" tvg-shift="-6",*** Anime ***
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="*** Anime Latino ***" tvg-logo="" group-title="Anime" tvg-shift="-6",*** Anime Latino ***
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=02&format=HLS&f=.m3u8
 
-#EXTINF:-1 tvg-logo="",AZTV
+#EXTINF:-1 tvg-logo="http://locomotiontv.com/locomotion/logo.png",AZTV
 http://azxtv.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="",LOCOMOTION
+#EXTINF:-1 tvg-logo="http://locomotiontv.com/locomotion/aztv_logo.png",LOCOMOTION
 http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="*** AdultSwim ***" tvg-logo="" group-title="adultswim.com" tvg-shift="-6",*** AdultSwim ***
