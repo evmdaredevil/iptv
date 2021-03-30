@@ -837,7 +837,7 @@ http://203.162.235.41:16904
 http://203.162.235.41:16913
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BSアニマックス" tvg-logo="https://iconape.com/wp-content/files/px/285466/svg/animax-logo-logo-icon-png-svg.png" group-title="JAPAN" tvg-shift="-6",BSアニマックス
-http://180.92.158.208:9981/stream/channelid/806982131
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/125.m3u8 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHK総合・東京" tvg-logo="https://static.wikia.nocookie.net/drama/images/3/39/NHK.png/revision/latest?cb=20200301184626" group-title="JAPAN" tvg-shift="-6",NHK総合・東京
 http://193.42.99.130:23455/NHKHD/playlist.m3u8
