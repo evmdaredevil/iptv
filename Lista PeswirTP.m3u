@@ -672,10 +672,10 @@ http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/685038
 http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/14342
 
 #EXTINF:-1 tvg-id="nickelodeon.us" tvg-name=" NICKELODEON (US)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s11006_dark_360w_270h.png" group-title="USA" tvg-shift="-6", NICKELODEON (US)
-http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/638822
+http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/673334
 
 #EXTINF:-1 tvg-id="NicktoonsNetwork.us" tvg-name="NICKTOONS (US)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s30420_dark_360w_270h.png" group-title="USA" tvg-shift="-6",NICKTOONS (US)
-http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/13744
+http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/673337
 
 #EXTINF:-1 tvg-id="History.us" tvg-name="HISTORY (US)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s14771_dark_360w_270h.png" group-title="USA" tvg-shift="-6",HISTORY (US)
 http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/6244
@@ -695,8 +695,11 @@ http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/677220
 #EXTINF:-1 tvg-id="BETSOUL.us" tvg-name="SOUL (US)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s18718_dark_360w_270h.png" group-title="USA",SOUL (US)
 http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/661091
 
-#EXTINF:-1 tvg-id="VH1.us" tvg-name="VH1 HD (US)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s11218_dark_360w_270h.png" group-title="USA",VH1 HD (US)
+#EXTINF:-1 tvg-id="" tvg-name="VH1.us" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s11218_dark_360w_270h.png" group-title="USA",VH1 HD (US)
 http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/6753
+
+#EXTINF:-1 tvg-id="" tvg-name="VOX HD (US)" tvg-logo="" group-title="USA",VOX HD (US)
+http://mytv.fun:8080/aj83ysinnc/jhpnxsvcxr5/6415
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="*** Canales USA Online***" tvg-logo="" group-title="USA" tvg-shift="-6",*** Canales USA Online***
@@ -746,34 +749,34 @@ https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/segli
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="*** Canales Canadá ***" tvg-logo="" group-title="Canada" tvg-shift="-6",*** Canales Canada ***
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=02&format=HLS&f=.m3u8
-#EXTINF:-1,CBC Vancouver HD CA
+#EXTINF:-1,CBC VANCOUVER HD CA
 http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/632774
 
-#EXTINF:-1,CBC Toronto HD CA
+#EXTINF:-1 group-title="Canada" tvg-shift="-6",CBC TORONTO HD CA
 http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/632775
 
-#EXTINF:-1,City Toronto HD CA
+#EXTINF:-1 group-title="Canada" tvg-shift="-6",CITY TORONTO HD CA
 http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/37082
 
-#EXTINF:-1,Book TV CA
+#EXTINF:-1 group-title="Canada" tvg-shift="-6",BOOK TV CA
 http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/632741
 
-#EXTINF:-1,Cartoon Network CA
+#EXTINF:-1 group-title="Canada" tvg-shift="-6",CARTOON NETWORK CA
 http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/632738
 
-#EXTINF:-1,CTV Sci-Fi HD CA
+#EXTINF:-1 group-title="Canada" tvg-shift="-6",CTV SCI-FI HD CA
 http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/676945
 
-#EXTINF:-1,FX HD CA
+#EXTINF:-1 group-title="Canada" tvg-shift="-6",FX HD CA
 http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/37064
 
-#EXTINF:-1,Much Music HD CA
+#EXTINF:-1 group-title="Canada" tvg-shift="-6",MUCH MUSIC HD CA
 http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/632661
 
-#EXTINF:-1,Nick HD CA
+#EXTINF:-1 group-title="Canada" tvg-shift="-6",NICK HD CA
 http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/632654
 
-#EXTINF:-1,TeleToon-FR [East] CA
+#EXTINF:-1 group-title="Canada" tvg-shift="-6",TELETOON CA
 http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/632625
 
 
