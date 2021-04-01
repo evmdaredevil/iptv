@@ -199,7 +199,7 @@ http://live.tvsmartgo.com:8000/live/Xgren7cgXT/O9mqutV6zN/22746.ts
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1726&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
 #EXTINF:-1 tvg-id="ParamountNetwork.mx" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s106214_dark_360w_270h.png" group-title="Cine" tvg-shift="-6",PARAMOUNT CHANNEL HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=1726&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=1726&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="CINEMAX" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16794_dark_360w_270h.png" group-title="Cine" tvg-shift="-6",CINEMAX
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=158&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
@@ -743,6 +743,42 @@ https://nrpus.bozztv.com/36bay2/gusa-planetmusic/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Screamfest" tvg-logo="https://i.imgur.com/yfEizcN.png" group-title="USA" tvg-shift="-6",Screamfest
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
 
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="*** Canales Canadá ***" tvg-logo="" group-title="Canada" tvg-shift="-6",*** Canales Canada ***
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=02&format=HLS&f=.m3u8
+#EXTINF:-1,CBC Vancouver HD CA
+http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/632774
+
+#EXTINF:-1,CBC Toronto HD CA
+http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/632775
+
+#EXTINF:-1,City Toronto HD CA
+http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/37082
+
+#EXTINF:-1,Book TV CA
+http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/632741
+
+#EXTINF:-1,Cartoon Network CA
+http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/632738
+
+#EXTINF:-1,CTV Sci-Fi HD CA
+http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/676945
+
+#EXTINF:-1,FX HD CA
+http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/37064
+
+#EXTINF:-1,Much Music HD CA
+http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/632661
+
+#EXTINF:-1,Nick HD CA
+http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/632654
+
+#EXTINF:-1,TeleToon-FR [East] CA
+http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/632625
+
+
+
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="*** Canales Europa ***" tvg-logo="" group-title="Europa" tvg-shift="-6",*** Canales Europa ***
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=02&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-id="BBCOne.uk" tvg-name="BBC ONE HD (UK)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s17153_dark_360w_270h.png" group-title="Europa",BBC ONE HD (UK)
@@ -798,28 +834,22 @@ http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/683846
 http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/671353
 
 #EXTINF:-1 tvg-id="Antena3.es" tvg-name="ANTENA 3 (ES)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s91176_dark_360w_270h.png" group-title="Europa",ANTENA 3 (ES)
-http://iptv-g.host:8880/live/K3/gx6pMYlwWj/2646484.m3u8
+http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/7253
 
 #EXTINF:-1 tvg-id="CALLE13(src01).es" tvg-name="CALLE 13 (ES)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Calle_13_logo.svg/revision/latest/scale-to-width-down/340?cb=20100609175657" group-title="Europa",CALLE 13 (ES)
-http://iptv-g.host:8880/live/K3/gx6pMYlwWj/2646595.m3u8
+http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/7247
 
 #EXTINF:-1 tvg-id="ComedyCentral.es" tvg-name="COMEDY CENTRAL (ES)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s91277_dark_360w_270h.png" group-title="Europa",COMEDY CENTRAL (ES)
-http://iptv-g.host:8880/live/K3/gx6pMYlwWj/2646557.m3u8
-
-#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="CUATRO (ES)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s91199_dark_360w_270h.png" group-title="Europa",CUATRO (ES)
-http://iptv-g.host:8880/live/K3/gx6pMYlwWj/2646490.m3u8
+http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/7230
 
 #EXTINF:-1 tvg-id="Divinity.es" tvg-name="DIVINITY (ES)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s87038_dark_360w_270h.png" group-title="Europa",DIVINITY (ES)
-http://iptv-g.host:8880/live/K3/gx6pMYlwWj/2646517.m3u8
+http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/13534
 
 #EXTINF:-1 tvg-id="Fox.es" tvg-name="FOX (ES)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s87056_dark_360w_270h.png" group-title="Europa",FOX (ES)
-http://iptv-g.host:8880/live/K3/gx6pMYlwWj/2646601.m3u8
+http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/16267
 
 #EXTINF:-1 tvg-id="Mega.es" tvg-name="MEGA (ES)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s102753_dark_360w_270h.png" group-title="Europa",MEGA (ES)
-http://iptv-g.host:8880/live/K3/gx6pMYlwWj/2646508.m3u8
-
-#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="TELECINCO (ES)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s91224_dark_360w_270h.png" group-title="Europa",TELECINCO (ES)
-http://iptv-g.host:8880/live/K3/gx6pMYlwWj/2646494.m3u8
+http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/16263
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="*** Canales Japón ***" tvg-logo="" group-title="JAPAN" tvg-shift="-6",*** Canales Japón ***
