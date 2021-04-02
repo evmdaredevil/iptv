@@ -15,10 +15,10 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=27&f=HLSAD&s=zecp
 #EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" tvg-name="AZTECA UNO HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s24519_dark_360w_270h.png" group-title="TV Abierta" tvg-shift="-6",AZTECA UNO HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=27&format=HLS&f=.m3u8
 
-#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="AZTECA 7" tvg-logo="https://i.ibb.co/wSQzRxb/Az-7-2.png" group-title="TV Abierta" tvg-shift="-6",AZTECA 7
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="AZTECA 7" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s114756_dark_360w_270h.png" group-title="TV Abierta",AZTECA 7
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=21&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
-#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="AZTECA 7 HD" tvg-logo="https://i.ibb.co/wSQzRxb/Az-7-2.png" group-title="TV Abierta" tvg-shift="-6",AZTECA 7 HD
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="AZTECA 7 HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s114756_dark_360w_270h.png" group-title="TV Abierta",AZTECA 7 HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=317&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="Clic.mx" tvg-name="AZ CLIC" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s92197_dark_360w_270h.png" group-title="TV Abierta" tvg-shift="-6",AZ CLIC
@@ -60,10 +60,10 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww
 #EXTINF:-1 tvg-id="XHCNLTDT.mx" tvg-name="CANAL 8 (Televisa Monterrey)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s91703_dark_360w_270h.png" group-title="TV Abierta" tvg-shift="-6",CANAL 8 (TELEVISA MONTERREY)
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2307&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
-#EXTINF:-1 tvg-id="Nu9ve.mx" tvg-name="NU9VE" tvg-logo="https://i.ibb.co/p0tzXG6/Nu9ve-2.png" group-title="TV Abierta" tvg-shift="-6",NU9VE
+#EXTINF:-1 tvg-id="Nu9ve.mx" tvg-name="NU9VE" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s114360_dark_360w_270h.png" group-title="TV Abierta",NU9VE
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2039&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
-#EXTINF:-1 tvg-id="Nu9ve.mx" tvg-name="NU9VE HD" tvg-logo="https://i.ibb.co/p0tzXG6/Nu9ve-2.png" group-title="TV Abierta" tvg-shift="-6",NU9VE HD
+#EXTINF:-1 tvg-id="Nu9ve.mx" tvg-name="NU9VE HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s114360_dark_360w_270h.png" group-title="TV Abierta",NU9VE HD
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1783&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
 
 #EXTINF:-1 tvg-id="Once.mx" tvg-name="ONCE" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s36139_dark_360w_270h.png" group-title="TV Abierta" tvg-shift="-6",ONCE
@@ -671,6 +671,9 @@ http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/685038
 #EXTINF:-1 tvg-id="mtv.us" tvg-name="MTV (US)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s10986_dark_360w_270h.png" group-title="USA" tvg-shift="-6",MTV (US)
 http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/14342
 
+#EXTINF:-1 tvg-id="MTVClassic.us" tvg-name="MTV CLASSIC (US)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s22561_dark_360w_270h.png" group-title="USA",MTV CLASSIC (US)
+http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/683899
+
 #EXTINF:-1 tvg-id="nickelodeon.us" tvg-name=" NICKELODEON (US)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s11006_dark_360w_270h.png" group-title="USA" tvg-shift="-6", NICKELODEON (US)
 http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/673334
 
@@ -686,9 +689,6 @@ http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/677203
 #EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBC AMERICA US" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s18332_dark_360w_270h.png" group-title="USA",BBC AMERICA US
 http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/14392
 
-#EXTINF:-1 tvg-id="MTVClassic.us" tvg-name="MTV CLASSIC (US)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s22561_dark_360w_270h.png" group-title="USA",MTV CLASSIC (US)
-http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/683899
-
 #EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="PARAMOUNT HF (US)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s11163_dark_360w_270h.png" group-title="USA",PARAMOUNT HF (US)
 http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/677220
 
@@ -698,7 +698,7 @@ http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/661091
 #EXTINF:-1 tvg-id="" tvg-name="VH1.us" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s11218_dark_360w_270h.png" group-title="USA",VH1 HD (US)
 http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/6753
 
-#EXTINF:-1 tvg-id="" tvg-name="VOX HD (US)" tvg-logo="" group-title="USA",VOX HD (US)
+#EXTINF:-1 tvg-id="vox.at" tvg-name="VOX HD (US)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s66616_dark_360w_270h.png" group-title="USA",VOX HD (US)
 http://mytv.fun:8080/aj83ysinnc/jhpnxsvcxr5/6415
 
 
@@ -747,39 +747,37 @@ https://nrpus.bozztv.com/36bay2/gusa-planetmusic/index.m3u8
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="*** Canales Canadá ***" tvg-logo="" group-title="Canada" tvg-shift="-6",*** Canales Canada ***
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="*** Canales Canadá ***" tvg-logo="" group-title="Canada",*** Canales Canadá ***
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=02&format=HLS&f=.m3u8
-#EXTINF:-1,CBC VANCOUVER HD CA
-http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/632774
-
-#EXTINF:-1 group-title="Canada" tvg-shift="-6",CBC TORONTO HD CA
+#EXTINF:-1 tvg-id="CBCT(English).ca" tvg-name="CBC TORONTO HD CA" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s17398_dark_360w_270h.png" group-title="Canada",CBC TORONTO HD CA
 http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/632775
 
-#EXTINF:-1 group-title="Canada" tvg-shift="-6",CITY TORONTO HD CA
+#EXTINF:-1 tvg-id="CityTv(English).ca" tvg-name="CITY TORONTO HD CA" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s34200_dark_360w_270h.png" group-title="Canada",CITY TORONTO HD CA
 http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/37082
 
-#EXTINF:-1 group-title="Canada" tvg-shift="-6",BOOK TV CA
+#EXTINF:-1 tvg-id="TumbleBooksTV(English).ca" tvg-name="BOOK TV CA" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s81211_dark_360w_270h.png" group-title="Canada",BOOK TV CA
 http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/632741
 
-#EXTINF:-1 group-title="Canada" tvg-shift="-6",CARTOON NETWORK CA
+#EXTINF:-1 tvg-id="CartoonNetwork(English).ca" tvg-name="CARTOON NETWORK CA" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s76221_dark_360w_270h.png" group-title="Canada",CARTOON NETWORK CA
 http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/632738
 
-#EXTINF:-1 group-title="Canada" tvg-shift="-6",CTV SCI-FI HD CA
+#EXTINF:-1 tvg-id="CTVSCIFICHANNEL(English).ca" tvg-name="CTV SCI-FI HD CA" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s72484_dark_360w_270h.png" group-title="Canada",CTV SCI-FI HD CA
 http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/676945
 
-#EXTINF:-1 group-title="Canada" tvg-shift="-6",FX HD CA
+#EXTINF:-1 tvg-id="FX(English).ca" tvg-name="FX HD CA" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s73682_dark_360w_270h.png" group-title="Canada",FX HD CA
 http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/37064
 
-#EXTINF:-1 group-title="Canada" tvg-shift="-6",MUCH MUSIC HD CA
+#EXTINF:-1 tvg-id="MuchMusic(English).ca" tvg-name="MUCH MUSIC HD CA" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s72139_dark_360w_270h.png" group-title="Canada",MUCH MUSIC HD CA
 http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/632661
 
-#EXTINF:-1 group-title="Canada" tvg-shift="-6",NICK HD CA
+#EXTINF:-1 tvg-id="Nickelodeon(English).ca" tvg-name="NICK HD CA" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s80175_dark_360w_270h.png" group-title="Canada",NICK HD CA
 http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/632654
 
-#EXTINF:-1 group-title="Canada" tvg-shift="-6",TELETOON CA
+#EXTINF:-1 tvg-id="Teletoon(English).ca" tvg-name="TELETOON CA" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s75456_dark_360w_270h.png" group-title="Canada",TELETOON CA
 http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/632625
 
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBC VANCOUVER HD CA" tvg-logo="" group-title="(no group)",CBC VANCOUVER HD CA
+http://mytv.fun:8080/Wernerkriwett1/xbnfnd8x/632774
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="*** Canales Europa ***" tvg-logo="" group-title="Europa" tvg-shift="-6",*** Canales Europa ***
