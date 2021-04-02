@@ -641,28 +641,32 @@ http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8
 http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Your Pretty Face Is Going to Hell" tvg-logo="https://i.imgur.com/v9HBW7B.jpg" group-title="adultswim.com",Your Pretty Face Is Going to Hell
 https://adultswim-vodlive.cdn.turner.com/live/ypf/stream.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Imagen Radio" tvg-logo="" group-title="México",Imagen Radio
+#EXTINF:-1 tvg-logo="" group-title="México" radio="true",Imagen Radio
 http://19233.live.streamtheworld.com/XEDAFM.mp3
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Universal Stereo" tvg-logo="" group-title="México",Universal Stereo
+#EXTINF:-1 tvg-logo="" group-title="México" radio="true",Universal Stereo
 http://22823.live.streamtheworld.com:3690/XHRED_FM_SC
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Oye 89.7 FM" tvg-logo="" group-title="México",Oye 89.7 FM
+#EXTINF:-1 tvg-logo="" group-title="México" radio="true",Oye 89.7 FM
 http://playerservices.streamtheworld.com/api/livestream-redirect/XEOYEFM.mp3
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Disney 92.1 FM" tvg-logo="" group-title="México",Radio Disney 92.1 FM
+#EXTINF:-1 tvg-logo="" group-title="México" radio="true",Radio Disney 92.1 FM
 https://radiodisney.spiritmedia.mx/xhfo921_m
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amor 95.3 FM" tvg-logo="" group-title="México",Amor 95.3 FM
+#EXTINF:-1 tvg-logo="" group-title="México" radio="true",Amor 95.3 FM
 http://playerservices.streamtheworld.com/api/livestream-redirect/XHSHFM.mp3
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XHPOP 99.3 Match FM" tvg-logo="" group-title="México",XHPOP 99.3 Match FM
+#EXTINF:-1 tvg-logo="" group-title="México" radio="true",XHPOP 99.3 Match FM
 http://playerservices.streamtheworld.com/api/livestream-redirect/XHPOPFM.mp3
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Classic Rock Florida HD" tvg-logo="" group-title="United States",Classic Rock Florida HD
+#EXTINF:-1 tvg-logo="" group-title="United States" radio="true",Classic Rock Florida HD
 http://us4.internet-radio.com:8258/
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="San Franciscos 70s HITS!" tvg-logo="" group-title="United States",San Franciscos 70s HITS!
+#EXTINF:-1 tvg-logo="" group-title="United States" radio="true",San Franciscos 70s HITS!
 http://198.178.123.17:10922/
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ambient Radio.org" tvg-logo="" group-title="United States",Ambient Radio.org
+#EXTINF:-1 tvg-logo="" group-title="United States" radio="true",Ambient Radio.org
 http://uk2.internet-radio.com:31491/
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Play Emotions" tvg-logo="" group-title="United States",Radio Play Emotions
+#EXTINF:-1 tvg-logo="" group-title="United States" radio="true",Radio Play Emotions
 http://5.39.82.157:8054/
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dance UK Radio" tvg-logo="" group-title="United Kingdom",Dance UK Radio
+#EXTINF:-1 tvg-logo="" group-title="United Kingdom" radio="true",Dance UK Radio
 http://uk2.internet-radio.com:8024/
+#EXTINF:-1 tvg-logo="" group-title="Japan" radio="true",84.3 FM Edogawa (FMえどがわ-JOZZ3AS-FM-Edogawa City-Tokyo)
+http://musicbird.leanstream.co/JCB032-MP3
+#EXTINF:-1 tvg-logo="" group-title="Japan" radio="true",Banana FM (バナナエフエム-JOZZ7BE-FM-87.7 MHz-Wakayama City)
+http://musicbird.leanstream.co/JCB075-MP3
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="*** Adulto ***" tvg-logo="" group-title="Adulto",*** Adulto ***
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=02&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PlayBoy TV HD (18+)" tvg-logo="" group-title="Adulto",PlayBoy TV HD (18+)
