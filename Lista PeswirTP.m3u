@@ -193,7 +193,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1787&f=HLSAD&s=2b
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=1729&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="CineLatino.mx" tvg-name="CINE LATINO" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s15296_dark_360w_270h.png" group-title="Cine" tvg-shift="-6",CINE LATINO
-http://live.tvsmartgo.com:8000/live/Xgren7cgXT/O9mqutV6zN/22746.ts
+http://mytv.fun:8080/xdud9hgswo/ha69x2in69/21333
 
 #EXTINF:-1 tvg-id="ParamountNetwork.mx" tvg-name="PARAMOUNT CHANNEL" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s106214_dark_360w_270h.png" group-title="Cine" tvg-shift="-6",PARAMOUNT CHANNEL
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1726&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
@@ -636,6 +636,51 @@ https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="*** Canales USA Online***" tvg-logo="" group-title="USA" tvg-shift="-6",*** Canales USA Online***
+https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id>)" tvg-name="AKC TV" tvg-logo="https://i.imgur.com/YNdQXDz.jpg" group-title="USA" tvg-shift="-6",AKC TV
+https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animation (Pluto)" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5be4c6311843b56328bce619/featuredImage.jpg" group-title="USA" tvg-shift="-6",Animation (Pluto)
+https://stitcher.pluto.tv/stitch/hls/channel/5be4c6311843b56328bce619/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Anime All Day" tvg-logo="https://i.pinimg.com/originals/d2/4b/b0/d24bb0b8b62cd58ad6d1d99b720d5e54.jpg" group-title="USA" tvg-shift="-6",Anime All Day
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=72d1521a-198f-4929-9ed3-4f6fe175d21b&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="American Classic TV" tvg-logo="https://i.imgur.com/GmSyxeP.png" group-title="USA" tvg-shift="-6",American Classic TV
+https://nimble.dashstreams.net/onestudio/americanclassictv/playlist.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="American Horrors" tvg-logo="https://i.imgur.com/ENtRDds.png" group-title="USA" tvg-shift="-6",American Horrors
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bob Ross Channel" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.s5x6UOZ4lO-yWBb1xA85qQAAAA&pid=Api&P=0&w=234&h=177" group-title="USA" tvg-shift="-6",Bob Ross Channel
+https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
+
+#EXTINF:-1 tvg-id="ClassicArtsShowcase.us" tvg-name="Classic Arts Showcase" tvg-logo="http://www.classicartsshowcase.org/cas/wp-content/themes/cas/images/logo.png" group-title="USA" tvg-shift="-6",Classic Arts Showcase
+https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+
+#EXTINF:-1 tvg-id="CONtv.us" tvg-name="Con TV" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s110483_dark_360w_270h.png" group-title="USA" tvg-shift="-6",Con TV
+https://dai.google.com/linear/hls/event/o8Smo_gsSAm26uW9Xkww_g/master.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dust" tvg-logo="https://i.imgur.com/q2jim9n.png" group-title="USA" tvg-shift="-6",Dust
+https://dust.sinclair.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Flashback TV" tvg-logo="https://i.imgur.com/KtdEoox.png" group-title="USA" tvg-shift="-6",Flashback TV
+http://nrpus.bozztv.com/36bay2/gusa-TVSFlashback/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Futurism" tvg-logo="https://i.ytimg.com/vi/prPDVF5dfF0/maxresdefault.jpg" group-title="USA" tvg-shift="-6",Futurism
+https://dai.google.com/linear/hls/event/YakHdnr_RpyszducVuHOpQ/master.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Planet Cannabis" tvg-logo="https://i.imgur.com/cR9FCTg.png" group-title="USA" tvg-shift="-6",Planet Cannabis
+https://nimble.dashstreams.net/onestudio/pce/chunks.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Planet Music" tvg-logo="https://i.imgur.com/cpxAk6k.png" group-title="USA" tvg-shift="-6",Planet Music
+https://nrpus.bozztv.com/36bay2/gusa-planetmusic/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Screamfest" tvg-logo="https://i.imgur.com/yfEizcN.png" group-title="USA" tvg-shift="-6",Screamfest
+https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
+
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="*** Canales USA ***" tvg-logo="" group-title="USA" tvg-shift="-6",*** Canales USA ***
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=ypwdiww8ycu8cq0&lchId=02&format=HLS&f=.m3u8
 #EXTINF:-1 tvg-id="AdultSwim(English).ca" tvg-name="ADULT SWIM (US)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s92160_dark_360w_270h.png" group-title="USA",ADULT SWIM (US)
@@ -700,51 +745,6 @@ http://mytv.fun:8080/xdud9hgswo/ha69x2in69/6753
 
 #EXTINF:-1 tvg-id="vox.at" tvg-name="VOX HD (US)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s66616_dark_360w_270h.png" group-title="USA",VOX HD (US)
 http://mytv.fun:8080/aj83ysinnc/jhpnxsvcxr5/6415
-
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="*** Canales USA Online***" tvg-logo="" group-title="USA" tvg-shift="-6",*** Canales USA Online***
-https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id>)" tvg-name="AKC TV" tvg-logo="https://i.imgur.com/YNdQXDz.jpg" group-title="USA" tvg-shift="-6",AKC TV
-https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animation (Pluto)" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5be4c6311843b56328bce619/featuredImage.jpg" group-title="USA" tvg-shift="-6",Animation (Pluto)
-https://stitcher.pluto.tv/stitch/hls/channel/5be4c6311843b56328bce619/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Anime All Day" tvg-logo="https://i.pinimg.com/originals/d2/4b/b0/d24bb0b8b62cd58ad6d1d99b720d5e54.jpg" group-title="USA" tvg-shift="-6",Anime All Day
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=72d1521a-198f-4929-9ed3-4f6fe175d21b&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="American Classic TV" tvg-logo="https://i.imgur.com/GmSyxeP.png" group-title="USA" tvg-shift="-6",American Classic TV
-https://nimble.dashstreams.net/onestudio/americanclassictv/playlist.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="American Horrors" tvg-logo="https://i.imgur.com/ENtRDds.png" group-title="USA" tvg-shift="-6",American Horrors
-http://170.178.189.66:1935/live/Stream1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bob Ross Channel" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.s5x6UOZ4lO-yWBb1xA85qQAAAA&pid=Api&P=0&w=234&h=177" group-title="USA" tvg-shift="-6",Bob Ross Channel
-https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
-
-#EXTINF:-1 tvg-id="ClassicArtsShowcase.us" tvg-name="Classic Arts Showcase" tvg-logo="http://www.classicartsshowcase.org/cas/wp-content/themes/cas/images/logo.png" group-title="USA" tvg-shift="-6",Classic Arts Showcase
-https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
-
-#EXTINF:-1 tvg-id="CONtv.us" tvg-name="Con TV" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s110483_dark_360w_270h.png" group-title="USA" tvg-shift="-6",Con TV
-https://dai.google.com/linear/hls/event/o8Smo_gsSAm26uW9Xkww_g/master.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dust" tvg-logo="https://i.imgur.com/q2jim9n.png" group-title="USA" tvg-shift="-6",Dust
-https://dust.sinclair.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Flashback TV" tvg-logo="https://i.imgur.com/KtdEoox.png" group-title="USA" tvg-shift="-6",Flashback TV
-http://nrpus.bozztv.com/36bay2/gusa-TVSFlashback/index.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Futurism" tvg-logo="https://i.ytimg.com/vi/prPDVF5dfF0/maxresdefault.jpg" group-title="USA" tvg-shift="-6",Futurism
-https://dai.google.com/linear/hls/event/YakHdnr_RpyszducVuHOpQ/master.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Planet Cannabis" tvg-logo="https://i.imgur.com/cR9FCTg.png" group-title="USA" tvg-shift="-6",Planet Cannabis
-https://nimble.dashstreams.net/onestudio/pce/chunks.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Planet Music" tvg-logo="https://i.imgur.com/cpxAk6k.png" group-title="USA" tvg-shift="-6",Planet Music
-https://nrpus.bozztv.com/36bay2/gusa-planetmusic/index.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Screamfest" tvg-logo="https://i.imgur.com/yfEizcN.png" group-title="USA" tvg-shift="-6",Screamfest
-https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="*** Canales Canadá ***" tvg-logo="" group-title="Canada",*** Canales Canadá ***
