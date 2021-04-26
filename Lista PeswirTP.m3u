@@ -692,6 +692,9 @@ http://mytv.fun:8080/p38ureiz5q/mteqehc7su/14387
 #EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="CARTOON NETWORK HD (US) (2)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s12131_dark_360w_270h.png" group-title="USA" tvg-shift="-6",CARTOON NETWORK HD (US) (2)
 http://mytv.fun:8080/p38ureiz5q/mteqehc7su/4886
 
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="CARTOON NETWORK HD (US) UTG" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s12131_dark_360w_270h.png" group-title="USA" tvg-shift="-6",CARTOON NETWORK HD (US) UTG
+https://h1.ustvgo.org/CN/myStream/chunks.m3u8?nimblesessionid=6169474&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDIxIDQ6MDM6NDcgUE0maGFzaF92YWx1ZT1wSkw4RkFVNGp3RDN3NDBYZUtYeHZBPT0mdmFsaWRtaW51dGVzPTI0MA==
+
 #EXTINF:-1 tvg-id="Vice.us" tvg-name="VICE HD (US)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s18822_dark_360w_270h.png" group-title="USA" tvg-shift="-6",VICELAND HD (US)
 http://mytv.fun:8080/p38ureiz5q/mteqehc7su/667813
 
