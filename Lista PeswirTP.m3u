@@ -175,13 +175,13 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=335&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
 #EXTINF:-1 tvg-id="DePelicula.mx" tvg-name="DE PELICULA HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16288_dark_360w_270h.png" group-title="Cine" tvg-shift="-6",DE PELICULA HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=335&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=335&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="DePeliculaPlus.mx" tvg-name="DE PELICULA +" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s74016_dark_360w_270h.png" group-title="Cine" tvg-shift="-6",DE PELICULA +
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=121&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=121&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
 #EXTINF:-1 tvg-id="DePeliculaPlus.mx" tvg-name="DE PELICULA + HD" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s74016_dark_360w_270h.png" group-title="Cine" tvg-shift="-6",DE PELICULA + HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=121&format=HLS&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=121&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="DePeliculaClasico(Spanish).us" tvg-name="DE PELICULA CLÁSICO" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s33628_dark_360w_270h.png" group-title="Cine" tvg-shift="-6",DE PELICULA CLÁSICO
 http://mytv.fun:8080/p38ureiz5q/mteqehc7su/6711
@@ -445,7 +445,7 @@ http://mytv.fun:8080/p38ureiz5q/mteqehc7su/14396
 http://xdgo.live:8080/JJaco503/97tyf7vbBH/29546
 
 #EXTINF:-1 tvg-id="DMAX.es" tvg-name="DMAX (ESPAÑA)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s90316_dark_360w_270h.png" group-title="Cultura" tvg-shift="-6",DMAX (ESPAÑA)
-http://xdgo.live:8080/JJaco503/97tyf7vbBH/29546
+http://91.126.141.12:1935/live/discoverymax/chunklist_w1033105812.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryScience.mx" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s46610_dark_360w_270h.png" group-title="Cultura" tvg-shift="-6",DISCOVERY SCIENCE
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=98&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
