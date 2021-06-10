@@ -547,15 +547,15 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF:-1 tvg-id="Bandamax.mx" tvg-name="BANDAMAX" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s18101_dark_360w_270h.png" group-title="Música",BANDAMAX
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=221&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
-#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/TLRMO.PNG" group-title="Música", TELERITMO
+#EXTINF:-1 tvg-id="Teleritmo.mx" tvg-logo="https://sc.dish.com/shared/images/station-logos/TLRMO.PNG" group-title="Música", TELERITMO
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
 
 
-#EXTINF:-1 tvg-id="ESPNLatin.mx" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s96876_dark_360w_270h.png" group-title="Deportes",ESPN
+#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s96876_dark_360w_270h.png" group-title="Deportes",ESPN
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=168&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
-#EXTINF:-1 tvg-id="ESPNDos.mx" tvg-name="ESPN 2" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s110964_dark_360w_270h.png" group-title="Deportes",ESPN 2
+#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s110964_dark_360w_270h.png" group-title="Deportes",ESPN 2
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=169&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
 #EXTINF:-1 tvg-id="ESPNDeportes.mx" tvg-name="ESPN 3" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s25595_dark_360w_270h.png" group-title="Deportes",ESPN 3
@@ -643,19 +643,19 @@ https://rt-esp.secure.footprint.net:443/1102_2500Kb.m3u8
 
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Caracol" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062014/logo_caracol_television.jpg?itok=Wmo-Rups" group-title="Latino América",CARACOL
+#EXTINF:-1 tvg-id="CARACOLINTERNATIONAL.mx" tvg-name="Caracol" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062014/logo_caracol_television.jpg?itok=Wmo-Rups" group-title="Latino América",CARACOL
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
 
 #EXTINF:-1 tvg-id="Mariavision.mx" tvg-name="MariaVision" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s12034_dark_360w_270h.png" group-title="Latino América",MARIAVISIÓN
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/United-Nations-Logo.png" group-title="Latino América", NACIONES UNIDAS TV HD 
+#EXTINF:-1 tvg-id="UnitedNationsTV.us" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/United-Nations-Logo.png" group-title="Latino América", NACIONES UNIDAS TV HD 
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/argU5Q9r5-gvleMRCafNE2TyaWioaSr69ROMhr4nXG1iuzrT1noRMDJX8qAoYCZsfOA" group-title="Latino América", TELESUR COSTA RICA HD 
+#EXTINF:-1 tvg-id="TeleSur.mx" tvg-logo="https://lh3.googleusercontent.com/argU5Q9r5-gvleMRCafNE2TyaWioaSr69ROMhr4nXG1iuzrT1noRMDJX8qAoYCZsfOA" group-title="Latino América", TELESUR COSTA RICA HD 
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/argU5Q9r5-gvleMRCafNE2TyaWioaSr69ROMhr4nXG1iuzrT1noRMDJX8qAoYCZsfOA" group-title="Latino América", TELESUR VENEZUELA HD 
+#EXTINF:-1 tvg-id="TeleSur.do" tvg-logo="https://lh3.googleusercontent.com/argU5Q9r5-gvleMRCafNE2TyaWioaSr69ROMhr4nXG1iuzrT1noRMDJX8qAoYCZsfOA" group-title="Latino América", TELESUR VENEZUELA HD 
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
 
 
