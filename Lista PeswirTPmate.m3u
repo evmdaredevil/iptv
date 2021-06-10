@@ -654,10 +654,10 @@ http://mytv.fun:8080/p38ureiz5q/mteqehc7su/7247
 #EXTINF:-1 tvg-id="ComedyCentral.es" tvg-name="COMEDY CENTRAL (ES)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s91277_dark_360w_270h.png" group-title="España",COMEDY CENTRAL (ES)
 http://mytv.fun:8080/p38ureiz5q/mteqehc7su/7230
 
-#EXTINF:-1 tvg-id="DiscoveryChannel.es" tvg-name="DISCOVERY CHANNEL (ES)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s97470_dark_360w_270h.png" group-title="Cultura",DISCOVERY CHANNEL (ES)
+#EXTINF:-1 tvg-id="DiscoveryChannel.es" tvg-name="DISCOVERY CHANNEL (ES)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s97470_dark_360w_270h.png" group-title="España",DISCOVERY CHANNEL (ES)
 http://mytv.fun:8080/p38ureiz5q/mteqehc7su/7226
 
-#EXTINF:-1 tvg-id="DMAX.es" tvg-name="DMAX (ES)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s90316_dark_360w_270h.png" group-title="Cultura",DMAX (ES)
+#EXTINF:-1 tvg-id="DMAX.es" tvg-name="DMAX (ES)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s90316_dark_360w_270h.png" group-title="España",DMAX (ES)
 http://91.126.141.12:1935/live/discoverymax/chunklist_w1033105812.m3u8
 
 #EXTINF:-1 tvg-id="Divinity.es" tvg-name="DIVINITY (ES)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s87038_dark_360w_270h.png" group-title="España",DIVINITY (ES)
@@ -666,16 +666,16 @@ http://mytv.fun:8080/p38ureiz5q/mteqehc7su/13534
 #EXTINF:-1 tvg-id="Fox.es" tvg-name="FOX (ES)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s87056_dark_360w_270h.png" group-title="España",FOX (ES)
 http://mytv.fun:8080/p38ureiz5q/mteqehc7su/16267
 
-#EXTINF:-1 tvg-id="Historia.es" tvg-name="HISTORY (ES)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s97473_dark_360w_270h.png" group-title="Cultura",HISTORY (ES)
+#EXTINF:-1 tvg-id="Historia.es" tvg-name="HISTORY (ES)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s97473_dark_360w_270h.png" group-title="España",HISTORY (ES)
 http://mytv.fun:8080/p38ureiz5q/mteqehc7su/7217
 
-#EXTINF:-1 tvg-id="Mega.es" tvg-name="MEGA (ES)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s102753_dark_360w_270h.png" group-title="España" group-title="Cultura",MEGA (ES)
+#EXTINF:-1 tvg-id="Mega.es" tvg-name="MEGA (ES)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s102753_dark_360w_270h.png" group-title="España" group-title="España",MEGA (ES)
 http://mytv.fun:8080/p38ureiz5q/mteqehc7su/16263
 
-#EXTINF:-1 tvg-id="NationalGeographic.es" tvg-name="NAT GEO (ES)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s91208_dark_360w_270h.png" group-title="Cultura",NAT GEO (ES)
+#EXTINF:-1 tvg-id="NationalGeographic.es" tvg-name="NAT GEO (ES)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s91208_dark_360w_270h.png" group-title="España",NAT GEO (ES)
 http://mytv.fun:8080/p38ureiz5q/mteqehc7su/13528
 
-#EXTINF:-1 tvg-id="NationalGeographicWild.es" tvg-name="NAT GEO WILD (ES)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s91207_dark_360w_270h.png" group-title="Cultura",NAT GEO WILD (ES)
+#EXTINF:-1 tvg-id="NationalGeographicWild.es" tvg-name="NAT GEO WILD (ES)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s91207_dark_360w_270h.png" group-title="España",NAT GEO WILD (ES)
 http://mytv.fun:8080/p38ureiz5q/mteqehc7su/7188
 
 
