@@ -1,6 +1,6 @@
 ##EXTM3U url-tvg="http://m3u4u.com/epg/v158yx5z14s8pr4n9mwr"
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL TOTALPLAY" tvg-logo="" group-title="TV Abierta"  ,CANAL TOTALPLAY
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL TOTALPLAY" tvg-logo="https://cdn.fing.io/images/isp/MX/logo/totalplay_logo.png" group-title="TV Abierta"  ,CANAL TOTALPLAY
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=02&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="IMAGEN TV" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s101096_dark_360w_270h.png" group-title="TV Abierta"  ,IMAGEN TV
@@ -526,7 +526,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=218&f=HLSAD&s=zec
 #EXTINF:-1 tvg-id="Bandamax.mx" tvg-name="BANDAMAX" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s18101_dark_360w_270h.png" group-title="Música"  ,BANDAMAX
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=221&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
-#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/TLRMO.PNG" group-title="Latino America", TELERITMO
+#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/TLRMO.PNG" group-title="Música", TELERITMO
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
 
@@ -840,7 +840,7 @@ http://mytv.fun:8080/p38ureiz5q/mteqehc7su/13534
 #EXTINF:-1 tvg-id="Fox.es" tvg-name="FOX (ES)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s87056_dark_360w_270h.png" group-title="España",FOX (ES)
 http://mytv.fun:8080/p38ureiz5q/mteqehc7su/16267
 
-#EXTINF:-1 tvg-id="Mega.es" tvg-name="MEGA (ES)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s102753_dark_360w_270h.png" group-title="España" group-title="Cultura",MEGA (ES)
+#EXTINF:-1 tvg-id="Mega.es" tvg-name="MEGA (ES)" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s102753_dark_360w_270h.png" group-title="España;Cultura" group-title="Cultura",MEGA (ES)
 http://mytv.fun:8080/p38ureiz5q/mteqehc7su/16263
 
 
@@ -860,19 +860,19 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 http://redlabmcdn.s.llnwi.net/jp01/ryowa6/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Tokyo JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1200px-TV_Tokyo_logo_20110629.svg.png" group-title="Japón",テレビ東京
-https://ok.ru/video/2566528638580
+http://203.162.235.41:16908
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="フジテレビ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/1200px-Fuji_TV_logo.svg.png" group-title="Japón",フジテレビ
 http://203.162.235.41:16904
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="(no tvg-id)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/TBS_TV.svg/revision/latest/scale-to-width-down/340?cb=20180521021808" group-title="Japón",TBS (JP)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TBS (JP)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/TBS_TV.svg/revision/latest/scale-to-width-down/340?cb=20180521021808" group-title="Japón",TBS (JP)
 http://203.162.235.41:16913
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BSアニマックス" tvg-logo="https://iconape.com/wp-content/files/px/285466/svg/animax-logo-logo-icon-png-svg.png" group-title="Japón",BSアニマックス
 https://redlabmcdn.s.llnwi.net/jp01/bs14/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHK総合・東京" tvg-logo="https://static.wikia.nocookie.net/drama/images/3/39/NHK.png/revision/latest?cb=20200301184626" group-title="Japón",NHK総合・東京
-http://193.42.99.130:23455/NHKHD/playlist.m3u8
+http://203.162.235.41:16908
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHKEテレ東京" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/NHK_Educational_TV_logo.svg/revision/latest/scale-to-width-down/340?cb=20190119102041" group-title="Japón",NHKEテレ東京
 http://203.162.235.41:16903
