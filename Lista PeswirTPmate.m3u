@@ -753,6 +753,9 @@ http://azxtv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="http://locomotiontv.com/locomotion/logo.png" group-title="Anime (Latino)",LOCOMOTION
 http://51.222.85.85:81/hls/loco/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logomagic96.png/145px-Logomagic96.png" group-title="Anime (Latino)",MAGIC KIDS
+https://live.admefy.com/live/default/clean_peach_ef224.m3u8
+
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Tokyo JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1200px-TV_Tokyo_logo_20110629.svg.png" group-title="Japón",テレビ東京
