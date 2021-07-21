@@ -752,10 +752,10 @@ http://mytv.fun:8080/order12087/zcnfkwm3ct/671353
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=3n8144qfc1fljtk&lchId=2591&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://locomotiontv.com/locomotion/aztv_logo.png" group-title="Anime (Latino)",AZTV
-http://azxtv.com/HLS/stream.m3u8
+http://azxtv.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="http://locomotiontv.com/locomotion/logo.png" group-title="Anime (Latino)",LOCOMOTION
-http://51.222.85.85:81/HLS/loco/index.m3u8
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logomagic96.png/145px-Logomagic96.png" group-title="Anime (Latino)",MAGIC KIDS
 https://live.admefy.com/live/default/clean_peach_ef224.m3u8
@@ -765,38 +765,35 @@ https://live.admefy.com/live/default/great_salmon_9bd9d.m3u8
 
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Tokyo JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1200px-TV_Tokyo_logo_20110629.svg.png" group-title="Japón",テレビ東京
-http://redlabmcdn.s.llnwi.net/jp01/ryowa6/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Tokyo JP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKzEOLW7JvzEn9n2SjNxpz_qmzyvt7OfZwxeawUcRKw_rv7Aa4cicc15VHXMJcyCcEI7w&usqp=CAU" group-title="Japón",BSテレ東 (TV TOKYO)
+http://redlabmcdn.s.llnwi.net/jp04/bs06hd/index.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Tokyo JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1200px-TV_Tokyo_logo_20110629.svg.png" group-title="Japón",テレビ東京
-http://203.162.235.41:16908
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TBS JP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/TBS_TV.svg/revision/latest/scale-to-width-down/340?cb=20180521021808" group-title="Japón", (TBS JP)
+http://redlabmcdn.s.llnwi.net/jp04/bs05hd/index.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="フジテレビ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/1200px-Fuji_TV_logo.svg.png" group-title="Japón",フジテレビ
-http://203.162.235.41:16904
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animax JP" tvg-logo="https://iconape.com/wp-content/files/px/285466/svg/animax-logo-logo-icon-png-svg.png" group-title="Japón",BSアニマックス (ANIMAX)
+http://redlabmcdn.s.llnwi.net/jp04/bs14hd/index.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TBS (JP)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/TBS_TV.svg/revision/latest/scale-to-width-down/340?cb=20180521021808" group-title="Japón",TBS (JP)
-http://203.162.235.41:16913
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISNEY CHANNEL JP" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s79589_dark_360w_270h.png" group-title="Japón",DISNEY CHANNEL JP
+http://redlabmcdn.s.llnwi.net/jp04/bs13hd/index.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BSアニマックス" tvg-logo="https://iconape.com/wp-content/files/px/285466/svg/animax-logo-logo-icon-png-svg.png" group-title="Japón",BSアニマックス
-https://redlabmcdn.s.llnwi.net/jp01/bs14/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHK BS1 JP" tvg-logo="https://pbs.twimg.com/profile_images/1231860679990054913/ztnwxX3n.png" group-title="Japón",NHK BS1
+http://redlabmcdn.s.llnwi.net/jp04/bs01hd/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s79589_dark_360w_270h.png" group-title="Japón",Disney Channel (JP)
-https://redlabmcdn.s.llnwi.net/jp01/bs13/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHK BSP JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/NHK_BS%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0_%E6%96%B0%E3%83%AD%E3%82%B4.png" group-title="Japón",NHK BSP
+http://redlabmcdn.s.llnwi.net/jp04/bs02hd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0014/3214/brand.gif?itok=qXTL1-S3" group-title="Japón",Hiroshima Tv
-https://hiroshima-tv-live.HLS.wselive.stream.ne.jp/hiroshima-tv-live/live/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nippon TV JP" tvg-logo="https://static.wikia.nocookie.net/godzilla/images/0/07/Nippon_tv_logo_2014.png/revision/latest?cb=20140725194555" group-title="Japón",0テレ (NIPPON TV)
+http://redlabmcdn.s.llnwi.net/jp04/bs03hd/index.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHK総合・東京" tvg-logo="https://static.wikia.nocookie.net/drama/images/3/39/NHK.png/revision/latest?cb=20200301184626" group-title="Japón",NHK総合・東京
-http://203.162.235.41:16908
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star 1 JP" tvg-logo="https://iconape.com/wp-content/png_logo_vector/star-channel-japan.png" group-title="Japón",STAR 1
+http://redlabmcdn.s.llnwi.net/jp04/bs09hd/index.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHKEテレ東京" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/NHK_Educational_TV_logo.svg/revision/latest/scale-to-width-down/340?cb=20190119102041" group-title="Japón",NHKEテレ東京
-http://203.162.235.41:16903
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star 2 JP" tvg-logo="https://iconape.com/wp-content/png_logo_vector/star-channel-japan.png" group-title="Japón",STAR 2
+http://redlabmcdn.s.llnwi.net/jp04/bs10hd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/star-channel-japan.png" group-title="Japón",STAR 1
-https://redlabmcdn.s.llnwi.net/jp01/bs09/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/star-channel-japan.png" group-title="Japón",STAR 2
-https://redlabmcdn.s.llnwi.net/jp01/bs10/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BS12 JP" tvg-logo="https://pbs.twimg.com/profile_images/1092677372732526592/KeOdnvt6_400x400.jpg" group-title="Japón",BS 12
+http://redlabmcdn.s.llnwi.net/jp04/bs08hd/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TOKYO MX 1" tvg-logo="https://s.mxtv.jp/alexa_mx/images_s/mcas_logo.png" group-title="Japón",TOKYO MX 1
 http://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
