@@ -158,7 +158,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=3n8144q
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=3n8144qfc1fljtk&lchId=123&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="GoldenPremier.mx" tvg-name="GOLDEN PREMIER" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16298_dark_360w_270h.png" group-title="Cine",GOLDEN PREMIER
-http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/2386.m3u8
+http://xdgo.live:8080/live/45gomas2021/vEbFBxas7y/2386
 
 #EXTINF:-1 tvg-id="GOLDENPLUS.mx" tvg-name="GOLDEN +" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s68317_dark_360w_270h.png" group-title="Cine",GOLDEN +
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=3n8144qfc1fljtk&lchId=122&format=HLS&f=.m3u8
@@ -173,31 +173,31 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=3n8144q
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=3n8144qfc1fljtk&lchId=126&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s84823_dark_360w_270h.png" group-title="Cine",HBO
-http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/2389.m3u8
+http://xdgo.live:8080/live/45gomas2021/vEbFBxas7y/2389
 
 #EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO LATINO" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s84823_dark_360w_270h.png" group-title="Cine",HBO LATINO
-http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/2388.m3u8
+http://xdgo.live:8080/live/45gomas2021/vEbFBxas7y/2388
 
 #EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s80652_dark_360w_270h.png" group-title="Cine",HBO 2
-http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/2391.m3u8
+http://xdgo.live:8080/live/45gomas2021/vEbFBxas7y/2391
 
 #EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO Family" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s80118_dark_360w_270h.png" group-title="Cine",HBO Family
-http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/2395.m3u8
+http://xdgo.live:8080/live/45gomas2021/vEbFBxas7y/2395
 
 #EXTINF:-1 tvg-id="HBOMundi.mx" tvg-name="HBO MUNDI" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s87164_dark_360w_270h.png" group-title="Cine",HBO MUNDI
-http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/27530.m3u8
+http://xdgo.live:8080/live/45gomas2021/vEbFBxas7y/27530
 
 #EXTINF:-1 tvg-id="HBOPlus.mx" tvg-name="HBO PLUS" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s82003_dark_360w_270h.png" group-title="Cine",HBO PLUS
-http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/2392.m3u8
+http://xdgo.live:8080/live/45gomas2021/vEbFBxas7y/2392
 
 #EXTINF:-1 tvg-id="HBOPop.mx" tvg-name="HBO POP" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s91408_dark_360w_270h.png" group-title="Cine",HBO POP
-http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/954.m3u8
+http://xdgo.live:8080/live/45gomas2021/vEbFBxas7y/954
 
 #EXTINF:-1 tvg-id="HBOSignature.mx" tvg-name="HBO SIGNATURE" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s74450_dark_360w_270h.png" group-title="Cine",HBO SIGNATURE
-http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/2604.m3u8
+http://xdgo.live:8080/live/45gomas2021/vEbFBxas7y/2604
 
 #EXTINF:-1 tvg-id="HBOXtreme.mx" tvg-name="HBO XTREME" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s80115_dark_360w_270h.png" group-title="Cine",HBO XTREME
-http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/955.m3u8
+http://xdgo.live:8080/live/45gomas2021/vEbFBxas7y/955
 
 #EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="STUDIO UNIVERSAL" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s29017_dark_360w_270h.png" group-title="Cine",STUDIO UNIVERSAL
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=3n8144qfc1fljtk&lchId=132&format=HLS&f=.m3u8
