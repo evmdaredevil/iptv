@@ -555,9 +555,6 @@ http://mytv.fun:8080/order12087/zcnfkwm3ct/14387
 #EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="CARTOON NETWORK HD (US) (2)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" group-title="USA",CARTOON NETWORK HD (US) (2)
 http://mytv.fun:8080/order12087/zcnfkwm3ct/4886
 
-#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="CARTOON NETWORK HD (US) UTG" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" group-title="USA",CARTOON NETWORK HD (US) UTG
-https://h1.ustvgo.org/CN/myStream/chunks.m3u8?nimblesessionid=6169474&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDIxIDQ6MDM6NDcgUE0maGFzaF92YWx1ZT1wSkw4RkFVNGp3RDN3NDBYZUtYeHZBPT0mdmFsaWRtaW51dGVzPTI0MA==
-
 #EXTINF:-1 tvg-id="Vice.us" tvg-name="VICE HD (US)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18822_dark_360w_270h.png" group-title="USA",VICE HD (US)
 http://mytv.fun:8080/order12087/zcnfkwm3ct/667813
 
@@ -621,34 +618,31 @@ https://stitcher.pluto.tv/stitch/HLS/channel/5be4c6311843b56328bce619/master.m3u
 https://service-stitcher.clusters.pluto.tv/stitch/HLS/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=72d1521a-198f-4929-9ed3-4f6fe175d21b&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="American Classic TV" tvg-logo="https://i.imgur.com/GmSyxeP.png" group-title="USA (Online)",American Classic TV
-https://nimble.dashstreams.net/onestudio/americanclassictv/playlist.m3u8?fluxustv.m3u8
+https://broadcast.mytvtogo.net/AmericanClassicTV/AmericanClassicTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="American Horrors" tvg-logo="https://i.imgur.com/ENtRDds.png" group-title="USA (Online)",American Horrors
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bob Ross Channel" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.s5x6UOZ4lO-yWBb1xA85qQAAAA&pid=Api&P=0&w=234&h=177" group-title="USA (Online)",Bob Ross Channel
-https://dai.google.com/linear/HLS/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
+https://bobross-us-roku.cinedigm.com/midroll/amagi_hls_data_xumo-host-roku-bobross/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ClassicArtsShowcase.us" tvg-name="Classic Arts Showcase" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16325_dark_360w_270h.png" group-title="USA (Online)",Classic Arts Showcase
-https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+https://d3s1xaoyhrialn.cloudfront.net/CAS/index.m3u8
 
 #EXTINF:-1 tvg-id="CONtv.us" tvg-name="Con TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s110483_dark_360w_270h.png" group-title="USA (Online)",Con TV
-https://dai.google.com/linear/HLS/event/o8Smo_gsSAm26uW9Xkww_g/master.m3u8
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/1280x720_2108000/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dust" tvg-logo="https://i.imgur.com/q2jim9n.png" group-title="USA (Online)",Dust
-https://dust.sinclair.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Flashback TV" tvg-logo="https://i.imgur.com/KtdEoox.png" group-title="USA (Online)",Flashback TV
-http://nrpus.bozztv.com/36bay2/gusa-TVSFlashback/index.m3u8
+https://dust-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Futurism" tvg-logo="https://i.ytimg.com/vi/prPDVF5dfF0/maxresdefault.jpg" group-title="USA (Online)",Futurism
-https://dai.google.com/linear/HLS/event/YakHdnr_RpyszducVuHOpQ/master.m3u8
+https://futurism.sinclair.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Planet Cannabis" tvg-logo="https://i.imgur.com/cR9FCTg.png" group-title="USA (Online)",Planet Cannabis
-https://nimble.dashstreams.net/onestudio/pce/chunks.m3u8
+https://broadcast.mytvtogo.net/planetcannabis/planetcannabis/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Planet Music" tvg-logo="https://i.imgur.com/cpxAk6k.png" group-title="USA (Online)",Planet Music
-https://nrpus.bozztv.com/36bay2/gusa-planetmusic/index.m3u8
+https://broadcast.mytvtogo.net/pcenmusic/pcenmusic/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Screamfest" tvg-logo="https://i.imgur.com/yfEizcN.png" group-title="USA (Online)",Screamfest
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
@@ -723,7 +717,7 @@ http://mytv.fun:8080/order12087/zcnfkwm3ct/6570
 #EXTINF:-1 tvg-id="SkyArts.uk" tvg-name="SKY ARTS HD (UK)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s49612_dark_360w_270h.png" group-title="Reino Unido",SKY ARTS HD (UK)
 http://mytv.fun:8080/order12087/zcnfkwm3ct/684070
 
-#EXTINF:-1 tvg-id="Vice.us" tvg-name="VICE HD (US)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18822_dark_360w_270h.png" group-title="Reino Unido",VICE HD (US)
+#EXTINF:-1 tvg-id="Vice.us" tvg-name="VICE HD (UK)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18822_dark_360w_270h.png" group-title="Reino Unido",VICE HD (US)
 http://mytv.fun:8080/order12087/zcnfkwm3ct/13219
 
 #EXTINF:-1 tvg-id="VirginMediaOne.uk" tvg-name="VIRGIN MEDIA ONE HD (UK)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s30453_dark_360w_270h.png" group-title="Reino Unido",VIRGIN MEDIA ONE HD (UK)
