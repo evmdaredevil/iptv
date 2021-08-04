@@ -751,47 +751,47 @@ https://live.admefy.com/live/default/great_salmon_9bd9d.m3u8
 
 
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Tokyo Kanto JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1200px-TV_Tokyo_logo_20110629.svg.png" group-title="Japón",TV Tokyo Kanto (JP)
+http://itskoi.dothome.co.kr/jptv.php?id=kanto_tv_tokyo
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Tokyo JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1200px-TV_Tokyo_logo_20110629.svg.png" group-title="Japón",TV Tokyo (JP)
-http://redlabmcdn.s.llnwi.net/jp04/bs06hd/index.m3u8
+http://itskoi.dothome.co.kr/jpn.php?id=B061
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TBS JP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/TBS_TV_6_%282003%29.svg/revision/latest/scale-to-width-down/200?cb=20210222192520" group-title="Japón",TBS (JP)
-http://redlabmcdn.s.llnwi.net/jp04/bs05hd/index.m3u8
-
+http://itskoi.dothome.co.kr/jpn.php?id=B051
+tv
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fuji TV JP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/1200px-Fuji_TV_logo.svg.png" group-title="Japón",Fuji TV (JP)
-http://redlabmcdn.s.llnwi.net/jp04/bs07hd/index.m3u8
+http://itskoi.dothome.co.kr/jpn.php?id=B071
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animax JP" tvg-logo="https://iconape.com/wp-content/files/px/285466/svg/animax-logo-logo-icon-png-svg.png" group-title="Japón",Animax (JP)
-http://redlabmcdn.s.llnwi.net/jp04/bs14hd/index.m3u8
+http://itskoi.dothome.co.kr/jpn.php?id=B141
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISNEY CHANNEL JP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Disney_channel_2019.svg/revision/latest/scale-to-width-down/250?cb=20210529193239" group-title="Japón",DISNEY CHANNEL (JP)
-http://redlabmcdn.s.llnwi.net/jp04/bs13hd/index.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV JP" tvg-logo="https://static.wikia.nocookie.net/international-entertainment-project/images/8/86/1280px-MTV_Logo_2010.svg.png/revision/latest?cb=20200510034211" group-title="Japón",MTV (JP)
-http://81.30.182.82:18092/HLSAD/live.m3u8
+http://itskoi.dothome.co.kr/jpn.php?id=B131
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHK BS1 JP" tvg-logo="https://pbs.twimg.com/profile_images/1231860679990054913/ztnwxX3n.png" group-title="Japón",NHK BS1 (JP)
-http://redlabmcdn.s.llnwi.net/jp04/bs01hd/index.m3u8
+http://itskoi.dothome.co.kr/jpn.php?id=B011
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHK BSP JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/NHK_BS%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0_%E6%96%B0%E3%83%AD%E3%82%B4.png" group-title="Japón",NHK BSP (JP)
-http://redlabmcdn.s.llnwi.net/jp04/bs02hd/index.m3u8
+http://itskoi.dothome.co.kr/jpn.php?id=B021
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nippon TV JP" tvg-logo="https://static.wikia.nocookie.net/godzilla/images/0/07/Nippon_tv_logo_2014.png/revision/latest?cb=20140725194555" group-title="Japón",Nippon TV (JP)
-http://redlabmcdn.s.llnwi.net/jp04/bs03hd/index.m3u8
+http://itskoi.dothome.co.kr/jptv.php?id=kanto_nippon
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Asahi JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1200px-TV_Asahi_Logo.svg.png" group-title="Japón",TV Asahi (JP)
-http://redlabmcdn.s.llnwi.net/jp04/bs04hd/index.m3u8
+http://itskoi.dothome.co.kr/jptv.php?id=kanto_tv_asahi
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star 1 JP" tvg-logo="https://iconape.com/wp-content/png_logo_vector/star-channel-japan.png" group-title="Japón",Star 1 (JP)
-http://redlabmcdn.s.llnwi.net/jp04/bs09hd/index.m3u8
+http://itskoi.dothome.co.kr/jpn.php?id=B091
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star 2 JP" tvg-logo="https://iconape.com/wp-content/png_logo_vector/star-channel-japan.png" group-title="Japón",Star 2 (JP)
-http://redlabmcdn.s.llnwi.net/jp04/bs10hd/index.m3u8
+http://itskoi.dothome.co.kr/jpn.php?id=B101
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BS12 JP" tvg-logo="https://pbs.twimg.com/profile_images/1092677372732526592/KeOdnvt6_400x400.jpg" group-title="Japón",BS12 (JP)
-http://redlabmcdn.s.llnwi.net/jp04/bs08hd/index.m3u8
+http://itskoi.dothome.co.kr/jpn.php?id=B081
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star 2 JP" tvg-logo="https://i.imgur.com/gFKvgAd.jpg" group-title="Japón",Star 2 (JP)
-https://gorilla.gaki-no-tsukai.eu/HLSAD/test.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Team Gaki JP" tvg-logo="https://i.imgur.com/gFKvgAd.jpg" group-title="Japón",Team Gaki (JP)
+https://gorilla.gaki-no-tsukai.eu/HLS/test.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VideoLand JP" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/5/5b/VL_Logo.png" group-title="Japón",VideoLand (JP)
 http://198.16.106.62:8278/streams/d/videolandjapan_zero/playlist.m3u8
