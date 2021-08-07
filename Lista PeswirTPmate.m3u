@@ -392,6 +392,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glroglj
 #EXTINF:-1 tvg-id="VH1Megahits.mx" tvg-name="VH1 CLASSIC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s74162_dark_360w_270h.png" group-title="Música",VH1 CLASSIC
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=glrogljuc37atxo&lchId=214&format=HLSAD&f=.m3u8
 
+#EXTINF:-1 tvg-id="BETJams.us" tvg-name="JAMS (US)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s30419_dark_360w_270h.png" group-title="Música",JAMS (US)
+http://mytv.fun:8080/order12087/zcnfkwm3ct/684742
+
 #EXTINF:-1 tvg-id="BETSOUL.us" tvg-name="SOUL (US)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18718_dark_360w_270h.png" group-title="Música",SOUL (US)
 http://mytv.fun:8080/order12087/zcnfkwm3ct/661091
 
@@ -570,11 +573,17 @@ http://mytv.fun:8080/order12087/zcnfkwm3ct/13756
 #EXTINF:-1 tvg-id="FOX(WNYW)NewYorkNY(src01).us" tvg-name="FOX5 New York HD (US)" tvg-logo="https://www.dagonnyc.com/wp-content/uploads/2021/05/Fox5_logo.png" group-title="USA",FOX5 New York HD (US)
 http://mytv.fun:8080/order12087/zcnfkwm3ct/677119
 
+#EXTINF:-1 tvg-id="KCBS.us" tvg-name="CBS (US)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" group-title="USA",CBS (US)
+http://mytv.fun:8080/order12087/zcnfkwm3ct/4882
+
 #EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="COMEDY CENTRAL (US)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" group-title="USA",COMEDY CENTRAL (US)
 http://mytv.fun:8080/order12087/zcnfkwm3ct/4882
 
 #EXTINF:-1 tvg-id="hbo.us" tvg-name="HBO (US)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="USA",HBO (US)
 http://mytv.fun:8080/order12087/zcnfkwm3ct/685038
+
+#EXTINF:-1 tvg-id="BETJams.us" tvg-name="JAMS (US)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s30419_dark_360w_270h.png" group-title="USA",JAMS (US)
+http://mytv.fun:8080/order12087/zcnfkwm3ct/684742
 
 #EXTINF:-1 tvg-id="mtv.us" tvg-name="MTV (US)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10986_dark_360w_270h.png" group-title="USA",MTV (US)
 http://mytv.fun:8080/order12087/zcnfkwm3ct/14342
@@ -588,8 +597,11 @@ http://mytv.fun:8080/order12087/zcnfkwm3ct/673334
 #EXTINF:-1 tvg-id="NicktoonsNetwork.us" tvg-name="NICKTOONS (US)" tvg-logo="https://i.pinimg.com/originals/f2/92/93/f292934949dcdc6e0c7e383e574150cb.png" group-title="USA",NICKTOONS (US)
 http://mytv.fun:8080/order12087/zcnfkwm3ct/673337
 
+#EXTINF:-1 tvg-id="OprahWinfreyNetwork.us" tvg-name="OWN (US)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s70388_dark_360w_270h.png" group-title="USA",OWN (US)
+http://mytv.fun:8080/order12087/zcnfkwm3ct/673337
+
 #EXTINF:-1 tvg-id="History.us" tvg-name="HISTORY (US)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14771_dark_360w_270h.png" group-title="USA",HISTORY (US)
-http://mytv.fun:8080/order12087/zcnfkwm3ct/6244
+http://mytv.fun:8080/order12087/zcnfkwm3ct/4880
 
 #EXTINF:-1 tvg-id="turnerclassicmovies.us" tvg-name="TURNER CLASSIC MOVIES (US)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s12852_dark_360w_270h.png" group-title="USA",TURNER CLASSIC MOVIES (US)
 http://mytv.fun:8080/order12087/zcnfkwm3ct/677203
@@ -700,7 +712,7 @@ http://mytv.fun:8080/order12087/zcnfkwm3ct/671326
 http://mytv.fun:8080/order12087/zcnfkwm3ct/683746
 
 #EXTINF:-1 tvg-id="Fashion4K.uk" tvg-name="FASHION HD (UK)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s113658_dark_360w_270h.png" group-title="Reino Unido",FASHION HD (UK)
-http://95.67.47.115/HLSAD/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
+http://95.67.47.115/HLS/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
 
 #EXTINF:-1 tvg-id="Fashion4K.uk" tvg-name="FASHION TV MIDNITE (UK)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s113658_dark_360w_270h.png" group-title="Reino Unido",FASHION TV MIDNITE (UK)
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
@@ -823,7 +835,7 @@ https://adultswim-vodlive.cdn.turner.com/live/infomercials/stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Last Stream on the Left" tvg-logo="https://i.imgur.com/Gu7x3QD.png" group-title="adultswim.com",Last Stream on the Left
 https://adultswim-vodlive.cdn.turner.com/live/lsotl/stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Live Stream" tvg-logo="https://i.imgur.com/sLEHqIC.png" group-title="adultswim.com",Live Stream
-https://adultswimtv.warnermediacdn.com/HLSAD/live/2007031/livestream/master_Layer7.m3u8
+https://adultswimtv.warnermediacdn.com/HLS/live/2007031/livestream/master_Layer7.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Metalocalypse" tvg-logo="https://i.imgur.com/rYIysEl.png" group-title="adultswim.com",Metalocalypse
 http://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mr. Pickles" tvg-logo="https://i.imgur.com/aShyuut.png" group-title="adultswim.com",Mr. Pickles
