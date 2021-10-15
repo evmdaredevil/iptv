@@ -764,10 +764,10 @@ https://live.admefy.com/live/default/great_salmon_9bd9d.m3u8
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Tokyo Kanto JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1200px-TV_Tokyo_logo_20110629.svg.png" group-title="Japón",TV Tokyo Kanto (JP)
-http://itskoi.dothome.co.kr/jptv.php?id=kanto_tv_tokyo
+http://203.162.235.41:16908
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Tokyo JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1200px-TV_Tokyo_logo_20110629.svg.png" group-title="Japón",TV Tokyo (JP)
-http://itskoi.dothome.co.kr/jpn.php?id=B061
+http://203.162.235.41:16915
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TBS JP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/TBS_TV_6_%282003%29.svg/revision/latest/scale-to-width-down/200?cb=20210222192520" group-title="Japón",TBS (JP)
 http://itskoi.dothome.co.kr/jpn.php?id=B051
@@ -776,7 +776,7 @@ tv
 http://itskoi.dothome.co.kr/jpn.php?id=B071
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animax JP" tvg-logo="https://iconape.com/wp-content/files/px/285466/svg/animax-logo-logo-icon-png-svg.png" group-title="Japón",Animax (JP)
-http://itskoi.dothome.co.kr/jpn.php?id=B141
+https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISNEY CHANNEL JP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Disney_channel_2019.svg/revision/latest/scale-to-width-down/250?cb=20210529193239" group-title="Japón",DISNEY CHANNEL (JP)
 http://itskoi.dothome.co.kr/jpn.php?id=B131
