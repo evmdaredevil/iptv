@@ -333,8 +333,14 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6
 #EXTINF:-1 tvg-id="MTV.mx" tvg-name="MTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s12712_dark_360w_270h.png" group-title="Música",MTV
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=212&format=HLS&f=.m3u8
 
-#EXTINF:-1 tvg-id="MTVClassic.us" tvg-name="MTV CLASSIC (US)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s22561_dark_360w_270h.png" group-title="Música",MTV CLASSIC (US)
+#EXTINF:-1 tvg-id="MTV2.us" tvg-name="MTV2 (US)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16361_dark_360w_270h.png" group-title="Música",MTV2 (US)
 http://mytv.fun:8080/order12087/zcnfkwm3ct/683899
+
+#EXTINF:-1 tvg-id="MTVClassic.us" tvg-name="MTV CLASSIC (US)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s22561_dark_360w_270h.png" group-title="Música",MTV CLASSIC (US)
+http://greenstreamtv.xyz:25461/Tricia/tricia/1296
+
+#EXTINF:-1 tvg-id="MTVClassic.uk" tvg-name="MTV CLASSIC (UK)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s22561_dark_360w_270h.png" group-title="Música",MTV CLASSIC (UK)
+http://45.153.35.204:8000/play/a0d3/index.m3u8
 
 #EXTINF:-1 tvg-id="MTVHits(English).mx" tvg-name="MTV HITS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s67787_dark_360w_270h.png" group-title="Música",MTV HITS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=213&format=HLS&f=.m3u8
@@ -586,8 +592,14 @@ http://mytv.fun:8080/order12087/zcnfkwm3ct/684742
 #EXTINF:-1 tvg-id="mtv.us" tvg-name="MTV (US)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10986_dark_360w_270h.png" group-title="USA",MTV (US)
 http://mytv.fun:8080/order12087/zcnfkwm3ct/14342
 
-#EXTINF:-1 tvg-id="MTVClassic.us" tvg-name="MTV CLASSIC (US)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s22561_dark_360w_270h.png" group-title="USA",MTV CLASSIC (US)
+#EXTINF:-1 tvg-id="MTV2.us" tvg-name="MTV2 (US)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16361_dark_360w_270h.png" group-title="Música",MTV2 (US)
 http://mytv.fun:8080/order12087/zcnfkwm3ct/683899
+
+#EXTINF:-1 tvg-id="MTVClassic.us" tvg-name="MTV CLASSIC (US)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s22561_dark_360w_270h.png" group-title="Música",MTV CLASSIC (US)
+http://greenstreamtv.xyz:25461/Tricia/tricia/1296
+
+#EXTINF:-1 tvg-id="MTVClassic.uk" tvg-name="MTV CLASSIC (UK)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s22561_dark_360w_270h.png" group-title="Música",MTV CLASSIC (UK)
+http://45.153.35.204:8000/play/a0d3/index.m3u8
 
 #EXTINF:-1 tvg-id="nickelodeon.us" tvg-name="NICKELODEON (US)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="USA",NICKELODEON (US)
 http://mytv.fun:8080/order12087/zcnfkwm3ct/673334
