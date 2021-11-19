@@ -865,91 +865,91 @@ https://adultswim-vodlive.cdn.turner.com/live/ypf/stream.m3u8
 
 
 
-#EXTINF:-1 group-title="Kodi LiveTv",FOX (US)
+#EXTINF:-1 tvg-id="Fox61WTIC(src01).us" tvg-name="FOX (US)" tvg-logo="https://media.sanoma.fi/sites/default/files/styles/icon_lg/public/2019-02/FOX.png?itok=Naft82SF" group-title="Kodi LiveTv",FOX (US)
 plugin://plugin.acme.livenet/play/152/play.pvr
 
-#EXTINF:-1 group-title="Kodi LiveTv",FX (US)
+#EXTINF:-1 tvg-id="FX.us" tvg-name="FX (US)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14321_dark_360w_270h.png" group-title="Kodi LiveTv",FX (US)
 plugin://plugin.acme.livenet/play/160/play.pvr
 
-#EXTINF:-1 group-title="Kodi LiveTv",FXX (US)
+#EXTINF:-1 tvg-id="FXX.us" tvg-name="FXX (US)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s17927_dark_360w_270h.png" group-title="Kodi LiveTv",FXX (US)
 plugin://plugin.acme.livenet/play/1082/play.pvr
 
-#EXTINF:-1 group-title="Kodi LiveTv",CARTOON NETWORK (US)
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="CARTOON NETWORK (US)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" group-title="Kodi LiveTv",CARTOON NETWORK (US)
 plugin://plugin.acme.livenet/play/1960/play.pvr
 
-#EXTINF:-1 group-title="Kodi LiveTv",NICKELODEON (US)
+#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="NICKELODEON (US)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="Kodi LiveTv",NICKELODEON (US)
 plugin://plugin.acme.livenet/play/125/play.pvr
 
-#EXTINF:-1 group-title="Kodi LiveTv",NICKTOONS (US)
+#EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="NICKTOONS (US)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s30420_dark_360w_270h.png" group-title="Kodi LiveTv",NICKTOONS (US)
 plugin://plugin.acme.livenet/play/262/play.pvr
 
-#EXTINF:-1 group-title="Kodi LiveTv",BET NETWORK (US)
+#EXTINF:-1 tvg-id="BET.us" tvg-name="BET NETWORK (US)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" group-title="Kodi LiveTv",BET NETWORK (US)
 plugin://plugin.acme.livenet/play/1081/play.pvr
 
-#EXTINF:-1 group-title="Kodi LiveTv",CBS (US)
+#EXTINF:-1 tvg-id="CBS(WFOR)MiamiFL(src01).us" tvg-name="CBS (US)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/CBS_Stacked.svg/revision/latest/scale-to-width-down/250?cb=20191207040631" group-title="Kodi LiveTv",CBS (US)
 plugin://plugin.acme.livenet/play/464/play.pvr
 
-#EXTINF:-1 group-title="Kodi LiveTv",COMEDY CENTRAL (US)
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="COMEDY CENTRAL (US)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" group-title="Kodi LiveTv",COMEDY CENTRAL (US)
 plugin://plugin.acme.livenet/play/267/play.pvr
 
-#EXTINF:-1 group-title="Kodi LiveTv",HALLMARK CHANNEL (US)
+#EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-name="HALLMARK CHANNEL (US)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s66268_dark_360w_270h.png" group-title="Kodi LiveTv",HALLMARK CHANNEL (US)
 plugin://plugin.acme.livenet/play/1083/play.pvr
 
-#EXTINF:-1 group-title="Kodi LiveTv",LIFETIME (US)
+#EXTINF:-1 tvg-id="Lifetime.us" tvg-name="LIFETIME (US)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10918_dark_360w_270h.png" group-title="Kodi LiveTv",LIFETIME (US)
 plugin://plugin.acme.livenet/play/465/play.pvr
 
-#EXTINF:-1 group-title="Kodi LiveTv",MTV (US)
+#EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV (US)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10986_dark_360w_270h.png" group-title="Kodi LiveTv",MTV (US)
 plugin://plugin.acme.livenet/play/1250/play.pvr
 
-#EXTINF:-1 group-title="Kodi LiveTv",NBC (US)
+#EXTINF:-1 tvg-id="CNBC.us" tvg-name="NBC (US)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" group-title="Kodi LiveTv",NBC (US)
 plugin://plugin.acme.livenet/play/158/play.pvr
 
-#EXTINF:-1 group-title="Kodi LiveTv",SHOWTIME (US)
+#EXTINF:-1 tvg-id="Showtime.us" tvg-name="SHOWTIME (US)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11115_dark_360w_270h.png" group-title="Kodi LiveTv",SHOWTIME (US)
 plugin://plugin.acme.livenet/play/1308/play.pvr
 
-#EXTINF:-1 group-title="Kodi LiveTv",SPIKE TV (US)
+#EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="SPIKE TV (US)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11163_dark_360w_270h.png" group-title="Kodi LiveTv",SPIKE TV (US)
 plugin://plugin.acme.livenet/play/469/play.pvr
 
-#EXTINF:-1 group-title="Kodi LiveTv",STAR WORLD (US)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR WORLD (ID)" tvg-logo="https://iconape.com/wp-content/png_logo_vector/star-world.png" group-title="Kodi LiveTv",STAR WORLD (ID)
 plugin://plugin.acme.livenet/play/123/play.pvr
 
-#EXTINF:-1 group-title="Kodi LiveTv",SYFY (US)
+#EXTINF:-1 tvg-id="SYFY.us" tvg-name="SYFY (US)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11097_dark_360w_270h.png" group-title="Kodi LiveTv",SYFY (US)
 plugin://plugin.acme.livenet/play/254/play.pvr
 
-#EXTINF:-1 group-title="Kodi LiveTv",THE CW (US)
+#EXTINF:-1 tvg-id="WDCW.us" tvg-name="THE CW (US)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s51306_dark_360w_270h.png" group-title="Kodi LiveTv",THE CW (US)
 plugin://plugin.acme.livenet/play/468/play.pvr
 
-#EXTINF:-1 group-title="Kodi LiveTv",TNT (US)
+#EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT (US)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="Kodi LiveTv",TNT (US)
 plugin://plugin.acme.livenet/play/255/play.pvr
 
-#EXTINF:-1 group-title="Kodi LiveTv",USA NETWORK (US)
+#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA NETWORK (US)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11207_dark_360w_270h.png" group-title="Kodi LiveTv",USA NETWORK (US)
 plugin://plugin.acme.livenet/play/362/play.pvr
 
-#EXTINF:-1 group-title="Kodi LiveTv",VH1 (US)
+#EXTINF:-1 tvg-id="VH1.us" tvg-name="VH1 (US)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" group-title="Kodi LiveTv",VH1 (US)
 plugin://plugin.acme.livenet/play/394/play.pvr
 
-#EXTINF:-1 group-title="Kodi LiveTv",TELETOON (CA)
+#EXTINF:-1 tvg-id="teleTOONfrancais(French).ca" tvg-name="TELETOON (CA)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s17564_dark_360w_270h.png" group-title="Kodi LiveTv",TELETOON (CA)
 plugin://plugin.acme.livenet/play/2099/play.pvr
 
-#EXTINF:-1 group-title="Kodi LiveTv",SCI-FI (CA)
+#EXTINF:-1 tvg-id="CTVSCIFICHANNEL(English).ca" tvg-name="SCI-FI (CA)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s72484_dark_360w_270h.png" group-title="Kodi LiveTv",SCI-FI (CA)
 plugin://plugin.acme.livenet/play/1933/play.pvr
 
-#EXTINF:-1 group-title="Kodi LiveTv",HORROR MOVIES
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HORROR MOVIES" tvg-logo="https://icons.iconarchive.com/icons/zhoolego/material/512/Movies-icon.png" group-title="Kodi LiveTv",HORROR MOVIES
 plugin://plugin.acme.livenet/play/2171/play.pvr
 
-#EXTINF:-1 group-title="Kodi LiveTv",MONSTER MOVIES
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MONSTER MOVIES" tvg-logo="https://icons.iconarchive.com/icons/zhoolego/material/512/Movies-icon.png" group-title="Kodi LiveTv",MONSTER MOVIES
 plugin://plugin.acme.livenet/play/2167/play.pvr
 
-#EXTINF:-1 group-title="Kodi LiveTv",MUSICAL MOVIES
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSICAL MOVIES" tvg-logo="https://icons.iconarchive.com/icons/zhoolego/material/512/Movies-icon.png" group-title="Kodi LiveTv",MUSICAL MOVIES
 plugin://plugin.acme.livenet/play/2164/play.pvr
 
-#EXTINF:-1 group-title="Kodi LiveTv",SCI-FI MOVIES
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SCI-FI MOVIES" tvg-logo="https://icons.iconarchive.com/icons/zhoolego/material/512/Movies-icon.png" group-title="Kodi LiveTv",SCI-FI MOVIES
 plugin://plugin.acme.livenet/play/2161/play.pvr
 
-#EXTINF:-1 group-title="Kodi LiveTv",RANDOM MOVIES
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RANDOM MOVIES" tvg-logo="https://icons.iconarchive.com/icons/zhoolego/material/512/Movies-icon.png" group-title="Kodi LiveTv",RANDOM MOVIES
 plugin://plugin.acme.livenet/play/2163/play.pvr
 
-#EXTINF:-1 group-title="Kodi LiveTv",STAR WARS MOVIES
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR WARS MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Star_wars_1977_us.svg/1200px-Star_wars_1977_us.svg.png" group-title="Kodi LiveTv",STAR WARS MOVIES
 plugin://plugin.acme.livenet/play/2159/play.pvr
 
 
