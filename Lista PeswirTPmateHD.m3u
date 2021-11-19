@@ -72,50 +72,6 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6
 
 
 
-#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="CARTOON NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s59562_dark_360w_270h.png" group-title="Animación",CARTOON NETWORK
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=112&format=HLS&f=.m3u8
-
-#EXTINF:-1 tvg-id="Tooncast.mx" tvg-name="TOONCAST" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s63109_dark_360w_270h.png" group-title="Animación",TOONCAST
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=108&format=HLS&f=.m3u8
-
-#EXTINF:-1 tvg-id="Boomerang.mx" tvg-name="BOOMERANG" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s26089_dark_360w_270h.png" group-title="Animación",BOOMERANG
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=115&format=HLS&f=.m3u8
-
-#EXTINF:-1 tvg-id="Nick.mx" tvg-name="NICK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16707_dark_360w_270h.png" group-title="Animación",NICK
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=331&format=HLS&f=.m3u8
-
-#EXTINF:-1 tvg-id="TeenNick.mx" tvg-name="TEENNICK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s77783_dark_360w_270h.png" group-title="Animación",TEENNICK
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=2147&format=HLS&f=.m3u8
-
-#EXTINF:-1 tvg-id="Nickmusic.mx" tvg-name="NICKMUSIC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s90209_dark_360w_270h.png" group-title="Animación",NICKMUSIC
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=1708&format=HLS&f=.m3u8
-
-#EXTINF:-1 tvg-id="NickJr.mx" tvg-name="NICK JR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s60295_dark_360w_270h.png" group-title="Animación",NICK JR
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=117&format=HLS&f=.m3u8
-
-#EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-name="DISNEY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19234_dark_360w_270h.png" group-title="Animación",DISNEY CHANNEL
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=113&format=HLS&f=.m3u8
-
-#EXTINF:-1 tvg-id="DisneyXD.mx" tvg-name="DISNEY XD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s54930_dark_360w_270h.png" group-title="Animación",DISNEY XD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=111&format=HLS&f=.m3u8
-
-#EXTINF:-1 tvg-id="DisneyJunior.mx" tvg-name="DISNEY JR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s60506_dark_360w_270h.png" group-title="Animación",DISNEY JR
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=118&format=HLS&f=.m3u8
-
-#EXTINF:-1 tvg-id="DiscoveryKids.mx" tvg-name="DISCOVERY KIDS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16680_dark_360w_270h.png" group-title="Animación",DISCOVERY KIDS
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=109&format=HLS&f=.m3u8
-
-#EXTINF:-1 tvg-id="NatGeoKids.mx" tvg-name="NAT GEO KIDS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s104524_dark_360w_270h.png" group-title="Animación",NAT GEO KIDS
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=2373&format=HLS&f=.m3u8
-
-#EXTINF:-1 tvg-id="BabyTv.mx" tvg-name="BABY FIRST" tvg-logo="https://seeklogo.com/images/B/babyfirst-tv-logo-B87A17BB2F-seeklogo.com.png" group-title="Animación",BABY FIRST
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=1984&format=HLS&f=.m3u8
-
-#EXTINF:-1 tvg-id="BabyTv.mx" tvg-name="BABY TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s56036_dark_360w_270h.png" group-title="Animación",BABY TV
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=116&format=HLS&f=.m3u8
-
-
-
 #EXTINF:-1 tvg-id="DePelicula.mx" tvg-name="DE PELICULA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16288_dark_360w_270h.png" group-title="Cine",DE PELICULA
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=335&format=HLS&f=.m3u8
 
@@ -414,6 +370,48 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
 
+
+#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="CARTOON NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s59562_dark_360w_270h.png" group-title="Animación",CARTOON NETWORK
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=112&format=HLS&f=.m3u8
+
+#EXTINF:-1 tvg-id="Tooncast.mx" tvg-name="TOONCAST" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s63109_dark_360w_270h.png" group-title="Animación",TOONCAST
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=108&format=HLS&f=.m3u8
+
+#EXTINF:-1 tvg-id="Boomerang.mx" tvg-name="BOOMERANG" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s26089_dark_360w_270h.png" group-title="Animación",BOOMERANG
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=115&format=HLS&f=.m3u8
+
+#EXTINF:-1 tvg-id="Nick.mx" tvg-name="NICK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16707_dark_360w_270h.png" group-title="Animación",NICK
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=331&format=HLS&f=.m3u8
+
+#EXTINF:-1 tvg-id="TeenNick.mx" tvg-name="TEENNICK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s77783_dark_360w_270h.png" group-title="Animación",TEENNICK
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=2147&format=HLS&f=.m3u8
+
+#EXTINF:-1 tvg-id="Nickmusic.mx" tvg-name="NICKMUSIC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s90209_dark_360w_270h.png" group-title="Animación",NICKMUSIC
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=1708&format=HLS&f=.m3u8
+
+#EXTINF:-1 tvg-id="NickJr.mx" tvg-name="NICK JR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s60295_dark_360w_270h.png" group-title="Animación",NICK JR
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=117&format=HLS&f=.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-name="DISNEY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19234_dark_360w_270h.png" group-title="Animación",DISNEY CHANNEL
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=113&format=HLS&f=.m3u8
+
+#EXTINF:-1 tvg-id="DisneyXD.mx" tvg-name="DISNEY XD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s54930_dark_360w_270h.png" group-title="Animación",DISNEY XD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=111&format=HLS&f=.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJunior.mx" tvg-name="DISNEY JR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s60506_dark_360w_270h.png" group-title="Animación",DISNEY JR
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=118&format=HLS&f=.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryKids.mx" tvg-name="DISCOVERY KIDS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16680_dark_360w_270h.png" group-title="Animación",DISCOVERY KIDS
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=109&format=HLS&f=.m3u8
+
+#EXTINF:-1 tvg-id="NatGeoKids.mx" tvg-name="NAT GEO KIDS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s104524_dark_360w_270h.png" group-title="Animación",NAT GEO KIDS
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=2373&format=HLS&f=.m3u8
+
+#EXTINF:-1 tvg-id="BabyTv.mx" tvg-name="BABY FIRST" tvg-logo="https://seeklogo.com/images/B/babyfirst-tv-logo-B87A17BB2F-seeklogo.com.png" group-title="Animación",BABY FIRST
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=1984&format=HLS&f=.m3u8
+
+#EXTINF:-1 tvg-id="BabyTv.mx" tvg-name="BABY TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s56036_dark_360w_270h.png" group-title="Animación",BABY TV
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=116&format=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="Deportes",TUDN
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=cer8ly6w8442n22&lchId=174&format=HLS&f=.m3u8
@@ -864,6 +862,95 @@ http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8
 http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Your Pretty Face Is Going to Hell" tvg-logo="https://i.imgur.com/v9HBW7B.jpg" group-title="adultswim.com",Your Pretty Face Is Going to Hell
 https://adultswim-vodlive.cdn.turner.com/live/ypf/stream.m3u8
+
+
+
+#EXTINF:-1 group-title="Kodi LiveTv",FOX (US)
+plugin://plugin.acme.livenet/play/152/play.pvr
+
+#EXTINF:-1 group-title="Kodi LiveTv",FX (US)
+plugin://plugin.acme.livenet/play/160/play.pvr
+
+#EXTINF:-1 group-title="Kodi LiveTv",FXX (US)
+plugin://plugin.acme.livenet/play/1082/play.pvr
+
+#EXTINF:-1 group-title="Kodi LiveTv",CARTOON NETWORK (US)
+plugin://plugin.acme.livenet/play/1960/play.pvr
+
+#EXTINF:-1 group-title="Kodi LiveTv",NICKELODEON (US)
+plugin://plugin.acme.livenet/play/125/play.pvr
+
+#EXTINF:-1 group-title="Kodi LiveTv",NICKTOONS (US)
+plugin://plugin.acme.livenet/play/262/play.pvr
+
+#EXTINF:-1 group-title="Kodi LiveTv",BET NETWORK (US)
+plugin://plugin.acme.livenet/play/1081/play.pvr
+
+#EXTINF:-1 group-title="Kodi LiveTv",CBS (US)
+plugin://plugin.acme.livenet/play/464/play.pvr
+
+#EXTINF:-1 group-title="Kodi LiveTv",COMEDY CENTRAL (US)
+plugin://plugin.acme.livenet/play/267/play.pvr
+
+#EXTINF:-1 group-title="Kodi LiveTv",HALLMARK CHANNEL (US)
+plugin://plugin.acme.livenet/play/1083/play.pvr
+
+#EXTINF:-1 group-title="Kodi LiveTv",LIFETIME (US)
+plugin://plugin.acme.livenet/play/465/play.pvr
+
+#EXTINF:-1 group-title="Kodi LiveTv",MTV (US)
+plugin://plugin.acme.livenet/play/1250/play.pvr
+
+#EXTINF:-1 group-title="Kodi LiveTv",NBC (US)
+plugin://plugin.acme.livenet/play/158/play.pvr
+
+#EXTINF:-1 group-title="Kodi LiveTv",SHOWTIME (US)
+plugin://plugin.acme.livenet/play/1308/play.pvr
+
+#EXTINF:-1 group-title="Kodi LiveTv",SPIKE TV (US)
+plugin://plugin.acme.livenet/play/469/play.pvr
+
+#EXTINF:-1 group-title="Kodi LiveTv",STAR WORLD (US)
+plugin://plugin.acme.livenet/play/123/play.pvr
+
+#EXTINF:-1 group-title="Kodi LiveTv",SYFY (US)
+plugin://plugin.acme.livenet/play/254/play.pvr
+
+#EXTINF:-1 group-title="Kodi LiveTv",THE CW (US)
+plugin://plugin.acme.livenet/play/468/play.pvr
+
+#EXTINF:-1 group-title="Kodi LiveTv",TNT (US)
+plugin://plugin.acme.livenet/play/255/play.pvr
+
+#EXTINF:-1 group-title="Kodi LiveTv",USA NETWORK (US)
+plugin://plugin.acme.livenet/play/362/play.pvr
+
+#EXTINF:-1 group-title="Kodi LiveTv",VH1 (US)
+plugin://plugin.acme.livenet/play/394/play.pvr
+
+#EXTINF:-1 group-title="Kodi LiveTv",TELETOON (CA)
+plugin://plugin.acme.livenet/play/2099/play.pvr
+
+#EXTINF:-1 group-title="Kodi LiveTv",SCI-FI (CA)
+plugin://plugin.acme.livenet/play/1933/play.pvr
+
+#EXTINF:-1 group-title="Kodi LiveTv",HORROR MOVIES
+plugin://plugin.acme.livenet/play/2171/play.pvr
+
+#EXTINF:-1 group-title="Kodi LiveTv",MONSTER MOVIES
+plugin://plugin.acme.livenet/play/2167/play.pvr
+
+#EXTINF:-1 group-title="Kodi LiveTv",MUSICAL MOVIES
+plugin://plugin.acme.livenet/play/2164/play.pvr
+
+#EXTINF:-1 group-title="Kodi LiveTv",SCI-FI MOVIES
+plugin://plugin.acme.livenet/play/2161/play.pvr
+
+#EXTINF:-1 group-title="Kodi LiveTv",RANDOM MOVIES
+plugin://plugin.acme.livenet/play/2163/play.pvr
+
+#EXTINF:-1 group-title="Kodi LiveTv",STAR WARS MOVIES
+plugin://plugin.acme.livenet/play/2159/play.pvr
 
 
 
