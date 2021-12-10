@@ -880,6 +880,9 @@ https://adultswim-vodlive.cdn.turner.com/live/ypf/stream.m3u8
 #EXTINF:-1 tvg-id="Fox61WTIC(src01).us" tvg-name="FOX (US)" tvg-logo="https://media.sanoma.fi/sites/default/files/styles/icon_lg/public/2019-02/FOX.png?itok=Naft82SF" group-title="Kodi LiveTv",FOX (US)
 plugin://plugin.acme.livenet/play/152/play.pvr
 
+#EXTINF:-1 tvg-id="Fox61WTIC(src01).us" tvg-name="FOX (US)" tvg-logo="https://media.sanoma.fi/sites/default/files/styles/icon_lg/public/2019-02/FOX.png?itok=Naft82SF" group-title="Kodi LiveTv",FOX (US)2
+https://tinyurl.com/kdfox
+
 #EXTINF:-1 tvg-id="FX.us" tvg-name="FX (US)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14321_dark_360w_270h.png" group-title="Kodi LiveTv",FX (US)
 plugin://plugin.acme.livenet/play/160/play.pvr
 
