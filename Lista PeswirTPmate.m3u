@@ -423,6 +423,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=174&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s86779_dark_360w_270h.png" group-title="Deportes",Claro Sports
+https://claro-jw.cdn.vustreams.com/live/channel05/live.isml/master.m3u8
+
+#EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s86779_dark_360w_270h.png" group-title="Deportes",Claro Sports (TP)
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2564&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-id="AyMSports.mx" tvg-name="AYM SPORTS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s34863_dark_360w_270h.png" group-title="Deportes",AYM SPORTS
