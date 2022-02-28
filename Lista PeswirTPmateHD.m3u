@@ -551,10 +551,10 @@ http://greenstreamtv.xyz:25461/Tricia/tricia/169
 #EXTINF:-1 tvg-id="mtv.us" tvg-name="MTV (US)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10986_dark_360w_270h.png" group-title="USA",MTV (US)
 http://greenstreamtv.xyz:25461/Tricia/tricia/139
 
-#EXTINF:-1 tvg-id="MTV2.us" tvg-name="MTV2 (US)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16361_dark_360w_270h.png" group-title="Música",MTV2 (US)
+#EXTINF:-1 tvg-id="MTV2.us" tvg-name="MTV2 (US)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16361_dark_360w_270h.png" group-title="USA",MTV2 (US)
 http://greenstreamtv.xyz:25461/Tricia/tricia/65
 
-#EXTINF:-1 tvg-id="MTVClassic.us" tvg-name="MTV CLASSIC (US)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s22561_dark_360w_270h.png" group-title="Música",MTV CLASSIC (US)
+#EXTINF:-1 tvg-id="MTVClassic.us" tvg-name="MTV CLASSIC (US)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s22561_dark_360w_270h.png" group-title="USA",MTV CLASSIC (US)
 http://greenstreamtv.xyz:25461/Tricia/tricia/1296
 
 #EXTINF:-1 tvg-id="nickelodeon.us" tvg-name="NICKELODEON (US)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="USA",NICKELODEON (US)
