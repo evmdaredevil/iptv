@@ -108,6 +108,129 @@ https://593b04c4c5670.streamlock.net/8002/8002/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RetroPlus Series" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/655f7192ce580c733dda2fd1fc4f202b.webp" group-title="Latinoamérica",RetroPlus Series
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANTENA 7- RD" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0p2.png" group-title="Latinoamérica",ANTENA 7- RD
+http://190.92.95.37:8000/play/a0p2/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 10 - ESA" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0o0.png" group-title="Latinoamérica",CANAL 10 - ESA
+http://190.92.95.37:8000/play/a0o0/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 10 HD - ESA" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0o8.png" group-title="Latinoamérica",CANAL 10 HD - ESA
+http://190.92.95.37:8000/play/a0o8/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 11 - GUA" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0qj.png" group-title="Latinoamérica",CANAL 11 - GUA
+http://190.92.95.37:8000/play/a0qj/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 11 REPRETEL" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0r0.png" group-title="Latinoamérica",CANAL 11 REPRETEL
+http://190.92.95.37:8000/play/a0r0/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 12 - ESA" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0ql.png" group-title="Latinoamérica",CANAL 12 - ESA
+http://190.92.95.37:8000/play/a0ql/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 13 - NI" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0qt.png" group-title="Latinoamérica",CANAL 13 - NI
+http://190.92.95.37:8000/play/a0qt/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 13 - PAN" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0p5.png" group-title="Latinoamérica",CANAL 13 - PAN
+http://190.92.95.37:8000/play/a0p5/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 13 SINART" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0oh.png" group-title="Latinoamérica",CANAL 13 SINART
+http://190.92.95.37:8000/play/a0oh/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 13-GUA" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0qi.png" group-title="Latinoamérica",CANAL 13-GUA
+http://190.92.95.37:8000/play/a0qi/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 14 - NIC" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0qo.png" group-title="Latinoamérica",CANAL 14 - NIC
+http://190.92.95.37:8000/play/a0qo/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 19  ESA" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0r2.png" group-title="Latinoamérica",CANAL 19  ESA
+http://190.92.95.37:8000/play/a0r2/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 2 - ESA" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0ru.png" group-title="Latinoamérica",CANAL 2 - ESA
+http://190.92.95.37:8000/play/a0ru/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 2 - NIC" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0rx.png" group-title="Latinoamérica",CANAL 2 - NIC
+http://190.92.95.37:8000/play/a0rx/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 2 - PAN" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0p6.png" group-title="Latinoamérica",CANAL 2 - PAN
+http://190.92.95.37:8000/play/a0p6/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 3 - GUA" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0rs.png" group-title="Latinoamérica",CANAL 3 - GUA
+http://190.92.95.37:8000/play/a0rs/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 4 - ESA" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0rt.png" group-title="Latinoamérica",CANAL 4 - ESA
+http://190.92.95.37:8000/play/a0rt/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 4 - REPRETEL" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0s2.png" group-title="Latinoamérica",CANAL 4 - REPRETEL
+http://190.92.95.37:8000/play/a0s2/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 6 - ESA" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0qk.png" group-title="Latinoamérica",CANAL 6 - ESA
+http://190.92.95.37:8000/play/a0qk/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 6 - NI" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0qs.png" group-title="Latinoamérica",CANAL 6 - NI
+http://190.92.95.37:8000/play/a0qs/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 6 REPRETEL" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0qy.png" group-title="Latinoamérica",CANAL 6 REPRETEL
+http://190.92.95.37:8000/play/a0qy/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 7 - GUA" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0rr.png" group-title="Latinoamérica",CANAL 7 - GUA
+http://190.92.95.37:8000/play/a0rr/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 7 TELETICA" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0qz.png" group-title="Latinoamérica",CANAL 7 TELETICA
+http://190.92.95.37:8000/play/a0qz/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL ANTIGUA - GUA" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0rp.png" group-title="Latinoamérica",CANAL ANTIGUA - GUA
+http://190.92.95.37:8000/play/a0rp/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL AZTECA - GUA" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0rq.png" group-title="Latinoamérica",CANAL AZTECA - GUA
+http://190.92.95.37:8000/play/a0rq/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CDN2- RD" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0qq.png" group-title="Latinoamérica",CDN2- RD
+http://190.92.95.37:8000/play/a0qq/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CDN37 - RD" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0s1.png" group-title="Latinoamérica",CDN37 - RD
+http://190.92.95.37:8000/play/a0s1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COLOR VISION 9 - RD" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0s0.png" group-title="Latinoamérica",COLOR VISION 9 - RD
+http://190.92.95.37:8000/play/a0s0/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DHE" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0ok.png" group-title="Latinoamérica",DHE
+http://190.92.95.37:8000/play/a0ok/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DHE HD" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0qd.png" group-title="Latinoamérica",DHE HD
+http://190.92.95.37:8000/play/a0qd/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DIGITAL 15 - RD" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0qp.png" group-title="Latinoamérica",DIGITAL 15 - RD
+http://190.92.95.37:8000/play/a0qp/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EWTN" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0pw.png" group-title="Latinoamérica",EWTN
+http://190.92.95.37:8000/play/a0pw/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EXTRA TV 42" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0oi.png" group-title="Latinoamérica",EXTRA TV 42
+http://190.92.95.37:8000/play/a0oi/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FUTV HD CR" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0t3.png" group-title="Latinoamérica",FUTV HD CR
+http://190.92.95.37:8000/play/a0t3/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GUATEVISION - GUA" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0oz.png" group-title="Latinoamérica",GUATEVISION - GUA
+http://190.92.95.37:8000/play/a0oz/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MASTV - PAN" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0qx.png" group-title="Latinoamérica",MASTV - PAN
+http://190.92.95.37:8000/play/a0qx/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NEXT - PAN" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0qw.png" group-title="Latinoamérica",NEXT - PAN
+http://190.92.95.37:8000/play/a0qw/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PASIONES HD" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0td.png" group-title="Latinoamérica",PASIONES HD
+http://190.92.95.37:8000/play/a0td/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PXTV" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0o4.png" group-title="Latinoamérica",PXTV
+http://190.92.95.37:8000/play/a0o4/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RCN - GUA" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0nq.png" group-title="Latinoamérica",RCN - GUA
+http://190.92.95.37:8000/play/a0nq/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RCN NOVELAS" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0r5.png" group-title="Latinoamérica",RCN NOVELAS
+http://190.92.95.37:8000/play/a0r5/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SEMBRADOR" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0rm.png" group-title="Latinoamérica",SEMBRADOR
+http://190.92.95.37:8000/play/a0rm/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SEMILLITAS" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0pd.png" group-title="Latinoamérica",SEMILLITAS
+http://190.92.95.37:8000/play/a0pd/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SERTV - PAN" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0nn.png" group-title="Latinoamérica",SERTV - PAN
+http://190.92.95.37:8000/play/a0nn/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUN CHANNEL" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0r9.png" group-title="Latinoamérica",SUN CHANNEL
+http://190.92.95.37:8000/play/a0r9/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TBN ENLACE" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0pv.png" group-title="Latinoamérica",TBN ENLACE
+http://190.92.95.37:8000/play/a0pv/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TD+2 HD CR" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0oa.png" group-title="Latinoamérica",TD+2 HD CR
+http://190.92.95.37:8000/play/a0oa/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TD+HD CR" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0o9.png" group-title="Latinoamérica",TD+HD CR
+http://190.92.95.37:8000/play/a0o9/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELE ANTILLAS - RD" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0p1.png" group-title="Latinoamérica",TELE ANTILLAS - RD
+http://190.92.95.37:8000/play/a0p1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELECENTRO - RD" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0qu.png" group-title="Latinoamérica",TELECENTRO - RD
+http://190.92.95.37:8000/play/a0qu/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEMICRO - RD" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0rz.png" group-title="Latinoamérica",TELEMICRO - RD
+http://190.92.95.37:8000/play/a0rz/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELESISTEMA RD" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0p3.png" group-title="Latinoamérica",TELESISTEMA RD
+http://190.92.95.37:8000/play/a0p3/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEUNIVERSO - RD" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0qr.png" group-title="Latinoamérica",TELEUNIVERSO - RD
+http://190.92.95.37:8000/play/a0qr/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEVIDA RD" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0of.png" group-title="Latinoamérica",TELEVIDA RD
+http://190.92.95.37:8000/play/a0of/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TIGO SPORTS HD" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0sn.png" group-title="Latinoamérica",TIGO SPORTS HD
+http://190.92.95.37:8000/play/a0sn/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV ORIENTE ESA" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0no.png" group-title="Latinoamérica",TV ORIENTE ESA
+http://190.92.95.37:8000/play/a0no/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVCHILE" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0nw.png" group-title="Latinoamérica",TVCHILE
+http://190.92.95.37:8000/play/a0nw/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVE" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0o6.png" group-title="Latinoamérica",TVE
+http://190.92.95.37:8000/play/a0o6/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVM25 -  ESA" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0nr.png" group-title="Latinoamérica",TVM25 -  ESA
+http://190.92.95.37:8000/play/a0nr/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VTV CANAL 35 ESA" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0r1.png" group-title="Latinoamérica",VTV CANAL 35 ESA
+http://190.92.95.37:8000/play/a0r1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZOOMOO" tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0nt.png" group-title="Latinoamérica",ZOOMOO
+http://190.92.95.37:8000/play/a0nt/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="DePelicula.mx" tvg-name="DE PELICULA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16288_dark_360w_270h.png" group-title="Cine",DE PELICULA
