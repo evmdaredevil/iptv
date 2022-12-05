@@ -1,71 +1,71 @@
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL TOTALPLAY" tvg-logo="https://cdn.fing.io/images/isp/MX/logo/totalplay_logo.png" group-title="TV Abierta",CANAL TOTALPLAY
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1973/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=1973&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="IMAGEN TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s101096_dark_360w_270h.png" group-title="TV Abierta",IMAGEN TV
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2298/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=2298&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" tvg-name="AZTECA UNO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116153_dark_360w_270h.png" group-title="TV Abierta",AZTECA UNO
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL7/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=7&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="AZTECA 7" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116154_dark_360w_270h.png" group-title="TV Abierta",AZTECA 7
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL317/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=317&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="Clic.mx" tvg-name="AZ CLIC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s92197_dark_360w_270h.png" group-title="TV Abierta",AZ CLIC
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL11/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=11&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="Corazon.mx" tvg-name="AZ CORAZON" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s61404_dark_360w_270h.png" group-title="TV Abierta",AZ CORAZON
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL70/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=70&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="Mundo.mx" tvg-name="AZ MUNDO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s79968_dark_360w_270h.png" group-title="TV Abierta",AZ MUNDO
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL84/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=84&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="LAS ESTRELLAS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116151_dark_360w_270h.png" group-title="TV Abierta",LAS ESTRELLAS
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2362/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=2362&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="XHPTDT.mx" tvg-name="TELEVISA PUEBLA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28440_dark_360w_270h.png" group-title="TV Abierta",TELEVISA PUEBLA
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2312/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=2312&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="XHCTRMTDT4.mx" tvg-name="CANAL 4" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s101096_dark_360w_270h.png" group-title="TV Abierta",CANAL 4
 http://162.241.190.126:1935/live/canal4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="CANAL 5" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116152_dark_360w_270h.png" group-title="TV Abierta",CANAL 5
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2218/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=2218&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="XHCNLTDT.mx" tvg-name="CANAL 8 (Televisa Monterrey)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s26130_dark_360w_270h.png" group-title="TV Abierta",CANAL 8 (Televisa Monterrey)
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2307/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=2307&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="Nu9ve.mx" tvg-name="NU9VE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s59528_dark_360w_270h.png" group-title="TV Abierta",NU9VE
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL24/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=24&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="Once.mx" tvg-name="ONCE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116166_dark_360w_270h.png" group-title="TV Abierta",ONCE
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL25/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=25&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="tvunam.mx" tvg-name="TV UNAM" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116169_dark_360w_270h.png" group-title="TV Abierta",TV UNAM
 https://5e50264bd6766.streamlock.net/tvunam/videotvunam/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVMexiquense.mx" tvg-name="MEXIQUENSE TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s28440_dark_360w_270h.png" group-title="TV Abierta",MEXIQUENSE TV
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL44/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=44&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="Teleformula.mx" tvg-name="TELEFORMULA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s34344_dark_360w_270h.png" group-title="TV Abierta",TELEFORMULA
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL32/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=32&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="MULTIMEDIOSTV.mx" tvg-name="MULTIMEDIOS MTY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s91505_dark_360w_270h.png" group-title="TV Abierta",MULTIMEDIOS MTY
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2305/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=2305&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="MULTIMEDIOSTV.mx" tvg-name="MULTIMEDIOS CDMX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s91505_dark_360w_270h.png" group-title="TV Abierta",MULTIMEDIOS CDMX
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1253/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=1253&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="APRENDETV.mx" tvg-name="APRENDE TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s45710_dark_360w_270h.png" group-title="TV Abierta",APRENDE TV
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL401/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=401&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="TVCTelevisionporCable.mx" tvg-name="TVC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16292_dark_360w_270h.png" group-title="TV Abierta",TVC
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2156/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=2156&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="AMAS.mx" tvg-name="A+" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116157_dark_360w_270h.png" group-title="TV Abierta",A+
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2348/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=2348&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="CongresoNacionalTV.mx" tvg-name="CANAL DEL CONGRESO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s20548_dark_360w_270h.png" group-title="TV Abierta",CANAL DEL CONGRESO
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2331/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=2331&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="Canal14.mx" tvg-name="CANAL 14" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s90518_dark_360w_270h.png" group-title="TV Abierta",CANAL 14
 https://60ed5b6d0df78.streamlock.net:1936/segundo/segundo/playlist.m3u8?
@@ -111,202 +111,202 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussen
 
 
 #EXTINF:-1 tvg-id="DePelicula.mx" tvg-name="DE PELICULA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16288_dark_360w_270h.png" group-title="Cine",DE PELICULA
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL335/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=335&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="DePeliculaPlus.mx" tvg-name="DE PELICULA +" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s74016_dark_360w_270h.png" group-title="Cine",DE PELICULA +
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL121/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=121&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="Cinema.mx" tvg-name="AZTECA CINEMA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s95687_dark_360w_270h.png" group-title="Cine",AZTECA CINEMA
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1787/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=1787&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="FX.mx" tvg-name="FX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s46442_dark_360w_270h.png" group-title="Cine",FX
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL60/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=60&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="ParamountNetwork.mx" tvg-name="PARAMOUNT CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s106214_dark_360w_270h.png" group-title="Cine",PARAMOUNT CHANNEL
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1726/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=1726&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="CINEMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16794_dark_360w_270h.png" group-title="Cine",CINEMAX
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL158/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=158&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="CINECANAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s105609_dark_360w_270h.png" group-title="Cine",CINECANAL
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL149/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=149&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="Golden.mx" tvg-name="GOLDEN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s50709_dark_360w_270h.png" group-title="Cine",GOLDEN
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL123/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=123&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="GOLDENPLUS.mx" tvg-name="GOLDEN +" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s68317_dark_360w_270h.png" group-title="Cine",GOLDEN +
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL122/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=122&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="GOLDEN EDGE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16423_dark_360w_270h.png" group-title="Cine",GOLDEN EDGE
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL124/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=124&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="TCM.mx" tvg-name="TCM" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19246_dark_360w_270h.png" group-title="Cine",TCM
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL128/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=128&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s71727_dark_360w_270h.png" group-title="Cine",TNT
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL126/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=126&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="STUDIO UNIVERSAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s29017_dark_360w_270h.png" group-title="Cine",STUDIO UNIVERSAL
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL132/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=132&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="AMC.mx" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="Cine",AMC
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL328/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=328&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="TBS.mx" tvg-name="TBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s75073_dark_360w_270h.png" group-title="Cine",TBS
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL81/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=81&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="Space.mx" tvg-name="SPACE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s68021_dark_360w_270h.png" group-title="Cine",SPACE
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL129/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=129&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="FilmandArts.mx" tvg-name="FILMS & ARTS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s87687_dark_360w_270h.png" group-title="Cine",FILMS & ARTS
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL137/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=137&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="Eurochannel.mx" tvg-name="EUROPA CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16574_dark_360w_270h.png" group-title="Cine",EUROPA CHANNEL
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL136/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=136&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="ISAT.mx" tvg-name="I-SAT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16497_dark_360w_270h.png" group-title="Cine",I-SAT
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL135/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=135&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="MorbidoTV.mx" tvg-name="MORBIDO TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s107890_dark_360w_270h.png" group-title="Cine",MORBIDO TV
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL140/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=140&f=HLS&f=.m3u8
 
 
 
 #EXTINF:-1 tvg-id="StarChannel.mx" tvg-name="STAR CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s75423_dark_360w_270h.png" group-title="Entretenimiento",STAR CHANNEL
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL46/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=46&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="DISCOVERY H&H" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s97571_dark_360w_270h.png" group-title="Entretenimiento",DISCOVERY H&H
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL96/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=96&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="CanalSony.mx" tvg-name="SONY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19385_dark_360w_270h.png" group-title="Entretenimiento",SONY
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL48/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=48&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="WARNER" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16213_dark_360w_270h.png" group-title="Entretenimiento",WARNER
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=205&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="UniversalTV.mx" tvg-name="UNIVERSAL CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s53218_dark_360w_270h.png" group-title="Entretenimiento",UNIVERSAL CHANNEL
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL57/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=57&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="TNT SERIES" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s91993_dark_360w_270h.png" group-title="Entretenimiento",TNT SERIES
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL71/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=71&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="TelemundoInternacional.mx" tvg-name="TELEMUNDO INTERNACIONAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s102862_dark_360w_270h.png" group-title="Entretenimiento",TELEMUNDO INTERNACIONAL
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL85/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=85&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="Unicable.mx" tvg-name="UNICABLE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16521_dark_360w_270h.png" group-title="Entretenimiento",UNICABLE
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1499/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=1499&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="DISTRITO COMEDIA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s55980_dark_360w_270h.png" group-title="Entretenimiento",DISTRITO COMEDIA
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL78/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=78&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="TLNovelas.mx" tvg-name="TL NOVELAS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s37232_dark_360w_270h.png" group-title="Entretenimiento",TL NOVELAS
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL83/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=83&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="AandE.mx" tvg-name="A&E" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10035_dark_360w_270h.png" group-title="Entretenimiento",A&E
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL62/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=62&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="COMEDY CENTRAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s76326_dark_360w_270h.png" group-title="Entretenimiento",COMEDY CENTRAL
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL340/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=340&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="EEntertainmentTV.mx" tvg-name="E!" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s30259_dark_360w_270h.png" group-title="Entretenimiento",E!
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL55/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=55&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="HOLATV.mx" tvg-name="¡HOLA! TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s82970_dark_360w_270h.png" group-title="Entretenimiento",¡HOLA! TV
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL219/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=219&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="Glitz.mx" tvg-name="GLITZ" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s61514_dark_360w_270h.png" group-title="Entretenimiento",GLITZ
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL76/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=76&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="FoodNetwork.mx" tvg-name="FoodNetwork" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s91919_dark_360w_270h.png" group-title="Entretenimiento",FoodNetwork
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2145/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=2145&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="Lifetime.mx" tvg-name="LIFETIME" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s89197_dark_360w_270h.png" group-title="Entretenimiento",LIFETIME
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL94/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=94&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="MasChic.mx" tvg-name="MAS CHIC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s17457_dark_360w_270h.png" group-title="Entretenimiento",MAS CHIC
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1842/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=1842&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="TruTV.mx" tvg-name="TRUTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16496_dark_360w_270h.png" group-title="Entretenimiento",TRUTV
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL215/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=215&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="SYFY.mx" tvg-name="SYFY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s56727_dark_360w_270h.png" group-title="Entretenimiento",SYFY
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL59/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=59&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="Antena3.mx" tvg-name="ANTENA 3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s90309_dark_360w_270h.png" group-title="Entretenimiento",ANTENA 3
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL199/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=199&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="Antena3Internacional.mx" tvg-name="A3 SERIES" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16800_dark_360w_270h.png" group-title="Entretenimiento",A3 SERIES
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2113/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=2113&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="StarTVE.mx" tvg-name="STAR TVE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s106724_dark_360w_270h.png" group-title="Entretenimiento",STAR TVE
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2375/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=2375&f=HLS&f=.m3u8
 
 
 
 #EXTINF:-1 tvg-id="ElGourmet.mx" tvg-name="EL GOURMET" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s25553_dark_360w_270h.png" group-title="Cultura",EL GOURMET
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL74/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=74&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="Cultura",DISCOVERY CHANNEL
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL86/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=86&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryScience.mx" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s48527_dark_360w_270h.png" group-title="Cultura",DISCOVERY SCIENCE
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL98/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=98&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="InvestigationDiscovery(English).mx" tvg-name="DISCOVERY ID" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s65342_dark_360w_270h.png" group-title="Cultura",DISCOVERY ID
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2376/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=2376&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="DISCOVERY THEATER" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s65940_dark_360w_270h.png" group-title="Cultura",DISCOVERY THEATER
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL95/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=95&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryTurbo.mx" tvg-name="DISCOVERY TURBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s46608_dark_360w_270h.png" group-title="Cultura",DISCOVERY TURBO
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2379/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=2379&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="DISCOVERY WORLD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s66488_dark_360w_270h.png" group-title="Cultura",DISCOVERY WORLD
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL101/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=101&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="NAT GEO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="Cultura",NAT GEO
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL91/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=91&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="History.mx" tvg-name="HISTORY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s40137_dark_360w_270h.png" group-title="Cultura",HISTORY
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL89/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=89&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="ANIMAL PLANET" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18649_dark_360w_270h.png" group-title="Cultura",ANIMAL PLANET
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2378/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=2378&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="TLC.mx" tvg-name="TLC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s73822_dark_360w_270h.png" group-title="Cultura",TLC
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2380/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=2380&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="ElGarage.mx" tvg-name="GARAGE TV" tvg-logo="https://i.ibb.co/YLzBnMs/Garage-TV.png" group-title="Cultura",GARAGE TV
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL75/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=75&f=HLS&f=.m3u8
 
 
 
 #EXTINF:-1 tvg-id="MTV.mx" tvg-name="MTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s12712_dark_360w_270h.png" group-title="Música",MTV
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL212/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=212&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="MTVHits(English).mx" tvg-name="MTV HITS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s24214_dark_360w_270h.png" group-title="Música",MTV HITS
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL213/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=213&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="MTVLive(English).mx" tvg-name="MTV LIVE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s66419_dark_360w_270h.png" group-title="Música",MTV LIVE
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL211/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=211&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="MTV00s.mx" tvg-name="MTV 00's" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s56245_dark_360w_270h.png" group-title="Música",MTV 00's
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL334/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=334&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="MTV80s.mx" tvg-name="MTV 80's" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s65060_dark_360w_270h.png" group-title="Música",MTV 80's
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL214/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=214&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="TelehitMusica.mx" tvg-name="TELEHIT MÚSICA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s34394_dark_360w_270h.png" group-title="Música",TELEHIT MÚSICA
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL218/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=218&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="TelehitMusicaPlus.mx" tvg-name="TELEHIT +" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s73070_dark_360w_270h.png" group-title="Música",TELEHIT +
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL220/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=220&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="MusicChoiceKPop.us" tvg-name="KPop (US)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s66345_dark_360w_270h.png" group-title="Música",KPop (US)
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Bandamax.mx" tvg-name="BANDAMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18101_dark_360w_270h.png" group-title="Música",BANDAMAX
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL221/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=221&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="Teleritmo.mx" tvg-name="TELERITMO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s32749_dark_360w_270h.png" group-title="Música",TELERITMO
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
@@ -314,110 +314,110 @@ https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
 
 #EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="CARTOON NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s59562_dark_360w_270h.png" group-title="Animación",CARTOON NETWORK
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL112/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=112&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="Tooncast.mx" tvg-name="TOONCAST" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s63109_dark_360w_270h.png" group-title="Animación",TOONCAST
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL108/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=108&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="Cartoonito.mx" tvg-name="CARTOONITO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s26089_dark_360w_270h.png" group-title="Animación",CARTOONITO
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL115/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=115&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="Nick.mx" tvg-name="NICK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16707_dark_360w_270h.png" group-title="Animación",NICK
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL331/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=331&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="TeenNick.mx" tvg-name="TEENNICK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s77783_dark_360w_270h.png" group-title="Animación",TEENNICK
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2147/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=2147&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="Nickmusic.mx" tvg-name="NICKMUSIC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s90209_dark_360w_270h.png" group-title="Animación",NICKMUSIC
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1708/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=1708&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="NickJr.mx" tvg-name="NICK JR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s60295_dark_360w_270h.png" group-title="Animación",NICK JR
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL117/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=117&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-name="DISNEY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19234_dark_360w_270h.png" group-title="Animación",DISNEY CHANNEL
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=113&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="DisneyJunior.mx" tvg-name="DISNEY JR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s60506_dark_360w_270h.png" group-title="Animación",DISNEY JR
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL118/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=118&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryKids.mx" tvg-name="DISCOVERY KIDS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16680_dark_360w_270h.png" group-title="Animación",DISCOVERY KIDS
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=109&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="BabyTv.mx" tvg-name="BABY FIRST" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s56036_dark_360w_270h.png" group-title="Animación",BABY FIRST
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1984/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=1984&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="BabyTv.mx" tvg-name="BABY TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s56036_dark_360w_270h.png" group-title="Animación",BABY TV
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL116/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=116&f=HLS&f=.m3u8
 
 
 
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="Deportes",TUDN
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL174/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=174&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s72291_dark_360w_270h.png" group-title="Deportes",Claro Sports
 https://claro-jw.cdn.vustreams.com/live/channel05/live.isml/master.m3u8
 
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s72291_dark_360w_270h.png" group-title="Deportes",Claro Sports
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2564/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=2564&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="AyMSports.mx" tvg-name="AYM SPORTS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s34863_dark_360w_270h.png" group-title="Deportes",AYM SPORTS
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL180/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=180&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="PXSports.mx" tvg-name="PXSports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s72625_dark_360w_270h.png" group-title="Deportes",PXSports
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL950/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=950&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="TVCDeportes.mx" tvg-name="TVC DEPORTES" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s57580_dark_360w_270h.png" group-title="Deportes",TVC DEPORTES
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2157/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=2157&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="Deportes",ESPN
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL169/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=169&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="Deportes",ESPN 2
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL168/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=168&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="ESPNDeportes.mx" tvg-name="ESPN 3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s25595_dark_360w_270h.png" group-title="Deportes",ESPN 3
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL345/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=345&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports(English).mx" tvg-name="FOX SPORTS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s59307_dark_360w_270h.png" group-title="Deportes",FOX SPORTS
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL170/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=170&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="FOX SPORTS 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s71328_dark_360w_270h.png" group-title="Deportes",FOX SPORTS 2
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL172/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=172&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="FOX SPORTS 3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s47374_dark_360w_270h.png" group-title="Deportes",FOX SPORTS 3
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL178/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=178&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="AdrenalinaSportsNetwork.mx" tvg-name="ADRENALINA SPORTS HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s83162_dark_360w_270h.png" group-title="Deportes",ADRENALINA SPORTS HD
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2404/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=2404&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="TheGolfChannelLatinoamerica.mx" tvg-name="GOLF" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s61033_dark_360w_270h.png" group-title="Deportes",GOLF
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL179/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=179&f=HLS&f=.m3u8
 
 
 
 #EXTINF:-1 tvg-id="MilenioTV.mx" tvg-name="MILENIO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s61719_dark_360w_270h.png" group-title="Noticias",MILENIO
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1252/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=1252&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="FORO TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s66635_dark_360w_270h.png" group-title="Noticias",FORO TV
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL700/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=700&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="adn40.mx" tvg-name="ADN 40" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s15384_dark_360w_270h.png" group-title="Noticias",ADN 40
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL184/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=184&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="ExcelsiorTelevision.mx" tvg-name="EXCELSIOR TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s82353_dark_360w_270h.png" group-title="Noticias",EXCELSIOR TV
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1449/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=1449&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="CNN(English).mx" tvg-name="CNN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" group-title="Noticias",CNN
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL185/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=185&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="CNNEnEspanol.mx" tvg-name="CNN Ñ" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s17054_dark_360w_270h.png" group-title="Noticias",CNN Ñ
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL187/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=187&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="FoxNewsChannel.mx" tvg-name="FOX NEWS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s110959_dark_360w_270h.png" group-title="Noticias",FOX NEWS
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL188/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=188&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="Bloomberg.mx" tvg-name="BLOOMBERG" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s87311_dark_360w_270h.png" group-title="Noticias",BLOOMBERG
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL190/PROFILE05.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=190&f=HLS&f=.m3u8
 
 
 
