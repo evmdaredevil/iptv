@@ -1,4 +1,3 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9p17jc535ednxr5"
 #EXTINF:-1 tvg-id="AMAS.mx" tvg-name="A MÁS+" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116157_dark_360w_270h.png" group-title="TV Abierta",A MÁS+
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2278/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="TVAgro.co" tvg-name="AGROTENDENCIA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s63720_dark_360w_270h.png" group-title="TV Abierta",AGROTENDENCIA
