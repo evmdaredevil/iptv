@@ -1,24 +1,23 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/68m7n4p1g4a4vrvvn1ge"
+#EXTM3U 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
-#EXTINF:0 tvg-logo="https://comparaiso.mx/sites/comparaiso.mx/files/2022-12/Logo_Izzi.svg_.png" group-title="IZZI GO",CANAL IZZIhttps://live3-ott.izzigo.tv/out/u/dash/CANAL-IZZI-SD/default.mpd
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=YWNhNTAxNmYtNjE3Ny0zYzUyLTlhN2UtZWQwYzQxMjM0MTMy
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"B3vUNRjOcQh5dLzKuhC44w","kid":"Gi2Mw52m4a2d9pPsOSFs4A"}]}
 #EXTVLCOPT:http-referrer=Https://www.izzigo.tv/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="38" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxG9vVXzvTxc8RYCFD4hzbsqszeQhwOGCk2Q&usqp=CAU"  group-title="IZZI GO",CANAL IZZI SD
-https://live3-ott.izzigo.tv/out/u/dash/CANAL-IZZI-SD/default.mpd
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-user-agent="FireFox" 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q92YtSh/azteca-logo.png" tvg-group="MEXICO", AZTECA 1-1
+https://live4-ott.izzigo.tv/out/u/dash/AZTECA-1-HD/default.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=XDuQxaCQCFsps_XWndFQFQ:UYyu80o0oy_A1S6dgbTR3A
 #EXTVLCOPT:http-referrer=Https://www.izzigo.tv/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="38" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxG9vVXzvTxc8RYCFD4hzbsqszeQhwOGCk2Q&usqp=CAU"  group-title="IZZI GO",CANAL IZZI SD
-https://live3-ott.izzigo.tv/out/u/dash/CANAL-IZZI-SD/default.mpd
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-user-agent="FireFox" 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q92YtSh/azteca-logo.png" tvg-group="MEXICO", AZTECA 1-2
+https://live4-ott.izzigo.tv/out/u/dash/AZTECA-1-HD/default.mpd
