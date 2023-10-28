@@ -46,3 +46,8 @@ https://live1-ott.izzigo.tv/out/u/dash/ESPN-HD/dash/default.mpd|User-Agent="Mozi
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 tvg-id="43" tvg-logo="https://logo.iptveditor.com/cnnenespa%C3%B1ol.png"  group-title="NEWS WORLD",CNN EN ESPAÑOL
 https://live3-ott.izzigo.tv/out/u/dash/CNN-EN-ESPANOL-SD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=29852829d373dfb35df80c5fa1d9bff0:ceb31ec6a6d90090f490b54f524a27b4
+#EXTINF:-1 tvg-chno="811" tvg-id="TVGloboInternacionalAmericas.br" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_12/small.1638970388114.png.3a98a5e4086ccbf91d6d4c52cd06f3cf.png" group-title="Mundo", Globo Internacional
+https://live3-ott.izzigo.tv/out/u/dash/TV-GLOBO-SD/default.mpd
