@@ -75,3 +75,42 @@ https://live4-ott.izzigo.tv/out/u/dash/AZTECA-1-HD/default.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-chno="102" timeshift="https://live1-ott.izzigo.tv/out/u/dash/CANAL-2-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/486912-8c.png" group-title="TV NACIONAL",LAS ESTRELLAS 
 https://live1-ott.izzigo.tv/out/u/dash/CANAL-2-HD/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"B3vUNRjOcQh5dLzKuhC44w","kid":"Gi2Mw52m4a2d9pPsOSFs4A"}]}
+#EXTVLCOPT:http-referrer=Https://www.izzigo.tv/
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-user-agent="FireFox" 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q92YtSh/azteca-logo.png" tvg-group="MEXICO", AZTECA 11
+https://live4-ott.izzigo.tv/out/u/dash/AZTECA-1-HD/default.mpd
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrjzlignFKlJ4dGEtP4PT626XSjaP9CDUhaA&usqp=CAU",ESPN 2 MX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a49114957d155cacb2e027af14450b94:0fed6599a8740879a29f1a49ec6d482a
+https://live1-ott.izzigo.tv/out/u/dash/ESPN-2-HD/default.mpd
+
+#EXTINF:-1 tvg-id="espn-3.mx" tvg-logo="https://i.imgur.com/Nwk5HID.png", ESPN 3 🇲🇽 (Izzi)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"bz6FZCEiJZsJb8uld/Uymg","kid":"Hk//rgdjAT1ItGqLBj0Rpg"}],"type":"temporary"}
+https://live1-ott.izzigo.tv/out/u/dash/ESPN-3-HD/dash/default.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XBz4I65.png" group-title="No group" tvg-id="discoveryscience.us" tvg-name="discoveryscience.us", Discovery Science
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+https://live4-ott.izzigo.tv/out/u/dash/DISCOVERY-SCIENCE-HD/default.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+
+
+
+
+
+
+
+
